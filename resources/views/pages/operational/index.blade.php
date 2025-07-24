@@ -108,11 +108,11 @@
                 formData.append("volume_kargo", volume_kargo);
 
                 $.ajax({
-                    url: 'https://28ab00e60b60.ngrok-free.app/operational', // endpoint Flask
+                    url: 'https://28ab00e60b60.ngrok-free.app/operational', 
                     method: 'POST',
                     data: formData,
                     processData: false,
-                    contentType: false, // ⬅️ penting! biarkan browser tentukan Content-Type
+                    contentType: false, 
                     success: function (res) {
                         
                         alert("Resiko Delay:" + res.prediction + 

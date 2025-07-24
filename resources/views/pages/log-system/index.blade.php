@@ -105,7 +105,6 @@
                 formData.append("error_code", error_code);
                 formData.append("server_id", server_id);
 
-                // Kirim ke backend Flask misalnya http://127.0.0.1:5000/upload
                 $.ajax({
                     url: 'https://api-ml.testing-project.com/upload',
                     method: 'POST',

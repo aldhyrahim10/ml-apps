@@ -80,15 +80,14 @@
             formData.append('file', file);
 
             $.ajax({
-                url: 'https://api-ml.testing-project.com/deteksi', // ganti dengan URL Flask kamu
+                url: 'https://api-ml.testing-project.com/deteksi', 
                 type: 'POST',
                 data: formData,
                 processData: false,
                 contentType: false,
                 dataType: 'json',
                 success: function (res) {
-                    console.log(res); // Debug: pastikan array
-
+                    
                     if (!Array.isArray(res)) {
                         alert("Respons API tidak sesuai");
                         return;
