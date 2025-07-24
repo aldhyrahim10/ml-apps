@@ -1,0 +1,2001 @@
+ID,Tanggal,Pelabuhan,Cuaca,Shift Kerja,Permintaan Barang (Kontainer),ETA (jam),Ketersediaan Armada
+1,2025-07-07,Bitung,Badai,Siang,441,41.21,13
+2,2025-06-20,Tanjung Perak,Hujan Ringan,Pagi,783,39.59,97
+3,2025-07-05,Tanjung Priok,Badai,Siang,759,30.08,106
+4,2025-07-25,Tanjung Perak,Hujan Deras,Siang,915,22.7,55
+5,2025-06-27,Tanjung Perak,Badai,Pagi,149,33.0,132
+6,2025-07-17,Tanjung Perak,Badai,Malam,221,10.65,141
+7,2025-07-30,Bitung,Hujan Deras,Pagi,186,14.2,125
+8,2025-07-26,Tanjung Perak,Badai,Pagi,925,28.55,26
+9,2025-07-25,Belawan,Cerah,Pagi,130,43.3,123
+10,2025-06-21,Tanjung Priok,Berawan,Pagi,723,38.86,193
+11,2025-07-28,Bitung,Berawan,Malam,147,48.95,15
+12,2025-06-27,Belawan,Hujan Ringan,Malam,758,35.97,198
+13,2025-07-24,Tanjung Priok,Cerah,Siang,783,25.32,168
+14,2025-07-14,Makassar,Berawan,Malam,737,17.06,161
+15,2025-06-02,Makassar,Hujan Ringan,Malam,358,22.38,147
+16,2025-07-07,Makassar,Hujan Ringan,Malam,740,37.51,132
+17,2025-06-26,Makassar,Hujan Ringan,Pagi,915,45.89,79
+18,2025-07-07,Belawan,Cerah,Pagi,397,27.22,106
+19,2025-06-25,Belawan,Hujan Ringan,Pagi,218,11.14,85
+20,2025-07-21,Makassar,Hujan Ringan,Malam,729,30.65,136
+21,2025-06-15,Tanjung Priok,Hujan Deras,Pagi,341,40.29,61
+22,2025-06-17,Makassar,Berawan,Malam,604,25.89,50
+23,2025-06-12,Tanjung Priok,Berawan,Malam,236,15.08,15
+24,2025-06-07,Tanjung Perak,Hujan Deras,Pagi,896,19.13,27
+25,2025-06-04,Tanjung Perak,Hujan Ringan,Pagi,327,32.71,111
+26,2025-07-30,Belawan,Hujan Ringan,Malam,260,22.42,161
+27,2025-06-15,Tanjung Priok,Hujan Deras,Malam,862,10.16,59
+28,2025-06-03,Belawan,Badai,Malam,663,30.35,123
+29,2025-06-05,Tanjung Priok,Badai,Pagi,160,30.8,39
+30,2025-07-22,Makassar,Badai,Malam,738,17.82,138
+31,2025-06-15,Belawan,Hujan Deras,Malam,416,48.4,16
+32,2025-06-11,Tanjung Perak,Hujan Deras,Pagi,810,47.59,117
+33,2025-07-20,Tanjung Perak,Hujan Ringan,Siang,172,34.43,74
+34,2025-06-18,Makassar,Hujan Deras,Siang,904,40.27,30
+35,2025-06-09,Tanjung Priok,Badai,Siang,336,38.98,176
+36,2025-06-12,Makassar,Cerah,Pagi,877,37.23,148
+37,2025-07-23,Bitung,Hujan Ringan,Siang,798,29.06,18
+38,2025-06-05,Tanjung Perak,Berawan,Siang,287,26.45,122
+39,2025-07-09,Belawan,Hujan Deras,Pagi,168,31.25,119
+40,2025-06-18,Makassar,Cerah,Pagi,243,22.4,107
+41,2025-06-05,Bitung,Badai,Pagi,484,34.81,183
+42,2025-07-03,Bitung,Hujan Deras,Pagi,883,45.32,81
+43,2025-07-30,Makassar,Cerah,Pagi,605,46.79,26
+44,2025-06-11,Belawan,Hujan Ringan,Malam,315,32.84,54
+45,2025-07-13,Bitung,Hujan Deras,Malam,594,36.17,190
+46,2025-07-26,Tanjung Perak,Badai,Pagi,745,32.73,22
+47,2025-06-09,Belawan,Cerah,Malam,864,31.77,93
+48,2025-06-19,Tanjung Priok,Cerah,Siang,577,27.58,16
+49,2025-06-05,Tanjung Priok,Badai,Pagi,389,49.96,100
+50,2025-06-23,Bitung,Hujan Ringan,Pagi,296,43.11,54
+51,2025-07-18,Bitung,Cerah,Pagi,691,17.7,26
+52,2025-06-22,Belawan,Cerah,Siang,690,11.04,51
+53,2025-07-17,Belawan,Badai,Pagi,952,39.72,153
+54,2025-07-29,Makassar,Badai,Pagi,598,45.62,63
+55,2025-06-22,Tanjung Priok,Cerah,Siang,656,32.37,169
+56,2025-06-30,Makassar,Hujan Ringan,Siang,469,13.64,121
+57,2025-06-27,Belawan,Badai,Siang,330,40.61,23
+58,2025-06-14,Bitung,Cerah,Siang,975,47.15,196
+59,2025-07-20,Tanjung Perak,Hujan Deras,Pagi,835,41.35,137
+60,2025-07-23,Makassar,Cerah,Siang,466,13.83,166
+61,2025-07-05,Tanjung Perak,Badai,Pagi,337,10.09,102
+62,2025-06-24,Belawan,Berawan,Pagi,247,15.62,179
+63,2025-07-24,Bitung,Cerah,Siang,285,14.35,107
+64,2025-06-12,Tanjung Perak,Berawan,Siang,852,27.64,172
+65,2025-07-29,Tanjung Priok,Berawan,Pagi,135,18.91,75
+66,2025-07-19,Makassar,Hujan Ringan,Siang,992,48.39,72
+67,2025-07-30,Tanjung Priok,Cerah,Pagi,701,33.7,10
+68,2025-06-12,Tanjung Priok,Berawan,Malam,415,35.67,48
+69,2025-06-24,Belawan,Cerah,Pagi,840,30.73,21
+70,2025-07-16,Makassar,Badai,Pagi,444,26.4,180
+71,2025-07-22,Tanjung Perak,Badai,Siang,625,41.48,38
+72,2025-07-23,Tanjung Priok,Cerah,Malam,550,30.05,144
+73,2025-07-03,Tanjung Perak,Cerah,Malam,163,36.89,53
+74,2025-06-26,Makassar,Cerah,Malam,752,22.74,54
+75,2025-06-25,Bitung,Berawan,Siang,121,36.96,163
+76,2025-07-03,Tanjung Priok,Cerah,Pagi,999,15.24,138
+77,2025-06-09,Makassar,Berawan,Malam,537,38.57,88
+78,2025-07-14,Belawan,Hujan Deras,Siang,211,37.05,23
+79,2025-06-14,Bitung,Badai,Siang,762,34.58,13
+80,2025-06-19,Makassar,Hujan Ringan,Siang,470,49.53,17
+81,2025-06-22,Bitung,Cerah,Siang,433,22.98,189
+82,2025-06-18,Bitung,Hujan Deras,Pagi,972,32.65,13
+83,2025-06-04,Tanjung Priok,Hujan Deras,Pagi,459,21.38,157
+84,2025-06-11,Tanjung Perak,Badai,Pagi,348,43.99,113
+85,2025-07-08,Belawan,Badai,Malam,167,37.78,79
+86,2025-07-12,Tanjung Perak,Hujan Deras,Siang,661,45.52,94
+87,2025-06-24,Tanjung Perak,Berawan,Pagi,395,32.62,147
+88,2025-06-30,Belawan,Hujan Deras,Malam,915,44.77,149
+89,2025-06-06,Belawan,Berawan,Pagi,406,23.33,40
+90,2025-07-09,Makassar,Cerah,Pagi,341,29.09,171
+91,2025-07-05,Tanjung Perak,Hujan Deras,Pagi,745,49.19,38
+92,2025-07-29,Tanjung Perak,Hujan Deras,Pagi,506,40.21,147
+93,2025-06-25,Tanjung Perak,Badai,Pagi,520,40.04,114
+94,2025-06-30,Tanjung Perak,Berawan,Siang,827,27.41,108
+95,2025-06-07,Makassar,Berawan,Pagi,339,47.24,38
+96,2025-06-12,Belawan,Berawan,Malam,771,32.58,188
+97,2025-07-24,Makassar,Hujan Deras,Siang,205,13.18,132
+98,2025-07-01,Tanjung Priok,Hujan Deras,Pagi,311,45.3,188
+99,2025-06-02,Bitung,Berawan,Siang,441,32.46,50
+100,2025-07-10,Tanjung Perak,Hujan Deras,Siang,787,37.6,168
+101,2025-06-30,Makassar,Hujan Ringan,Malam,525,35.11,109
+102,2025-07-08,Makassar,Hujan Deras,Pagi,914,11.11,171
+103,2025-07-23,Tanjung Priok,Hujan Deras,Malam,155,14.36,35
+104,2025-06-27,Tanjung Priok,Cerah,Pagi,608,39.29,107
+105,2025-07-28,Tanjung Priok,Hujan Deras,Pagi,777,18.73,140
+106,2025-06-09,Belawan,Berawan,Malam,803,20.89,159
+107,2025-07-18,Belawan,Cerah,Malam,973,16.22,33
+108,2025-07-15,Bitung,Badai,Pagi,315,15.5,73
+109,2025-06-17,Tanjung Priok,Badai,Malam,837,13.81,86
+110,2025-06-12,Makassar,Cerah,Pagi,618,30.45,173
+111,2025-06-20,Belawan,Berawan,Malam,240,45.64,122
+112,2025-07-05,Makassar,Hujan Ringan,Malam,235,32.11,156
+113,2025-06-20,Tanjung Priok,Hujan Ringan,Siang,401,35.42,149
+114,2025-06-02,Belawan,Hujan Ringan,Pagi,293,28.35,81
+115,2025-06-16,Belawan,Badai,Siang,393,14.05,114
+116,2025-07-18,Tanjung Perak,Hujan Deras,Siang,559,40.41,51
+117,2025-07-02,Tanjung Priok,Hujan Deras,Pagi,350,33.41,177
+118,2025-06-09,Bitung,Hujan Ringan,Siang,759,33.52,53
+119,2025-06-14,Tanjung Priok,Hujan Ringan,Pagi,986,17.34,138
+120,2025-07-16,Makassar,Hujan Deras,Siang,695,38.52,115
+121,2025-07-26,Tanjung Priok,Badai,Pagi,475,36.07,173
+122,2025-06-14,Makassar,Hujan Ringan,Pagi,978,45.77,153
+123,2025-06-30,Tanjung Priok,Badai,Siang,478,16.22,17
+124,2025-06-12,Tanjung Priok,Berawan,Siang,569,45.28,124
+125,2025-06-06,Tanjung Priok,Cerah,Malam,461,11.19,84
+126,2025-07-14,Bitung,Badai,Siang,693,12.47,10
+127,2025-07-08,Tanjung Perak,Cerah,Pagi,653,43.12,21
+128,2025-07-02,Makassar,Hujan Deras,Siang,996,37.9,198
+129,2025-07-02,Belawan,Badai,Pagi,849,12.54,74
+130,2025-07-17,Belawan,Hujan Deras,Siang,719,38.12,37
+131,2025-07-22,Tanjung Perak,Berawan,Siang,534,11.98,89
+132,2025-07-21,Belawan,Berawan,Malam,274,27.68,100
+133,2025-07-06,Tanjung Priok,Cerah,Malam,879,26.06,178
+134,2025-07-21,Bitung,Hujan Deras,Siang,277,47.49,15
+135,2025-06-16,Tanjung Perak,Badai,Pagi,733,18.55,90
+136,2025-06-17,Bitung,Cerah,Pagi,949,48.0,140
+137,2025-07-22,Makassar,Berawan,Malam,205,29.72,167
+138,2025-07-14,Makassar,Cerah,Siang,678,25.61,153
+139,2025-06-14,Tanjung Priok,Badai,Siang,225,33.48,61
+140,2025-06-20,Tanjung Priok,Berawan,Malam,543,32.7,88
+141,2025-07-13,Makassar,Berawan,Siang,794,28.06,167
+142,2025-07-23,Tanjung Perak,Berawan,Pagi,991,43.89,125
+143,2025-07-25,Makassar,Cerah,Pagi,598,42.27,134
+144,2025-06-23,Belawan,Badai,Malam,947,30.46,125
+145,2025-06-16,Tanjung Priok,Hujan Ringan,Siang,836,13.24,80
+146,2025-07-07,Bitung,Berawan,Pagi,567,35.55,195
+147,2025-06-11,Tanjung Perak,Hujan Deras,Malam,442,24.85,131
+148,2025-07-30,Makassar,Berawan,Malam,790,33.97,27
+149,2025-07-12,Bitung,Hujan Deras,Siang,598,35.58,49
+150,2025-06-17,Belawan,Berawan,Malam,100,10.9,180
+151,2025-07-06,Makassar,Badai,Pagi,907,24.45,114
+152,2025-07-15,Makassar,Cerah,Malam,880,33.43,22
+153,2025-07-08,Tanjung Perak,Hujan Deras,Malam,529,14.03,118
+154,2025-06-04,Belawan,Hujan Ringan,Siang,814,23.64,183
+155,2025-06-29,Tanjung Perak,Berawan,Pagi,475,37.81,48
+156,2025-06-08,Tanjung Perak,Berawan,Siang,104,22.99,117
+157,2025-06-01,Tanjung Priok,Cerah,Pagi,509,34.87,30
+158,2025-06-09,Makassar,Berawan,Siang,395,33.04,23
+159,2025-06-19,Tanjung Perak,Hujan Ringan,Pagi,521,13.33,122
+160,2025-07-08,Makassar,Hujan Deras,Malam,197,28.9,86
+161,2025-07-25,Makassar,Hujan Deras,Siang,188,22.49,117
+162,2025-06-11,Bitung,Berawan,Malam,298,43.74,134
+163,2025-07-03,Belawan,Berawan,Malam,800,27.76,131
+164,2025-07-24,Bitung,Cerah,Malam,846,46.55,55
+165,2025-06-23,Tanjung Priok,Hujan Ringan,Siang,237,33.35,158
+166,2025-07-18,Belawan,Badai,Pagi,619,47.28,26
+167,2025-07-11,Bitung,Hujan Deras,Malam,546,10.83,75
+168,2025-06-13,Belawan,Berawan,Siang,908,12.42,37
+169,2025-07-15,Tanjung Priok,Hujan Ringan,Siang,272,45.12,40
+170,2025-07-10,Tanjung Priok,Cerah,Pagi,157,22.53,190
+171,2025-06-24,Tanjung Perak,Hujan Deras,Malam,615,37.49,163
+172,2025-06-08,Bitung,Badai,Siang,382,12.29,47
+173,2025-06-07,Tanjung Priok,Cerah,Pagi,157,10.89,152
+174,2025-06-26,Tanjung Perak,Hujan Deras,Malam,403,16.73,158
+175,2025-07-22,Belawan,Hujan Ringan,Siang,925,46.15,18
+176,2025-06-20,Bitung,Berawan,Pagi,940,15.01,157
+177,2025-06-07,Tanjung Perak,Hujan Deras,Pagi,783,23.54,100
+178,2025-07-03,Bitung,Hujan Ringan,Siang,289,44.71,173
+179,2025-06-24,Makassar,Hujan Ringan,Malam,938,36.38,198
+180,2025-07-11,Tanjung Priok,Badai,Malam,873,26.96,124
+181,2025-06-25,Belawan,Badai,Malam,568,15.34,75
+182,2025-06-08,Belawan,Hujan Ringan,Malam,390,21.1,18
+183,2025-07-14,Tanjung Priok,Hujan Ringan,Pagi,485,12.21,35
+184,2025-07-14,Belawan,Hujan Deras,Malam,431,11.4,48
+185,2025-07-11,Tanjung Perak,Hujan Deras,Pagi,905,42.1,48
+186,2025-07-13,Belawan,Hujan Deras,Siang,567,32.06,153
+187,2025-07-20,Belawan,Berawan,Siang,326,15.39,76
+188,2025-07-22,Tanjung Perak,Hujan Ringan,Malam,763,42.77,55
+189,2025-07-07,Makassar,Hujan Ringan,Siang,267,15.6,181
+190,2025-06-11,Bitung,Hujan Ringan,Siang,346,32.24,187
+191,2025-07-13,Tanjung Perak,Berawan,Pagi,810,41.52,117
+192,2025-06-13,Bitung,Hujan Ringan,Pagi,158,37.77,138
+193,2025-06-22,Makassar,Hujan Deras,Siang,879,19.6,63
+194,2025-06-19,Tanjung Priok,Berawan,Malam,451,40.45,30
+195,2025-07-03,Tanjung Priok,Cerah,Pagi,852,25.15,98
+196,2025-07-01,Tanjung Perak,Berawan,Pagi,916,33.9,97
+197,2025-07-04,Tanjung Perak,Hujan Ringan,Pagi,523,34.89,67
+198,2025-07-03,Bitung,Badai,Siang,358,48.18,105
+199,2025-07-23,Tanjung Priok,Berawan,Malam,883,32.55,53
+200,2025-06-25,Bitung,Hujan Ringan,Siang,462,23.15,179
+201,2025-07-08,Makassar,Hujan Ringan,Malam,432,29.3,158
+202,2025-06-08,Bitung,Badai,Siang,716,24.72,87
+203,2025-07-22,Belawan,Cerah,Malam,262,28.52,186
+204,2025-06-08,Tanjung Perak,Badai,Pagi,210,10.44,131
+205,2025-06-08,Tanjung Priok,Berawan,Malam,696,37.75,124
+206,2025-06-17,Belawan,Berawan,Pagi,608,49.16,88
+207,2025-07-25,Tanjung Perak,Hujan Ringan,Malam,652,42.93,11
+208,2025-06-11,Bitung,Hujan Deras,Pagi,684,48.48,144
+209,2025-06-04,Tanjung Priok,Badai,Malam,934,47.9,47
+210,2025-06-07,Makassar,Berawan,Siang,816,16.03,168
+211,2025-07-26,Tanjung Priok,Berawan,Pagi,552,36.87,30
+212,2025-07-03,Tanjung Perak,Hujan Ringan,Siang,622,35.3,83
+213,2025-06-05,Belawan,Hujan Deras,Siang,432,31.18,187
+214,2025-07-07,Tanjung Priok,Badai,Pagi,775,30.72,148
+215,2025-07-28,Belawan,Hujan Ringan,Malam,758,23.18,177
+216,2025-06-04,Bitung,Badai,Siang,721,32.36,99
+217,2025-06-23,Bitung,Badai,Malam,625,10.31,71
+218,2025-07-15,Tanjung Perak,Hujan Ringan,Pagi,860,12.61,50
+219,2025-07-11,Makassar,Cerah,Siang,743,22.67,176
+220,2025-06-30,Tanjung Priok,Badai,Pagi,369,24.36,118
+221,2025-06-22,Tanjung Perak,Hujan Ringan,Siang,287,26.52,15
+222,2025-06-15,Bitung,Hujan Ringan,Pagi,844,18.62,163
+223,2025-07-06,Tanjung Perak,Hujan Ringan,Pagi,335,37.21,143
+224,2025-07-15,Makassar,Berawan,Malam,151,17.23,121
+225,2025-07-02,Makassar,Berawan,Pagi,730,36.97,106
+226,2025-07-26,Belawan,Hujan Ringan,Pagi,173,40.46,116
+227,2025-07-24,Tanjung Perak,Hujan Ringan,Siang,460,10.11,92
+228,2025-06-08,Bitung,Hujan Ringan,Siang,215,26.95,117
+229,2025-07-30,Belawan,Cerah,Siang,535,23.96,21
+230,2025-06-02,Makassar,Hujan Ringan,Pagi,830,10.41,196
+231,2025-06-16,Makassar,Badai,Siang,793,24.39,151
+232,2025-07-08,Tanjung Priok,Hujan Ringan,Siang,291,24.77,199
+233,2025-07-06,Makassar,Berawan,Pagi,745,24.7,108
+234,2025-06-19,Tanjung Perak,Berawan,Siang,209,28.2,84
+235,2025-06-20,Tanjung Perak,Hujan Ringan,Pagi,467,44.81,106
+236,2025-06-14,Makassar,Cerah,Pagi,593,43.13,190
+237,2025-07-30,Bitung,Hujan Ringan,Pagi,877,16.7,71
+238,2025-06-19,Tanjung Priok,Hujan Deras,Siang,926,25.33,94
+239,2025-07-05,Tanjung Priok,Cerah,Siang,244,17.19,35
+240,2025-06-06,Makassar,Berawan,Pagi,494,40.99,179
+241,2025-07-26,Makassar,Berawan,Malam,720,28.84,76
+242,2025-07-25,Belawan,Cerah,Malam,652,15.35,130
+243,2025-06-24,Belawan,Badai,Siang,716,32.76,10
+244,2025-06-20,Belawan,Hujan Deras,Siang,769,15.57,37
+245,2025-06-12,Bitung,Berawan,Malam,128,44.92,58
+246,2025-06-01,Belawan,Hujan Deras,Pagi,995,13.8,58
+247,2025-06-29,Bitung,Hujan Deras,Malam,118,17.31,75
+248,2025-07-30,Belawan,Badai,Pagi,398,49.8,181
+249,2025-07-04,Makassar,Hujan Ringan,Pagi,766,40.07,126
+250,2025-07-12,Makassar,Hujan Ringan,Pagi,478,24.62,10
+251,2025-07-29,Belawan,Badai,Siang,472,47.09,197
+252,2025-07-18,Tanjung Priok,Cerah,Siang,645,47.75,136
+253,2025-06-14,Tanjung Perak,Hujan Ringan,Malam,826,21.09,178
+254,2025-07-26,Belawan,Cerah,Siang,837,37.26,55
+255,2025-06-21,Tanjung Perak,Berawan,Malam,815,32.31,197
+256,2025-06-15,Bitung,Berawan,Siang,318,43.89,108
+257,2025-07-01,Bitung,Hujan Ringan,Pagi,891,37.94,27
+258,2025-06-02,Tanjung Perak,Hujan Deras,Siang,606,14.45,97
+259,2025-06-02,Tanjung Perak,Badai,Pagi,598,20.91,15
+260,2025-06-27,Bitung,Hujan Ringan,Pagi,197,34.82,143
+261,2025-07-27,Tanjung Perak,Hujan Ringan,Pagi,631,11.53,115
+262,2025-07-29,Makassar,Berawan,Pagi,838,41.42,90
+263,2025-07-08,Bitung,Badai,Siang,166,24.52,156
+264,2025-07-08,Bitung,Hujan Deras,Siang,769,14.16,69
+265,2025-07-08,Makassar,Hujan Deras,Pagi,992,20.44,140
+266,2025-06-23,Belawan,Hujan Deras,Pagi,477,36.21,69
+267,2025-07-29,Tanjung Perak,Hujan Deras,Siang,791,10.7,177
+268,2025-06-10,Tanjung Priok,Hujan Ringan,Pagi,892,20.27,177
+269,2025-07-12,Belawan,Berawan,Malam,605,41.07,193
+270,2025-07-16,Makassar,Badai,Siang,431,42.88,141
+271,2025-07-05,Belawan,Hujan Deras,Siang,878,21.54,59
+272,2025-06-22,Makassar,Hujan Ringan,Siang,428,26.89,84
+273,2025-07-13,Tanjung Perak,Hujan Ringan,Malam,635,31.66,81
+274,2025-07-25,Belawan,Hujan Deras,Siang,953,32.62,81
+275,2025-07-19,Makassar,Berawan,Malam,295,49.41,11
+276,2025-06-09,Belawan,Berawan,Siang,816,33.39,48
+277,2025-06-03,Tanjung Priok,Cerah,Malam,387,38.69,23
+278,2025-06-13,Makassar,Badai,Siang,600,33.68,200
+279,2025-06-12,Bitung,Badai,Malam,137,48.21,164
+280,2025-07-14,Tanjung Priok,Badai,Siang,342,24.22,147
+281,2025-06-11,Bitung,Berawan,Malam,207,23.26,188
+282,2025-06-15,Bitung,Cerah,Siang,117,16.08,158
+283,2025-07-26,Belawan,Hujan Ringan,Siang,120,40.17,112
+284,2025-07-21,Tanjung Perak,Hujan Ringan,Malam,154,30.07,71
+285,2025-07-09,Tanjung Perak,Cerah,Siang,973,41.11,113
+286,2025-07-14,Tanjung Priok,Berawan,Pagi,183,12.43,11
+287,2025-07-26,Tanjung Perak,Hujan Deras,Malam,391,41.58,103
+288,2025-06-21,Belawan,Berawan,Siang,627,43.71,150
+289,2025-07-15,Belawan,Badai,Siang,356,19.17,157
+290,2025-06-21,Tanjung Priok,Badai,Malam,622,24.66,97
+291,2025-07-17,Bitung,Berawan,Siang,622,26.1,75
+292,2025-06-02,Tanjung Perak,Hujan Deras,Pagi,992,11.33,147
+293,2025-07-27,Belawan,Berawan,Malam,721,22.25,60
+294,2025-07-06,Belawan,Berawan,Malam,1000,31.82,180
+295,2025-07-02,Tanjung Perak,Hujan Deras,Malam,805,39.0,100
+296,2025-07-16,Bitung,Badai,Pagi,599,21.5,75
+297,2025-07-13,Tanjung Priok,Hujan Deras,Pagi,329,17.0,77
+298,2025-07-30,Makassar,Berawan,Pagi,212,41.09,13
+299,2025-07-13,Makassar,Hujan Ringan,Siang,237,36.27,139
+300,2025-06-25,Tanjung Perak,Cerah,Malam,962,13.63,150
+301,2025-07-10,Tanjung Perak,Badai,Pagi,920,26.03,76
+302,2025-06-04,Makassar,Hujan Deras,Malam,826,30.23,110
+303,2025-07-11,Tanjung Perak,Hujan Ringan,Malam,705,34.38,194
+304,2025-07-06,Makassar,Hujan Ringan,Pagi,558,39.3,135
+305,2025-06-19,Bitung,Badai,Siang,368,20.75,197
+306,2025-06-28,Tanjung Priok,Badai,Pagi,915,35.71,53
+307,2025-07-28,Tanjung Perak,Berawan,Pagi,467,26.27,11
+308,2025-07-02,Makassar,Cerah,Pagi,487,45.01,148
+309,2025-06-11,Bitung,Badai,Malam,680,14.98,36
+310,2025-06-25,Tanjung Perak,Badai,Siang,203,13.12,74
+311,2025-06-26,Makassar,Hujan Deras,Malam,383,43.22,172
+312,2025-06-24,Tanjung Perak,Hujan Deras,Malam,752,31.03,79
+313,2025-06-30,Tanjung Perak,Hujan Ringan,Siang,511,28.01,36
+314,2025-07-05,Bitung,Hujan Ringan,Pagi,932,32.39,108
+315,2025-07-06,Makassar,Badai,Pagi,781,12.32,26
+316,2025-06-20,Belawan,Cerah,Siang,527,28.28,194
+317,2025-07-14,Makassar,Cerah,Siang,224,43.5,142
+318,2025-07-18,Bitung,Hujan Ringan,Pagi,685,15.25,90
+319,2025-06-25,Makassar,Cerah,Siang,662,19.93,26
+320,2025-07-08,Tanjung Priok,Cerah,Siang,351,25.11,172
+321,2025-07-12,Tanjung Perak,Cerah,Malam,982,26.66,195
+322,2025-06-16,Tanjung Perak,Hujan Ringan,Malam,930,23.17,37
+323,2025-06-11,Bitung,Hujan Ringan,Pagi,101,18.04,66
+324,2025-06-06,Bitung,Badai,Siang,966,16.32,127
+325,2025-06-29,Bitung,Cerah,Pagi,417,10.69,66
+326,2025-07-21,Tanjung Perak,Cerah,Siang,522,13.56,19
+327,2025-06-11,Tanjung Priok,Berawan,Pagi,561,34.7,62
+328,2025-06-13,Belawan,Berawan,Malam,757,41.44,89
+329,2025-07-10,Tanjung Priok,Hujan Deras,Siang,656,38.9,70
+330,2025-07-30,Tanjung Perak,Hujan Deras,Pagi,358,39.41,150
+331,2025-06-30,Belawan,Badai,Pagi,210,27.88,197
+332,2025-07-18,Belawan,Hujan Deras,Malam,661,34.95,32
+333,2025-07-20,Belawan,Cerah,Pagi,577,44.14,179
+334,2025-06-13,Tanjung Priok,Berawan,Pagi,509,16.65,25
+335,2025-07-17,Makassar,Berawan,Pagi,413,46.6,44
+336,2025-06-11,Tanjung Perak,Hujan Ringan,Malam,110,48.45,188
+337,2025-06-18,Tanjung Perak,Badai,Siang,655,35.34,42
+338,2025-06-19,Tanjung Priok,Badai,Siang,686,45.72,87
+339,2025-06-10,Bitung,Hujan Ringan,Siang,125,44.32,104
+340,2025-06-26,Tanjung Perak,Cerah,Malam,228,25.37,21
+341,2025-07-28,Belawan,Hujan Ringan,Siang,724,13.63,171
+342,2025-06-06,Tanjung Perak,Badai,Pagi,456,10.94,26
+343,2025-06-18,Makassar,Badai,Pagi,223,14.42,131
+344,2025-07-27,Bitung,Berawan,Pagi,330,27.7,158
+345,2025-07-22,Makassar,Berawan,Pagi,304,20.95,152
+346,2025-07-23,Tanjung Priok,Cerah,Siang,118,46.35,174
+347,2025-07-21,Belawan,Berawan,Malam,909,46.19,194
+348,2025-06-05,Tanjung Priok,Hujan Ringan,Siang,639,23.65,115
+349,2025-07-15,Tanjung Perak,Cerah,Malam,489,13.6,137
+350,2025-06-23,Bitung,Badai,Siang,734,12.82,137
+351,2025-07-15,Bitung,Berawan,Siang,117,21.53,143
+352,2025-06-22,Belawan,Cerah,Malam,825,26.1,42
+353,2025-06-25,Belawan,Hujan Ringan,Malam,712,42.61,70
+354,2025-06-09,Tanjung Priok,Berawan,Siang,804,40.14,30
+355,2025-06-06,Tanjung Priok,Cerah,Malam,394,30.34,13
+356,2025-06-26,Tanjung Perak,Berawan,Pagi,947,18.26,194
+357,2025-06-16,Makassar,Berawan,Pagi,583,12.75,33
+358,2025-06-18,Belawan,Hujan Deras,Pagi,230,49.67,137
+359,2025-07-18,Belawan,Cerah,Siang,203,44.73,33
+360,2025-07-08,Tanjung Perak,Berawan,Siang,789,27.66,115
+361,2025-07-25,Belawan,Berawan,Siang,280,39.59,109
+362,2025-06-05,Belawan,Hujan Ringan,Siang,272,10.58,35
+363,2025-07-24,Tanjung Perak,Hujan Ringan,Malam,792,42.36,175
+364,2025-07-28,Tanjung Perak,Cerah,Malam,162,14.99,170
+365,2025-06-27,Tanjung Perak,Hujan Deras,Siang,129,22.61,198
+366,2025-06-27,Makassar,Badai,Siang,374,32.58,17
+367,2025-07-20,Makassar,Badai,Malam,842,19.89,60
+368,2025-07-16,Tanjung Perak,Berawan,Siang,791,14.32,72
+369,2025-06-25,Tanjung Priok,Hujan Ringan,Malam,720,47.43,197
+370,2025-07-14,Belawan,Badai,Pagi,425,32.26,102
+371,2025-07-04,Tanjung Perak,Badai,Pagi,748,27.22,112
+372,2025-07-01,Tanjung Perak,Hujan Deras,Siang,135,14.42,192
+373,2025-06-18,Tanjung Priok,Cerah,Pagi,952,26.8,31
+374,2025-06-06,Bitung,Hujan Ringan,Siang,489,13.86,167
+375,2025-06-17,Makassar,Cerah,Siang,756,20.46,11
+376,2025-06-19,Belawan,Berawan,Pagi,144,26.04,76
+377,2025-07-22,Makassar,Hujan Ringan,Siang,792,37.78,106
+378,2025-07-22,Belawan,Badai,Malam,770,21.75,186
+379,2025-06-01,Belawan,Badai,Siang,646,24.62,188
+380,2025-07-14,Tanjung Perak,Hujan Deras,Pagi,624,14.24,139
+381,2025-06-07,Tanjung Priok,Hujan Deras,Malam,666,40.62,86
+382,2025-07-01,Bitung,Berawan,Pagi,948,26.38,119
+383,2025-06-14,Belawan,Cerah,Pagi,859,24.86,68
+384,2025-07-12,Makassar,Berawan,Pagi,663,30.51,11
+385,2025-07-27,Bitung,Hujan Ringan,Siang,701,41.41,82
+386,2025-06-08,Tanjung Perak,Berawan,Malam,205,38.1,63
+387,2025-06-22,Makassar,Hujan Ringan,Siang,945,39.67,76
+388,2025-06-20,Tanjung Perak,Hujan Deras,Malam,720,18.74,127
+389,2025-07-22,Belawan,Hujan Deras,Malam,323,14.68,46
+390,2025-07-24,Belawan,Berawan,Siang,540,10.83,82
+391,2025-07-07,Makassar,Hujan Ringan,Siang,480,11.55,152
+392,2025-06-04,Belawan,Cerah,Malam,497,40.61,101
+393,2025-06-14,Tanjung Perak,Cerah,Malam,532,39.1,14
+394,2025-06-14,Tanjung Perak,Badai,Siang,977,29.55,96
+395,2025-06-11,Makassar,Hujan Deras,Siang,782,44.25,146
+396,2025-06-26,Tanjung Priok,Cerah,Malam,337,32.18,11
+397,2025-07-18,Makassar,Hujan Deras,Siang,226,11.17,102
+398,2025-06-03,Tanjung Perak,Berawan,Malam,512,26.52,83
+399,2025-07-07,Makassar,Hujan Deras,Pagi,379,14.51,182
+400,2025-07-26,Makassar,Hujan Deras,Siang,928,48.17,170
+401,2025-06-17,Bitung,Cerah,Siang,496,47.46,101
+402,2025-07-23,Bitung,Cerah,Pagi,369,29.95,126
+403,2025-06-09,Belawan,Berawan,Siang,984,42.25,60
+404,2025-06-24,Tanjung Priok,Hujan Ringan,Pagi,948,15.26,58
+405,2025-07-26,Tanjung Perak,Hujan Ringan,Malam,486,12.94,28
+406,2025-07-17,Makassar,Badai,Siang,519,44.11,199
+407,2025-07-20,Tanjung Priok,Berawan,Siang,227,17.36,117
+408,2025-07-07,Makassar,Berawan,Siang,674,18.7,167
+409,2025-06-10,Belawan,Berawan,Malam,424,40.35,91
+410,2025-07-12,Tanjung Priok,Hujan Ringan,Pagi,459,19.05,117
+411,2025-06-23,Bitung,Hujan Ringan,Malam,661,25.12,50
+412,2025-06-04,Makassar,Hujan Ringan,Malam,757,34.94,85
+413,2025-07-27,Tanjung Perak,Cerah,Siang,368,43.57,52
+414,2025-06-18,Tanjung Perak,Cerah,Siang,946,47.28,146
+415,2025-06-29,Tanjung Perak,Hujan Ringan,Pagi,621,18.6,14
+416,2025-06-20,Makassar,Hujan Ringan,Malam,980,11.54,117
+417,2025-07-04,Tanjung Perak,Cerah,Siang,677,47.23,86
+418,2025-06-05,Tanjung Perak,Badai,Malam,439,23.14,161
+419,2025-07-19,Bitung,Badai,Pagi,397,17.11,189
+420,2025-07-08,Tanjung Perak,Berawan,Pagi,803,20.65,92
+421,2025-06-04,Tanjung Priok,Badai,Malam,245,32.32,124
+422,2025-06-20,Bitung,Berawan,Siang,225,22.9,72
+423,2025-06-18,Belawan,Hujan Ringan,Pagi,440,15.8,145
+424,2025-06-25,Bitung,Berawan,Malam,636,26.43,76
+425,2025-07-26,Makassar,Hujan Deras,Siang,909,11.39,54
+426,2025-07-28,Makassar,Badai,Siang,143,49.31,99
+427,2025-06-10,Belawan,Badai,Siang,631,42.31,180
+428,2025-07-08,Belawan,Hujan Deras,Malam,382,13.67,153
+429,2025-07-08,Tanjung Perak,Cerah,Pagi,232,34.45,67
+430,2025-07-08,Belawan,Hujan Deras,Pagi,275,15.6,43
+431,2025-07-15,Tanjung Priok,Berawan,Malam,296,33.27,87
+432,2025-07-21,Belawan,Hujan Deras,Siang,448,12.24,199
+433,2025-06-22,Makassar,Hujan Deras,Malam,680,35.05,90
+434,2025-07-26,Tanjung Perak,Hujan Ringan,Siang,425,42.87,60
+435,2025-06-17,Bitung,Badai,Siang,589,41.34,66
+436,2025-06-23,Tanjung Priok,Badai,Pagi,786,17.72,84
+437,2025-07-10,Belawan,Hujan Ringan,Pagi,512,22.64,151
+438,2025-06-17,Tanjung Perak,Cerah,Siang,821,34.91,111
+439,2025-07-27,Bitung,Hujan Ringan,Malam,643,38.98,78
+440,2025-06-06,Makassar,Badai,Siang,418,48.99,128
+441,2025-07-15,Belawan,Cerah,Malam,650,10.37,42
+442,2025-06-02,Makassar,Berawan,Pagi,139,13.53,35
+443,2025-06-01,Belawan,Cerah,Pagi,968,12.3,96
+444,2025-07-25,Tanjung Priok,Hujan Ringan,Malam,398,25.41,102
+445,2025-06-22,Tanjung Perak,Hujan Deras,Malam,752,46.26,60
+446,2025-07-29,Tanjung Priok,Hujan Ringan,Pagi,322,31.13,73
+447,2025-06-01,Makassar,Badai,Malam,881,18.36,58
+448,2025-06-05,Tanjung Priok,Hujan Ringan,Malam,229,44.28,139
+449,2025-06-30,Bitung,Badai,Malam,853,44.95,27
+450,2025-07-09,Tanjung Priok,Hujan Ringan,Pagi,479,32.89,182
+451,2025-06-30,Tanjung Priok,Berawan,Malam,763,34.46,148
+452,2025-06-15,Makassar,Cerah,Siang,158,27.74,21
+453,2025-06-19,Belawan,Cerah,Pagi,778,16.77,177
+454,2025-06-03,Belawan,Berawan,Pagi,977,15.46,69
+455,2025-06-08,Makassar,Hujan Deras,Malam,202,17.89,130
+456,2025-07-19,Belawan,Berawan,Pagi,617,31.41,140
+457,2025-07-25,Bitung,Cerah,Malam,904,27.56,140
+458,2025-07-06,Tanjung Perak,Hujan Deras,Pagi,855,46.55,75
+459,2025-06-01,Belawan,Cerah,Pagi,431,26.86,66
+460,2025-06-20,Tanjung Perak,Cerah,Siang,940,49.15,135
+461,2025-06-17,Tanjung Perak,Berawan,Malam,373,30.15,186
+462,2025-06-23,Makassar,Cerah,Pagi,397,20.54,134
+463,2025-06-08,Makassar,Hujan Ringan,Pagi,364,26.59,96
+464,2025-07-22,Tanjung Perak,Cerah,Malam,517,10.97,110
+465,2025-06-26,Belawan,Hujan Deras,Siang,436,47.43,58
+466,2025-06-18,Bitung,Hujan Deras,Pagi,595,18.21,155
+467,2025-06-07,Tanjung Priok,Cerah,Malam,461,27.13,81
+468,2025-06-10,Belawan,Badai,Siang,373,24.69,64
+469,2025-06-27,Belawan,Badai,Siang,942,17.37,89
+470,2025-07-17,Tanjung Perak,Hujan Deras,Malam,733,31.41,74
+471,2025-06-05,Belawan,Berawan,Siang,246,35.66,191
+472,2025-06-25,Belawan,Hujan Deras,Pagi,758,45.91,92
+473,2025-07-15,Tanjung Priok,Cerah,Malam,334,12.65,107
+474,2025-07-29,Tanjung Perak,Hujan Ringan,Pagi,962,34.17,75
+475,2025-06-17,Belawan,Berawan,Siang,775,39.33,20
+476,2025-06-28,Belawan,Cerah,Pagi,487,36.71,66
+477,2025-06-09,Tanjung Priok,Hujan Ringan,Pagi,769,26.41,121
+478,2025-06-09,Belawan,Hujan Ringan,Siang,804,23.18,146
+479,2025-07-09,Belawan,Berawan,Siang,316,33.76,75
+480,2025-07-22,Belawan,Cerah,Siang,972,17.33,140
+481,2025-06-16,Makassar,Badai,Pagi,253,26.9,102
+482,2025-06-08,Tanjung Perak,Cerah,Pagi,167,31.26,168
+483,2025-07-12,Makassar,Berawan,Pagi,731,29.26,37
+484,2025-06-30,Belawan,Hujan Ringan,Pagi,411,18.85,162
+485,2025-06-28,Belawan,Badai,Pagi,769,27.3,180
+486,2025-06-13,Tanjung Priok,Hujan Ringan,Siang,710,15.61,17
+487,2025-07-05,Tanjung Perak,Hujan Ringan,Siang,450,23.01,93
+488,2025-06-07,Tanjung Priok,Hujan Deras,Pagi,275,37.31,43
+489,2025-06-09,Tanjung Priok,Berawan,Pagi,459,42.68,83
+490,2025-06-01,Tanjung Perak,Hujan Ringan,Malam,813,23.83,184
+491,2025-06-13,Belawan,Berawan,Siang,636,41.86,173
+492,2025-07-02,Makassar,Hujan Ringan,Siang,354,28.27,45
+493,2025-06-30,Belawan,Cerah,Siang,651,17.36,164
+494,2025-07-01,Tanjung Priok,Berawan,Pagi,734,48.78,90
+495,2025-06-23,Tanjung Priok,Cerah,Malam,792,44.11,117
+496,2025-07-16,Belawan,Hujan Ringan,Siang,137,16.67,123
+497,2025-06-06,Tanjung Priok,Berawan,Malam,922,19.03,130
+498,2025-06-27,Makassar,Cerah,Malam,730,27.54,123
+499,2025-06-18,Makassar,Cerah,Siang,842,33.26,114
+500,2025-06-01,Makassar,Badai,Malam,401,23.37,143
+501,2025-07-22,Bitung,Cerah,Pagi,469,37.85,193
+502,2025-06-10,Bitung,Cerah,Pagi,625,44.45,133
+503,2025-07-17,Belawan,Hujan Deras,Siang,188,13.21,91
+504,2025-07-14,Makassar,Berawan,Malam,249,21.1,193
+505,2025-06-23,Belawan,Cerah,Pagi,450,27.19,68
+506,2025-06-19,Makassar,Hujan Ringan,Malam,382,41.51,102
+507,2025-07-26,Tanjung Perak,Badai,Siang,938,39.42,156
+508,2025-06-25,Tanjung Priok,Cerah,Siang,679,38.58,82
+509,2025-07-11,Tanjung Priok,Badai,Malam,459,46.0,38
+510,2025-07-01,Tanjung Priok,Berawan,Pagi,151,41.58,102
+511,2025-06-05,Makassar,Hujan Deras,Pagi,648,24.24,144
+512,2025-06-13,Belawan,Badai,Siang,971,39.0,136
+513,2025-07-29,Belawan,Hujan Deras,Siang,252,47.33,32
+514,2025-06-05,Tanjung Perak,Berawan,Siang,940,16.12,193
+515,2025-06-05,Tanjung Priok,Berawan,Malam,571,24.0,77
+516,2025-06-17,Tanjung Perak,Berawan,Pagi,702,46.14,110
+517,2025-07-07,Belawan,Berawan,Siang,184,31.28,38
+518,2025-07-28,Tanjung Perak,Hujan Ringan,Malam,837,35.98,55
+519,2025-06-10,Tanjung Perak,Hujan Deras,Malam,638,43.08,45
+520,2025-06-20,Makassar,Badai,Pagi,391,29.18,52
+521,2025-06-30,Makassar,Berawan,Pagi,232,39.99,141
+522,2025-07-13,Tanjung Perak,Cerah,Pagi,742,40.14,144
+523,2025-07-12,Belawan,Hujan Deras,Pagi,438,32.26,56
+524,2025-07-20,Tanjung Priok,Cerah,Malam,802,14.9,191
+525,2025-06-29,Makassar,Badai,Malam,120,16.89,62
+526,2025-06-12,Belawan,Badai,Pagi,474,30.17,181
+527,2025-07-05,Tanjung Priok,Hujan Deras,Malam,682,29.1,117
+528,2025-07-06,Belawan,Hujan Deras,Pagi,605,37.11,91
+529,2025-06-05,Bitung,Hujan Deras,Pagi,710,29.13,111
+530,2025-07-22,Makassar,Berawan,Pagi,205,12.21,176
+531,2025-07-22,Belawan,Hujan Ringan,Siang,875,16.96,52
+532,2025-07-01,Belawan,Hujan Ringan,Siang,919,39.42,133
+533,2025-07-17,Makassar,Hujan Deras,Pagi,181,13.27,185
+534,2025-06-02,Belawan,Hujan Ringan,Siang,262,48.24,122
+535,2025-06-03,Makassar,Hujan Deras,Siang,242,16.42,24
+536,2025-06-24,Bitung,Hujan Ringan,Pagi,802,28.46,107
+537,2025-06-07,Belawan,Cerah,Pagi,218,44.65,47
+538,2025-06-13,Tanjung Perak,Hujan Ringan,Pagi,160,12.85,184
+539,2025-06-03,Tanjung Priok,Hujan Deras,Malam,250,25.99,147
+540,2025-06-17,Makassar,Berawan,Malam,403,12.68,170
+541,2025-07-14,Makassar,Cerah,Malam,746,43.15,17
+542,2025-07-29,Bitung,Hujan Ringan,Malam,601,46.34,24
+543,2025-06-22,Bitung,Hujan Deras,Siang,294,14.35,53
+544,2025-07-06,Belawan,Berawan,Malam,330,26.88,168
+545,2025-07-19,Tanjung Perak,Hujan Deras,Malam,174,23.16,65
+546,2025-07-29,Belawan,Hujan Deras,Siang,688,45.22,140
+547,2025-07-28,Bitung,Hujan Deras,Siang,859,28.71,62
+548,2025-07-12,Makassar,Cerah,Malam,845,36.75,10
+549,2025-06-21,Tanjung Priok,Hujan Ringan,Malam,819,24.65,155
+550,2025-06-03,Tanjung Priok,Badai,Siang,503,18.66,62
+551,2025-06-29,Belawan,Berawan,Pagi,174,39.23,92
+552,2025-07-17,Tanjung Priok,Badai,Malam,385,29.44,37
+553,2025-07-05,Bitung,Berawan,Pagi,539,18.45,63
+554,2025-07-08,Belawan,Berawan,Malam,760,35.32,52
+555,2025-06-19,Tanjung Perak,Hujan Deras,Pagi,881,39.95,179
+556,2025-06-11,Tanjung Perak,Berawan,Siang,368,49.6,37
+557,2025-07-28,Bitung,Cerah,Pagi,807,44.85,27
+558,2025-07-01,Makassar,Cerah,Malam,231,36.08,51
+559,2025-06-24,Tanjung Priok,Hujan Deras,Siang,308,47.48,10
+560,2025-07-11,Bitung,Badai,Pagi,655,31.74,132
+561,2025-07-17,Belawan,Badai,Siang,539,33.77,34
+562,2025-07-04,Tanjung Priok,Berawan,Siang,963,25.84,162
+563,2025-06-22,Makassar,Berawan,Pagi,480,18.15,26
+564,2025-06-12,Tanjung Perak,Hujan Deras,Malam,721,24.39,119
+565,2025-07-07,Makassar,Hujan Ringan,Siang,374,37.29,112
+566,2025-07-27,Tanjung Perak,Hujan Deras,Malam,386,31.07,113
+567,2025-06-30,Makassar,Badai,Siang,581,46.25,144
+568,2025-06-04,Belawan,Berawan,Pagi,477,20.68,98
+569,2025-06-04,Makassar,Hujan Deras,Siang,806,18.61,166
+570,2025-06-07,Tanjung Priok,Hujan Deras,Siang,519,13.37,109
+571,2025-07-01,Tanjung Priok,Badai,Pagi,732,32.53,78
+572,2025-06-08,Tanjung Perak,Hujan Ringan,Pagi,183,24.55,54
+573,2025-06-11,Belawan,Badai,Siang,347,46.83,112
+574,2025-06-15,Tanjung Priok,Hujan Deras,Pagi,220,36.13,18
+575,2025-07-13,Bitung,Badai,Pagi,235,11.37,150
+576,2025-07-09,Makassar,Hujan Ringan,Siang,480,45.17,162
+577,2025-06-24,Belawan,Hujan Deras,Siang,803,28.45,95
+578,2025-06-16,Tanjung Priok,Hujan Deras,Pagi,870,20.37,146
+579,2025-07-30,Makassar,Badai,Siang,978,12.37,106
+580,2025-07-27,Makassar,Berawan,Siang,870,10.88,40
+581,2025-06-04,Tanjung Perak,Badai,Pagi,987,10.89,200
+582,2025-06-16,Tanjung Priok,Hujan Deras,Siang,544,41.24,145
+583,2025-07-21,Tanjung Perak,Hujan Deras,Malam,113,25.45,180
+584,2025-06-03,Makassar,Hujan Deras,Siang,468,13.4,30
+585,2025-07-05,Bitung,Hujan Ringan,Pagi,473,12.8,38
+586,2025-07-04,Tanjung Priok,Hujan Ringan,Malam,533,21.75,64
+587,2025-06-29,Makassar,Hujan Ringan,Siang,534,20.61,127
+588,2025-06-30,Bitung,Badai,Pagi,489,43.03,144
+589,2025-06-03,Bitung,Hujan Deras,Siang,423,31.48,95
+590,2025-06-26,Tanjung Priok,Hujan Ringan,Malam,261,38.14,114
+591,2025-06-24,Tanjung Priok,Hujan Ringan,Siang,121,43.71,115
+592,2025-06-21,Belawan,Berawan,Pagi,886,22.31,121
+593,2025-06-22,Bitung,Badai,Pagi,235,11.71,198
+594,2025-07-19,Tanjung Perak,Berawan,Pagi,343,40.21,89
+595,2025-06-22,Belawan,Badai,Pagi,672,41.62,159
+596,2025-07-19,Tanjung Priok,Berawan,Malam,112,34.05,136
+597,2025-07-27,Makassar,Hujan Deras,Siang,623,17.26,99
+598,2025-06-13,Tanjung Priok,Hujan Deras,Pagi,339,42.18,15
+599,2025-07-22,Makassar,Hujan Deras,Siang,901,24.15,180
+600,2025-07-13,Makassar,Hujan Ringan,Malam,134,20.08,190
+601,2025-07-08,Belawan,Cerah,Pagi,778,22.5,74
+602,2025-07-26,Belawan,Cerah,Pagi,830,40.85,34
+603,2025-07-18,Tanjung Priok,Badai,Siang,999,25.69,93
+604,2025-07-21,Makassar,Hujan Ringan,Siang,589,15.22,10
+605,2025-07-13,Makassar,Berawan,Siang,920,40.58,170
+606,2025-07-16,Bitung,Cerah,Siang,309,33.25,22
+607,2025-06-30,Tanjung Priok,Berawan,Malam,433,43.51,46
+608,2025-06-02,Tanjung Perak,Hujan Deras,Siang,879,15.37,172
+609,2025-07-05,Tanjung Priok,Berawan,Pagi,527,13.74,195
+610,2025-06-08,Makassar,Hujan Deras,Siang,575,42.1,98
+611,2025-07-19,Tanjung Perak,Hujan Deras,Malam,754,32.45,102
+612,2025-06-24,Bitung,Cerah,Siang,439,45.71,168
+613,2025-06-28,Makassar,Hujan Ringan,Siang,659,36.71,142
+614,2025-06-21,Tanjung Priok,Hujan Deras,Pagi,318,49.22,65
+615,2025-06-11,Tanjung Priok,Cerah,Malam,635,47.88,134
+616,2025-07-22,Tanjung Priok,Hujan Deras,Pagi,389,17.63,196
+617,2025-06-29,Tanjung Priok,Hujan Ringan,Malam,916,12.02,156
+618,2025-07-29,Bitung,Hujan Deras,Pagi,583,49.55,10
+619,2025-07-01,Tanjung Priok,Hujan Deras,Pagi,946,47.03,140
+620,2025-06-16,Belawan,Badai,Malam,865,44.17,80
+621,2025-07-12,Bitung,Hujan Ringan,Malam,941,46.38,69
+622,2025-07-24,Tanjung Perak,Hujan Deras,Siang,584,13.16,113
+623,2025-07-17,Belawan,Badai,Malam,795,40.34,100
+624,2025-07-27,Bitung,Cerah,Malam,348,35.63,117
+625,2025-07-04,Tanjung Perak,Berawan,Siang,958,13.83,181
+626,2025-07-29,Makassar,Cerah,Pagi,851,24.35,52
+627,2025-06-08,Tanjung Perak,Hujan Deras,Pagi,672,35.33,139
+628,2025-06-01,Makassar,Cerah,Pagi,581,13.94,17
+629,2025-06-10,Makassar,Hujan Deras,Malam,415,26.69,30
+630,2025-06-25,Bitung,Hujan Ringan,Pagi,865,21.56,159
+631,2025-06-11,Tanjung Perak,Hujan Ringan,Malam,207,31.57,155
+632,2025-07-21,Belawan,Badai,Siang,176,18.07,113
+633,2025-06-06,Bitung,Hujan Ringan,Siang,403,42.16,157
+634,2025-06-03,Bitung,Cerah,Pagi,187,48.49,31
+635,2025-06-16,Tanjung Perak,Berawan,Pagi,400,36.54,31
+636,2025-07-29,Tanjung Priok,Badai,Pagi,615,20.22,141
+637,2025-07-02,Tanjung Perak,Berawan,Pagi,857,31.08,30
+638,2025-07-16,Belawan,Hujan Deras,Pagi,436,25.98,86
+639,2025-07-14,Tanjung Priok,Hujan Deras,Pagi,703,33.79,40
+640,2025-07-05,Tanjung Perak,Badai,Siang,746,38.04,158
+641,2025-07-20,Belawan,Hujan Deras,Pagi,598,11.63,182
+642,2025-07-30,Tanjung Perak,Cerah,Malam,593,40.14,143
+643,2025-06-29,Makassar,Hujan Ringan,Siang,889,37.23,173
+644,2025-07-10,Tanjung Perak,Badai,Siang,596,21.77,178
+645,2025-06-17,Tanjung Priok,Berawan,Malam,864,27.15,178
+646,2025-07-21,Tanjung Perak,Berawan,Siang,341,28.47,79
+647,2025-06-27,Tanjung Priok,Cerah,Pagi,478,11.67,179
+648,2025-07-16,Belawan,Hujan Ringan,Siang,201,36.51,80
+649,2025-06-02,Belawan,Hujan Ringan,Pagi,132,21.93,124
+650,2025-07-18,Tanjung Perak,Hujan Ringan,Siang,780,11.6,96
+651,2025-07-21,Makassar,Berawan,Pagi,799,49.03,100
+652,2025-07-02,Tanjung Priok,Cerah,Malam,310,11.37,113
+653,2025-07-04,Tanjung Priok,Cerah,Pagi,423,39.38,172
+654,2025-07-28,Bitung,Cerah,Malam,544,35.04,125
+655,2025-07-03,Tanjung Perak,Hujan Ringan,Siang,562,39.88,17
+656,2025-06-06,Makassar,Cerah,Pagi,707,43.76,105
+657,2025-06-13,Bitung,Badai,Siang,658,24.55,189
+658,2025-06-04,Belawan,Berawan,Malam,989,21.48,20
+659,2025-06-22,Belawan,Cerah,Malam,884,28.74,147
+660,2025-06-24,Bitung,Badai,Pagi,702,37.68,85
+661,2025-07-12,Bitung,Hujan Deras,Siang,555,30.76,99
+662,2025-07-28,Bitung,Hujan Deras,Siang,885,44.58,86
+663,2025-07-19,Bitung,Cerah,Malam,958,15.69,101
+664,2025-06-24,Tanjung Priok,Berawan,Pagi,762,37.28,191
+665,2025-07-22,Tanjung Perak,Hujan Ringan,Pagi,919,11.85,33
+666,2025-07-13,Belawan,Berawan,Malam,737,48.86,72
+667,2025-06-11,Tanjung Priok,Hujan Deras,Siang,740,13.19,114
+668,2025-07-02,Bitung,Badai,Malam,860,38.26,93
+669,2025-07-19,Tanjung Perak,Hujan Ringan,Pagi,980,36.14,169
+670,2025-06-04,Makassar,Badai,Malam,829,43.54,107
+671,2025-06-28,Tanjung Priok,Hujan Ringan,Malam,172,29.18,157
+672,2025-06-17,Bitung,Berawan,Malam,260,36.02,119
+673,2025-07-01,Belawan,Badai,Malam,814,16.66,156
+674,2025-06-11,Belawan,Badai,Pagi,497,19.43,195
+675,2025-07-16,Tanjung Perak,Badai,Pagi,790,28.03,178
+676,2025-06-06,Bitung,Cerah,Malam,932,24.06,74
+677,2025-06-19,Tanjung Perak,Hujan Ringan,Siang,258,49.34,21
+678,2025-07-22,Makassar,Badai,Siang,718,31.44,20
+679,2025-07-24,Belawan,Badai,Pagi,883,14.69,134
+680,2025-06-08,Makassar,Berawan,Siang,871,21.36,110
+681,2025-06-18,Makassar,Berawan,Pagi,636,37.73,52
+682,2025-07-02,Makassar,Cerah,Siang,386,16.96,84
+683,2025-07-24,Makassar,Hujan Ringan,Malam,858,31.89,94
+684,2025-06-09,Tanjung Perak,Hujan Ringan,Pagi,600,29.13,28
+685,2025-07-07,Belawan,Badai,Siang,372,46.13,192
+686,2025-06-21,Tanjung Priok,Cerah,Pagi,988,31.83,75
+687,2025-07-09,Makassar,Hujan Ringan,Malam,358,15.09,117
+688,2025-06-22,Tanjung Perak,Berawan,Pagi,433,46.27,177
+689,2025-07-13,Tanjung Perak,Hujan Ringan,Siang,755,34.18,120
+690,2025-07-22,Tanjung Perak,Cerah,Malam,918,28.8,88
+691,2025-06-10,Tanjung Priok,Hujan Ringan,Siang,764,17.5,116
+692,2025-07-18,Bitung,Hujan Ringan,Pagi,262,29.41,143
+693,2025-07-13,Bitung,Badai,Siang,676,10.5,182
+694,2025-06-22,Makassar,Hujan Deras,Siang,999,25.53,150
+695,2025-06-11,Tanjung Perak,Hujan Ringan,Pagi,474,22.04,58
+696,2025-06-28,Bitung,Badai,Malam,845,15.06,41
+697,2025-06-08,Bitung,Berawan,Malam,724,13.39,147
+698,2025-07-11,Bitung,Hujan Deras,Pagi,819,36.85,184
+699,2025-07-20,Tanjung Perak,Badai,Malam,200,31.57,35
+700,2025-07-03,Tanjung Priok,Hujan Ringan,Siang,614,16.19,192
+701,2025-06-09,Bitung,Badai,Malam,253,40.97,40
+702,2025-06-14,Tanjung Perak,Berawan,Malam,899,29.1,141
+703,2025-06-09,Tanjung Priok,Cerah,Malam,820,26.87,50
+704,2025-07-06,Makassar,Cerah,Siang,713,14.11,182
+705,2025-07-12,Tanjung Perak,Cerah,Pagi,528,26.34,60
+706,2025-07-27,Belawan,Hujan Ringan,Pagi,810,49.7,42
+707,2025-07-29,Tanjung Priok,Hujan Deras,Siang,459,48.1,81
+708,2025-06-13,Tanjung Priok,Hujan Ringan,Malam,113,20.49,80
+709,2025-07-17,Bitung,Hujan Ringan,Malam,644,40.63,151
+710,2025-07-15,Tanjung Perak,Cerah,Pagi,543,17.48,75
+711,2025-06-24,Belawan,Cerah,Malam,669,19.49,22
+712,2025-06-29,Bitung,Hujan Ringan,Malam,683,47.68,117
+713,2025-06-29,Tanjung Priok,Hujan Ringan,Siang,347,20.45,140
+714,2025-07-29,Tanjung Priok,Cerah,Siang,476,22.75,49
+715,2025-06-21,Tanjung Perak,Badai,Pagi,317,40.16,153
+716,2025-06-29,Bitung,Hujan Ringan,Malam,452,13.23,104
+717,2025-06-07,Bitung,Hujan Deras,Siang,301,28.88,176
+718,2025-06-17,Tanjung Perak,Berawan,Siang,587,48.81,122
+719,2025-06-19,Tanjung Priok,Hujan Ringan,Malam,908,35.8,95
+720,2025-06-11,Belawan,Hujan Ringan,Siang,445,22.1,169
+721,2025-06-05,Tanjung Priok,Hujan Ringan,Siang,499,40.04,167
+722,2025-06-20,Bitung,Hujan Deras,Pagi,138,33.11,105
+723,2025-07-06,Belawan,Berawan,Pagi,903,44.91,194
+724,2025-06-20,Bitung,Badai,Malam,598,22.76,81
+725,2025-06-08,Makassar,Badai,Pagi,260,16.17,159
+726,2025-06-26,Belawan,Badai,Malam,884,10.01,104
+727,2025-06-04,Bitung,Cerah,Malam,965,24.62,55
+728,2025-07-24,Tanjung Priok,Cerah,Siang,465,21.05,193
+729,2025-07-08,Tanjung Priok,Hujan Deras,Siang,737,31.56,64
+730,2025-07-27,Makassar,Badai,Malam,651,20.96,60
+731,2025-06-21,Makassar,Hujan Deras,Malam,808,24.44,135
+732,2025-07-07,Belawan,Cerah,Pagi,752,37.19,187
+733,2025-07-23,Tanjung Perak,Cerah,Siang,801,25.89,20
+734,2025-07-24,Bitung,Hujan Ringan,Malam,509,43.36,55
+735,2025-06-06,Belawan,Berawan,Siang,203,32.39,113
+736,2025-06-08,Makassar,Berawan,Pagi,347,15.53,56
+737,2025-06-17,Tanjung Perak,Badai,Pagi,309,23.27,18
+738,2025-07-25,Belawan,Hujan Deras,Malam,392,15.45,194
+739,2025-06-06,Tanjung Perak,Cerah,Siang,622,28.95,122
+740,2025-07-25,Bitung,Hujan Deras,Siang,376,21.86,86
+741,2025-07-12,Tanjung Perak,Cerah,Malam,146,19.78,19
+742,2025-06-25,Makassar,Cerah,Pagi,244,28.16,129
+743,2025-06-02,Tanjung Perak,Badai,Siang,642,21.78,107
+744,2025-07-13,Tanjung Perak,Badai,Siang,326,32.27,99
+745,2025-06-15,Belawan,Berawan,Pagi,887,20.08,139
+746,2025-06-11,Bitung,Hujan Deras,Pagi,833,46.81,25
+747,2025-07-18,Belawan,Hujan Deras,Siang,559,15.38,54
+748,2025-07-20,Tanjung Priok,Berawan,Pagi,146,46.47,183
+749,2025-06-18,Tanjung Priok,Berawan,Malam,102,19.64,88
+750,2025-06-07,Tanjung Priok,Hujan Deras,Pagi,190,22.35,20
+751,2025-06-23,Tanjung Priok,Badai,Siang,328,24.2,81
+752,2025-06-26,Tanjung Perak,Badai,Pagi,427,47.6,138
+753,2025-07-11,Tanjung Priok,Hujan Deras,Pagi,120,38.54,62
+754,2025-07-09,Tanjung Perak,Cerah,Pagi,810,42.31,53
+755,2025-06-17,Bitung,Hujan Deras,Malam,682,31.8,41
+756,2025-07-13,Belawan,Hujan Deras,Pagi,829,18.31,87
+757,2025-06-21,Tanjung Priok,Hujan Ringan,Siang,899,45.75,69
+758,2025-06-30,Tanjung Priok,Berawan,Siang,100,40.44,40
+759,2025-06-06,Bitung,Berawan,Siang,618,44.52,53
+760,2025-06-13,Tanjung Priok,Hujan Deras,Pagi,587,12.76,145
+761,2025-07-25,Tanjung Priok,Badai,Pagi,466,16.3,10
+762,2025-07-16,Makassar,Cerah,Pagi,927,11.77,57
+763,2025-06-06,Makassar,Badai,Siang,548,13.0,175
+764,2025-07-02,Belawan,Cerah,Siang,769,13.51,32
+765,2025-07-15,Tanjung Priok,Cerah,Pagi,971,37.78,37
+766,2025-06-05,Belawan,Berawan,Siang,522,46.9,57
+767,2025-06-24,Belawan,Cerah,Malam,674,22.3,85
+768,2025-07-28,Makassar,Hujan Deras,Siang,444,29.05,78
+769,2025-07-06,Belawan,Hujan Ringan,Pagi,866,20.39,64
+770,2025-07-08,Tanjung Priok,Berawan,Malam,676,36.11,135
+771,2025-06-07,Bitung,Hujan Ringan,Siang,965,22.11,161
+772,2025-06-25,Tanjung Priok,Berawan,Pagi,388,28.81,184
+773,2025-06-08,Tanjung Priok,Cerah,Pagi,154,39.06,28
+774,2025-07-06,Belawan,Hujan Ringan,Pagi,684,38.1,10
+775,2025-07-18,Makassar,Berawan,Siang,504,13.38,156
+776,2025-06-06,Tanjung Priok,Badai,Pagi,732,42.34,73
+777,2025-07-17,Makassar,Badai,Siang,693,13.25,105
+778,2025-06-08,Bitung,Berawan,Malam,621,10.59,189
+779,2025-07-24,Tanjung Perak,Cerah,Pagi,108,38.21,21
+780,2025-06-09,Makassar,Hujan Ringan,Siang,554,33.48,32
+781,2025-07-16,Makassar,Berawan,Pagi,186,47.47,185
+782,2025-07-13,Belawan,Berawan,Siang,849,34.41,145
+783,2025-07-28,Makassar,Berawan,Malam,660,17.26,70
+784,2025-06-18,Belawan,Hujan Deras,Siang,286,48.96,178
+785,2025-06-13,Bitung,Hujan Deras,Pagi,233,45.43,126
+786,2025-06-04,Belawan,Berawan,Pagi,785,34.45,194
+787,2025-07-15,Bitung,Cerah,Malam,310,14.71,158
+788,2025-07-22,Belawan,Hujan Deras,Siang,797,36.9,85
+789,2025-07-11,Bitung,Hujan Deras,Siang,476,11.94,29
+790,2025-07-27,Tanjung Perak,Berawan,Siang,315,25.46,30
+791,2025-07-19,Bitung,Hujan Deras,Malam,240,45.63,165
+792,2025-06-28,Bitung,Badai,Siang,801,48.8,105
+793,2025-07-03,Tanjung Perak,Hujan Ringan,Siang,185,43.01,58
+794,2025-06-22,Tanjung Perak,Cerah,Pagi,937,31.46,33
+795,2025-07-27,Tanjung Perak,Badai,Pagi,365,36.84,168
+796,2025-07-03,Tanjung Perak,Badai,Malam,836,20.49,62
+797,2025-07-21,Tanjung Perak,Hujan Ringan,Malam,760,20.01,179
+798,2025-07-03,Tanjung Perak,Berawan,Pagi,188,27.81,113
+799,2025-06-29,Bitung,Hujan Ringan,Malam,407,19.78,47
+800,2025-06-29,Tanjung Perak,Hujan Deras,Pagi,398,41.11,35
+801,2025-06-06,Tanjung Priok,Cerah,Pagi,855,39.16,161
+802,2025-07-08,Makassar,Hujan Deras,Siang,340,18.39,66
+803,2025-06-01,Makassar,Badai,Pagi,457,44.05,106
+804,2025-07-20,Belawan,Cerah,Siang,346,45.01,10
+805,2025-06-22,Tanjung Priok,Cerah,Siang,610,23.37,188
+806,2025-06-27,Makassar,Hujan Deras,Malam,352,30.22,73
+807,2025-06-19,Tanjung Priok,Cerah,Siang,283,47.36,88
+808,2025-06-09,Tanjung Perak,Cerah,Malam,413,37.73,119
+809,2025-07-21,Tanjung Perak,Berawan,Pagi,852,48.89,107
+810,2025-07-21,Bitung,Hujan Ringan,Siang,148,22.29,198
+811,2025-07-06,Tanjung Priok,Hujan Deras,Pagi,596,32.52,108
+812,2025-06-25,Belawan,Badai,Malam,698,34.07,42
+813,2025-06-15,Tanjung Priok,Badai,Malam,371,45.02,98
+814,2025-07-27,Belawan,Berawan,Pagi,581,31.64,22
+815,2025-07-16,Tanjung Perak,Hujan Ringan,Pagi,782,44.61,97
+816,2025-07-16,Tanjung Perak,Hujan Ringan,Pagi,266,12.88,92
+817,2025-06-28,Tanjung Perak,Hujan Ringan,Pagi,593,23.45,103
+818,2025-06-22,Tanjung Perak,Hujan Ringan,Malam,654,48.15,172
+819,2025-07-24,Makassar,Hujan Deras,Pagi,981,44.21,138
+820,2025-06-17,Belawan,Hujan Deras,Siang,198,18.38,99
+821,2025-07-13,Bitung,Badai,Malam,328,46.52,165
+822,2025-07-13,Makassar,Hujan Deras,Malam,148,26.5,28
+823,2025-07-17,Makassar,Hujan Ringan,Pagi,935,18.16,130
+824,2025-07-09,Tanjung Priok,Berawan,Siang,795,47.06,76
+825,2025-06-07,Bitung,Badai,Malam,618,48.85,53
+826,2025-06-04,Belawan,Cerah,Siang,242,30.52,115
+827,2025-07-02,Makassar,Hujan Deras,Pagi,387,30.79,194
+828,2025-07-05,Tanjung Priok,Hujan Ringan,Malam,904,15.55,34
+829,2025-06-08,Belawan,Hujan Ringan,Pagi,730,37.43,103
+830,2025-07-01,Tanjung Priok,Cerah,Pagi,581,15.7,114
+831,2025-07-24,Belawan,Cerah,Siang,105,23.48,148
+832,2025-07-17,Makassar,Hujan Deras,Malam,832,34.56,53
+833,2025-07-12,Bitung,Badai,Pagi,944,28.09,87
+834,2025-07-16,Tanjung Perak,Badai,Pagi,874,38.68,79
+835,2025-06-16,Tanjung Priok,Cerah,Siang,932,34.65,137
+836,2025-06-02,Bitung,Hujan Ringan,Pagi,182,40.13,115
+837,2025-07-04,Makassar,Berawan,Pagi,431,22.59,33
+838,2025-07-09,Belawan,Hujan Deras,Siang,342,15.91,104
+839,2025-07-29,Belawan,Berawan,Pagi,787,26.17,121
+840,2025-06-29,Tanjung Perak,Cerah,Siang,317,46.63,42
+841,2025-07-28,Belawan,Hujan Ringan,Siang,518,20.82,92
+842,2025-07-14,Belawan,Berawan,Siang,150,12.22,101
+843,2025-06-02,Belawan,Cerah,Siang,135,31.84,176
+844,2025-07-30,Tanjung Perak,Berawan,Malam,236,34.16,186
+845,2025-07-18,Tanjung Priok,Badai,Siang,516,29.78,171
+846,2025-07-03,Tanjung Priok,Hujan Deras,Pagi,202,27.76,102
+847,2025-06-13,Tanjung Perak,Cerah,Siang,820,37.39,178
+848,2025-07-14,Bitung,Hujan Ringan,Pagi,349,19.84,89
+849,2025-07-04,Tanjung Priok,Berawan,Malam,478,26.29,125
+850,2025-07-08,Tanjung Priok,Badai,Malam,337,25.1,36
+851,2025-07-22,Tanjung Priok,Hujan Ringan,Malam,465,46.73,165
+852,2025-06-16,Belawan,Hujan Deras,Malam,279,16.55,31
+853,2025-07-08,Bitung,Berawan,Malam,354,38.33,75
+854,2025-07-07,Belawan,Berawan,Malam,325,47.4,183
+855,2025-07-04,Tanjung Perak,Cerah,Malam,262,18.25,48
+856,2025-07-20,Belawan,Hujan Deras,Siang,730,10.17,190
+857,2025-06-03,Tanjung Perak,Berawan,Malam,268,29.01,187
+858,2025-07-25,Tanjung Perak,Hujan Deras,Pagi,566,34.61,148
+859,2025-06-21,Bitung,Berawan,Malam,677,14.31,115
+860,2025-07-06,Makassar,Badai,Siang,913,24.25,193
+861,2025-06-28,Belawan,Hujan Ringan,Pagi,509,35.66,192
+862,2025-06-08,Tanjung Perak,Berawan,Siang,252,17.24,152
+863,2025-06-20,Belawan,Hujan Deras,Siang,952,31.26,189
+864,2025-07-26,Tanjung Priok,Cerah,Malam,564,46.67,143
+865,2025-06-13,Makassar,Cerah,Pagi,801,44.1,200
+866,2025-06-17,Belawan,Hujan Ringan,Malam,413,36.82,16
+867,2025-07-19,Tanjung Perak,Berawan,Malam,728,33.75,88
+868,2025-06-04,Tanjung Priok,Cerah,Malam,157,28.73,59
+869,2025-06-08,Tanjung Perak,Berawan,Siang,414,24.97,88
+870,2025-07-06,Belawan,Badai,Pagi,334,19.94,69
+871,2025-06-06,Makassar,Badai,Malam,446,39.14,199
+872,2025-06-01,Makassar,Berawan,Malam,582,28.97,100
+873,2025-06-01,Tanjung Priok,Cerah,Malam,546,27.6,33
+874,2025-06-05,Tanjung Perak,Badai,Malam,626,15.11,111
+875,2025-07-25,Tanjung Priok,Hujan Deras,Malam,737,33.66,142
+876,2025-06-11,Bitung,Hujan Ringan,Malam,362,19.86,170
+877,2025-07-02,Belawan,Badai,Pagi,797,34.4,64
+878,2025-07-29,Belawan,Hujan Ringan,Siang,687,39.71,95
+879,2025-07-12,Tanjung Priok,Cerah,Malam,858,25.73,116
+880,2025-07-30,Belawan,Berawan,Malam,441,17.03,67
+881,2025-06-11,Makassar,Hujan Ringan,Malam,747,22.31,107
+882,2025-07-08,Bitung,Badai,Malam,508,43.61,131
+883,2025-06-25,Belawan,Badai,Pagi,668,24.82,73
+884,2025-06-11,Belawan,Cerah,Malam,185,39.34,134
+885,2025-07-09,Tanjung Priok,Badai,Siang,202,23.53,195
+886,2025-07-20,Makassar,Hujan Deras,Pagi,435,44.53,118
+887,2025-06-18,Bitung,Hujan Ringan,Malam,925,29.61,142
+888,2025-07-23,Tanjung Priok,Hujan Deras,Malam,300,23.1,189
+889,2025-07-19,Bitung,Hujan Ringan,Siang,658,25.92,144
+890,2025-07-14,Makassar,Badai,Pagi,888,44.01,41
+891,2025-07-27,Bitung,Berawan,Siang,372,31.07,117
+892,2025-07-29,Tanjung Perak,Hujan Ringan,Malam,645,35.64,72
+893,2025-07-12,Bitung,Hujan Ringan,Pagi,624,30.43,61
+894,2025-06-08,Belawan,Badai,Malam,131,11.52,151
+895,2025-07-02,Bitung,Berawan,Malam,612,16.21,13
+896,2025-07-22,Makassar,Hujan Deras,Siang,714,21.35,63
+897,2025-07-19,Tanjung Priok,Hujan Ringan,Pagi,195,14.08,48
+898,2025-06-26,Tanjung Perak,Hujan Ringan,Siang,344,16.74,165
+899,2025-07-23,Tanjung Priok,Berawan,Malam,858,13.17,64
+900,2025-07-24,Belawan,Hujan Deras,Pagi,200,23.36,28
+901,2025-06-03,Tanjung Perak,Cerah,Malam,638,48.95,131
+902,2025-06-22,Bitung,Berawan,Malam,647,28.08,53
+903,2025-07-20,Bitung,Cerah,Siang,841,35.05,34
+904,2025-07-25,Tanjung Priok,Hujan Deras,Pagi,393,29.76,101
+905,2025-07-08,Tanjung Priok,Hujan Deras,Siang,808,14.49,106
+906,2025-07-29,Makassar,Badai,Siang,334,14.56,143
+907,2025-07-21,Makassar,Hujan Ringan,Pagi,328,11.32,163
+908,2025-06-27,Belawan,Hujan Ringan,Malam,632,44.71,110
+909,2025-07-24,Tanjung Priok,Berawan,Siang,299,24.69,54
+910,2025-06-30,Tanjung Priok,Hujan Deras,Malam,438,47.77,158
+911,2025-07-12,Tanjung Perak,Hujan Ringan,Malam,173,42.79,89
+912,2025-06-04,Makassar,Hujan Deras,Siang,156,46.46,182
+913,2025-06-06,Bitung,Cerah,Pagi,620,26.32,12
+914,2025-06-06,Makassar,Cerah,Pagi,561,26.64,87
+915,2025-06-07,Tanjung Priok,Berawan,Pagi,680,10.53,114
+916,2025-06-01,Belawan,Berawan,Siang,728,39.29,99
+917,2025-07-28,Tanjung Perak,Badai,Malam,642,43.83,71
+918,2025-06-04,Bitung,Hujan Deras,Malam,498,34.22,10
+919,2025-06-14,Makassar,Cerah,Pagi,315,24.08,182
+920,2025-07-03,Tanjung Priok,Badai,Siang,309,12.28,91
+921,2025-06-29,Bitung,Hujan Ringan,Pagi,390,49.85,25
+922,2025-06-04,Bitung,Berawan,Malam,210,43.43,48
+923,2025-07-28,Makassar,Hujan Ringan,Siang,879,42.24,188
+924,2025-07-11,Makassar,Cerah,Malam,191,21.36,166
+925,2025-07-03,Bitung,Cerah,Siang,603,12.76,62
+926,2025-07-14,Makassar,Berawan,Siang,596,26.16,42
+927,2025-06-15,Makassar,Hujan Deras,Pagi,138,44.16,113
+928,2025-06-30,Tanjung Perak,Cerah,Siang,544,28.75,115
+929,2025-07-20,Tanjung Priok,Badai,Malam,539,44.64,177
+930,2025-07-05,Tanjung Priok,Berawan,Pagi,538,35.47,182
+931,2025-06-21,Makassar,Hujan Deras,Pagi,543,25.71,147
+932,2025-06-29,Tanjung Perak,Berawan,Siang,433,17.46,44
+933,2025-07-03,Tanjung Priok,Hujan Ringan,Siang,180,10.3,149
+934,2025-07-28,Tanjung Priok,Hujan Deras,Malam,958,15.3,166
+935,2025-06-28,Makassar,Cerah,Siang,381,26.21,139
+936,2025-07-15,Tanjung Priok,Cerah,Siang,336,39.65,167
+937,2025-06-15,Tanjung Priok,Hujan Ringan,Siang,613,16.35,190
+938,2025-07-05,Bitung,Cerah,Malam,309,20.64,190
+939,2025-06-03,Tanjung Priok,Hujan Ringan,Siang,828,17.17,110
+940,2025-06-11,Belawan,Cerah,Pagi,234,41.96,182
+941,2025-07-20,Tanjung Perak,Badai,Pagi,593,39.33,184
+942,2025-07-18,Tanjung Perak,Berawan,Malam,867,40.54,30
+943,2025-06-19,Belawan,Berawan,Siang,975,13.02,21
+944,2025-07-11,Bitung,Hujan Deras,Malam,508,12.52,37
+945,2025-06-28,Belawan,Hujan Deras,Pagi,359,34.8,67
+946,2025-06-06,Tanjung Perak,Hujan Deras,Malam,918,34.43,63
+947,2025-07-16,Tanjung Priok,Badai,Pagi,898,24.03,195
+948,2025-07-02,Belawan,Hujan Deras,Malam,889,22.77,27
+949,2025-06-15,Tanjung Priok,Hujan Ringan,Siang,821,22.91,60
+950,2025-06-29,Bitung,Badai,Siang,711,11.17,150
+951,2025-06-14,Makassar,Cerah,Malam,600,34.59,38
+952,2025-06-13,Bitung,Cerah,Siang,367,46.22,131
+953,2025-07-16,Tanjung Priok,Cerah,Malam,141,21.45,196
+954,2025-07-04,Bitung,Badai,Siang,852,14.35,68
+955,2025-06-03,Belawan,Badai,Siang,791,45.08,119
+956,2025-06-07,Belawan,Hujan Ringan,Malam,502,48.71,35
+957,2025-06-23,Makassar,Hujan Ringan,Siang,111,28.07,174
+958,2025-07-13,Makassar,Berawan,Pagi,325,21.83,49
+959,2025-07-11,Belawan,Hujan Deras,Malam,295,45.77,36
+960,2025-07-12,Makassar,Berawan,Malam,107,31.59,102
+961,2025-06-26,Bitung,Hujan Deras,Pagi,977,27.99,117
+962,2025-06-29,Belawan,Hujan Ringan,Pagi,949,27.87,41
+963,2025-07-14,Tanjung Priok,Cerah,Malam,200,38.53,19
+964,2025-06-25,Bitung,Cerah,Pagi,990,22.19,98
+965,2025-06-19,Belawan,Hujan Deras,Pagi,245,47.5,158
+966,2025-06-12,Makassar,Badai,Pagi,800,44.23,109
+967,2025-07-06,Makassar,Berawan,Malam,748,14.77,45
+968,2025-06-18,Tanjung Perak,Hujan Deras,Siang,212,21.25,101
+969,2025-07-05,Makassar,Berawan,Siang,476,27.72,195
+970,2025-06-27,Belawan,Cerah,Pagi,338,36.27,60
+971,2025-07-05,Makassar,Cerah,Malam,215,32.94,47
+972,2025-06-07,Belawan,Hujan Deras,Siang,834,27.93,124
+973,2025-06-27,Tanjung Priok,Cerah,Malam,132,19.6,104
+974,2025-07-08,Bitung,Hujan Deras,Siang,525,40.69,77
+975,2025-06-28,Makassar,Hujan Ringan,Malam,275,34.99,122
+976,2025-07-27,Tanjung Priok,Hujan Deras,Siang,602,19.52,137
+977,2025-07-17,Belawan,Cerah,Malam,123,39.9,21
+978,2025-07-05,Tanjung Priok,Hujan Ringan,Pagi,110,32.57,76
+979,2025-06-14,Belawan,Hujan Deras,Malam,401,22.74,198
+980,2025-06-30,Makassar,Hujan Deras,Malam,148,21.81,107
+981,2025-07-18,Belawan,Badai,Pagi,905,46.43,157
+982,2025-06-05,Tanjung Perak,Badai,Siang,355,15.01,76
+983,2025-07-20,Tanjung Priok,Berawan,Malam,386,11.5,12
+984,2025-06-24,Makassar,Berawan,Pagi,993,14.99,17
+985,2025-07-23,Belawan,Hujan Deras,Siang,961,29.71,37
+986,2025-06-22,Tanjung Priok,Hujan Deras,Pagi,678,31.45,38
+987,2025-06-24,Belawan,Hujan Ringan,Pagi,403,38.84,35
+988,2025-06-10,Tanjung Perak,Berawan,Malam,764,38.81,128
+989,2025-07-11,Tanjung Priok,Cerah,Siang,876,36.47,186
+990,2025-07-16,Bitung,Cerah,Pagi,371,21.06,47
+991,2025-07-30,Tanjung Perak,Hujan Ringan,Malam,377,44.87,34
+992,2025-07-15,Bitung,Berawan,Malam,640,36.91,135
+993,2025-06-24,Makassar,Hujan Deras,Malam,215,24.97,103
+994,2025-06-17,Tanjung Priok,Cerah,Siang,835,12.79,174
+995,2025-07-19,Makassar,Berawan,Siang,615,45.45,131
+996,2025-06-17,Tanjung Priok,Badai,Siang,958,37.97,86
+997,2025-07-04,Makassar,Berawan,Siang,875,24.62,65
+998,2025-06-24,Makassar,Hujan Ringan,Malam,152,48.32,188
+999,2025-06-16,Tanjung Perak,Hujan Ringan,Pagi,525,16.26,52
+1000,2025-06-08,Makassar,Hujan Ringan,Siang,498,31.39,191
+1001,2025-07-06,Belawan,Hujan Deras,Pagi,443,45.75,123
+1002,2025-06-26,Bitung,Hujan Deras,Pagi,685,48.57,154
+1003,2025-06-13,Bitung,Badai,Siang,914,16.31,33
+1004,2025-07-22,Belawan,Badai,Pagi,680,13.4,177
+1005,2025-06-24,Belawan,Badai,Pagi,143,25.94,87
+1006,2025-06-22,Makassar,Badai,Pagi,207,40.55,41
+1007,2025-06-24,Tanjung Perak,Cerah,Pagi,631,45.99,24
+1008,2025-06-29,Tanjung Priok,Hujan Deras,Siang,726,31.86,171
+1009,2025-06-02,Tanjung Priok,Berawan,Malam,776,31.53,195
+1010,2025-07-06,Tanjung Perak,Hujan Deras,Pagi,274,47.08,181
+1011,2025-06-13,Makassar,Berawan,Pagi,235,47.33,125
+1012,2025-06-15,Tanjung Priok,Hujan Ringan,Malam,787,27.27,67
+1013,2025-07-17,Makassar,Cerah,Pagi,905,19.32,181
+1014,2025-07-01,Tanjung Priok,Hujan Deras,Malam,627,31.35,122
+1015,2025-06-27,Bitung,Cerah,Siang,186,20.07,46
+1016,2025-06-03,Belawan,Hujan Deras,Malam,285,37.2,175
+1017,2025-07-19,Belawan,Berawan,Siang,148,46.05,78
+1018,2025-06-03,Belawan,Cerah,Malam,439,43.04,67
+1019,2025-06-27,Tanjung Priok,Hujan Deras,Siang,686,27.68,124
+1020,2025-07-08,Bitung,Badai,Pagi,605,43.78,141
+1021,2025-07-05,Bitung,Cerah,Malam,224,37.56,141
+1022,2025-06-14,Tanjung Perak,Hujan Ringan,Malam,865,36.09,31
+1023,2025-07-22,Belawan,Berawan,Malam,635,26.31,128
+1024,2025-07-09,Makassar,Hujan Ringan,Malam,559,15.12,134
+1025,2025-07-20,Tanjung Priok,Hujan Ringan,Pagi,459,45.28,196
+1026,2025-06-04,Makassar,Hujan Deras,Siang,275,45.61,79
+1027,2025-07-01,Tanjung Priok,Hujan Deras,Siang,252,10.16,57
+1028,2025-07-04,Tanjung Perak,Hujan Deras,Pagi,635,39.11,156
+1029,2025-06-17,Tanjung Priok,Badai,Pagi,429,47.71,11
+1030,2025-06-13,Belawan,Badai,Siang,235,38.44,130
+1031,2025-06-02,Bitung,Badai,Siang,208,16.77,97
+1032,2025-07-26,Belawan,Badai,Pagi,320,35.15,191
+1033,2025-06-06,Makassar,Badai,Siang,426,15.64,138
+1034,2025-06-10,Belawan,Hujan Deras,Pagi,468,49.08,13
+1035,2025-06-25,Makassar,Berawan,Malam,875,11.53,118
+1036,2025-07-28,Makassar,Hujan Ringan,Malam,158,45.54,164
+1037,2025-07-11,Bitung,Hujan Ringan,Pagi,240,20.4,31
+1038,2025-07-19,Belawan,Cerah,Siang,649,39.49,132
+1039,2025-07-24,Bitung,Berawan,Malam,476,32.15,12
+1040,2025-06-08,Tanjung Perak,Cerah,Siang,787,17.62,137
+1041,2025-06-16,Makassar,Berawan,Pagi,458,33.26,47
+1042,2025-07-01,Tanjung Priok,Hujan Deras,Pagi,792,31.39,15
+1043,2025-07-24,Makassar,Badai,Malam,147,38.59,78
+1044,2025-06-11,Makassar,Hujan Ringan,Malam,659,23.59,11
+1045,2025-07-16,Makassar,Badai,Siang,154,13.37,170
+1046,2025-07-02,Bitung,Badai,Siang,369,24.73,75
+1047,2025-07-19,Makassar,Hujan Deras,Siang,146,36.29,63
+1048,2025-06-01,Tanjung Priok,Hujan Ringan,Malam,392,23.19,100
+1049,2025-07-01,Makassar,Cerah,Siang,820,28.69,151
+1050,2025-07-24,Tanjung Perak,Berawan,Siang,856,26.52,26
+1051,2025-07-06,Tanjung Perak,Berawan,Siang,756,26.7,90
+1052,2025-07-03,Belawan,Hujan Ringan,Pagi,111,31.36,108
+1053,2025-07-03,Belawan,Cerah,Siang,574,47.47,156
+1054,2025-06-14,Bitung,Cerah,Pagi,386,22.67,35
+1055,2025-07-06,Belawan,Badai,Pagi,488,17.67,162
+1056,2025-07-06,Bitung,Badai,Siang,168,26.46,197
+1057,2025-06-16,Tanjung Perak,Badai,Malam,790,29.1,56
+1058,2025-07-15,Tanjung Priok,Badai,Malam,958,12.55,71
+1059,2025-07-20,Tanjung Perak,Hujan Ringan,Malam,441,23.54,118
+1060,2025-06-18,Tanjung Priok,Berawan,Malam,354,42.18,29
+1061,2025-07-06,Belawan,Berawan,Siang,622,36.06,78
+1062,2025-06-29,Belawan,Hujan Deras,Siang,653,33.82,136
+1063,2025-06-26,Tanjung Priok,Hujan Deras,Siang,497,27.44,79
+1064,2025-06-03,Tanjung Priok,Hujan Ringan,Malam,579,27.01,93
+1065,2025-06-21,Makassar,Badai,Pagi,893,25.17,199
+1066,2025-06-11,Makassar,Badai,Siang,456,43.61,77
+1067,2025-07-19,Makassar,Badai,Siang,874,16.29,75
+1068,2025-07-28,Tanjung Priok,Badai,Siang,432,12.99,81
+1069,2025-06-02,Tanjung Perak,Hujan Ringan,Pagi,637,13.53,188
+1070,2025-06-09,Bitung,Badai,Pagi,445,42.91,180
+1071,2025-06-14,Makassar,Hujan Deras,Malam,807,22.58,136
+1072,2025-06-25,Bitung,Badai,Siang,587,29.06,139
+1073,2025-07-01,Bitung,Badai,Pagi,174,23.18,200
+1074,2025-06-19,Tanjung Perak,Cerah,Pagi,956,42.28,57
+1075,2025-06-09,Makassar,Cerah,Pagi,311,32.58,172
+1076,2025-06-02,Bitung,Badai,Siang,369,27.46,170
+1077,2025-06-19,Tanjung Priok,Badai,Pagi,341,30.62,182
+1078,2025-06-29,Makassar,Badai,Siang,418,28.9,132
+1079,2025-06-03,Belawan,Cerah,Pagi,541,38.63,188
+1080,2025-07-01,Bitung,Hujan Ringan,Malam,435,34.72,183
+1081,2025-07-06,Bitung,Hujan Ringan,Malam,375,39.86,139
+1082,2025-06-09,Tanjung Perak,Hujan Ringan,Malam,365,32.92,109
+1083,2025-06-17,Bitung,Berawan,Malam,646,13.95,36
+1084,2025-06-16,Tanjung Priok,Cerah,Siang,431,21.2,104
+1085,2025-07-14,Belawan,Badai,Siang,885,49.41,42
+1086,2025-07-23,Bitung,Hujan Deras,Siang,341,29.48,172
+1087,2025-07-12,Tanjung Perak,Hujan Deras,Pagi,312,36.85,24
+1088,2025-07-14,Belawan,Hujan Ringan,Malam,502,46.02,196
+1089,2025-06-21,Tanjung Perak,Badai,Siang,926,47.1,83
+1090,2025-06-04,Belawan,Hujan Ringan,Malam,146,14.25,181
+1091,2025-06-22,Belawan,Hujan Ringan,Malam,112,45.43,14
+1092,2025-06-30,Bitung,Hujan Ringan,Pagi,493,15.09,92
+1093,2025-07-17,Belawan,Badai,Pagi,400,42.37,157
+1094,2025-06-10,Bitung,Badai,Pagi,564,14.9,147
+1095,2025-06-06,Makassar,Hujan Ringan,Siang,654,16.95,68
+1096,2025-06-06,Makassar,Hujan Ringan,Malam,396,26.91,132
+1097,2025-07-07,Bitung,Hujan Ringan,Siang,286,23.45,121
+1098,2025-06-17,Bitung,Cerah,Siang,361,30.88,35
+1099,2025-07-14,Tanjung Perak,Hujan Deras,Malam,928,32.73,71
+1100,2025-07-26,Tanjung Perak,Berawan,Siang,164,43.22,199
+1101,2025-06-29,Makassar,Cerah,Malam,830,48.09,74
+1102,2025-06-29,Bitung,Berawan,Malam,853,14.77,42
+1103,2025-06-17,Tanjung Priok,Hujan Deras,Malam,107,32.88,140
+1104,2025-06-08,Makassar,Hujan Ringan,Malam,474,43.15,136
+1105,2025-06-07,Tanjung Priok,Badai,Siang,610,41.17,146
+1106,2025-07-10,Makassar,Cerah,Malam,571,49.95,16
+1107,2025-06-01,Tanjung Perak,Cerah,Pagi,203,32.4,93
+1108,2025-06-21,Tanjung Priok,Badai,Siang,705,40.45,35
+1109,2025-07-23,Belawan,Berawan,Malam,114,38.51,26
+1110,2025-06-24,Tanjung Perak,Hujan Deras,Siang,312,19.56,192
+1111,2025-07-03,Makassar,Badai,Pagi,705,24.7,16
+1112,2025-06-02,Tanjung Priok,Hujan Ringan,Malam,313,43.03,155
+1113,2025-06-18,Bitung,Berawan,Pagi,741,32.98,67
+1114,2025-06-10,Tanjung Priok,Hujan Deras,Malam,167,43.94,75
+1115,2025-07-05,Bitung,Hujan Deras,Malam,257,20.05,105
+1116,2025-07-18,Tanjung Perak,Hujan Deras,Malam,330,22.08,117
+1117,2025-06-14,Belawan,Hujan Ringan,Pagi,527,23.38,74
+1118,2025-06-20,Tanjung Priok,Cerah,Malam,537,49.37,22
+1119,2025-07-30,Makassar,Cerah,Siang,670,15.72,107
+1120,2025-06-20,Tanjung Priok,Hujan Deras,Siang,633,39.05,22
+1121,2025-07-17,Tanjung Perak,Hujan Ringan,Malam,386,29.71,81
+1122,2025-07-18,Belawan,Cerah,Siang,983,36.19,66
+1123,2025-06-14,Belawan,Berawan,Pagi,332,49.28,173
+1124,2025-07-17,Tanjung Perak,Hujan Ringan,Siang,358,41.64,113
+1125,2025-06-13,Belawan,Berawan,Siang,141,36.59,28
+1126,2025-07-10,Belawan,Berawan,Pagi,411,43.54,89
+1127,2025-06-03,Tanjung Perak,Badai,Malam,937,46.44,113
+1128,2025-07-18,Makassar,Berawan,Siang,419,14.41,34
+1129,2025-06-09,Tanjung Priok,Badai,Pagi,924,36.08,74
+1130,2025-07-01,Tanjung Priok,Berawan,Pagi,555,39.75,121
+1131,2025-06-20,Tanjung Perak,Badai,Malam,406,34.06,82
+1132,2025-07-20,Makassar,Cerah,Siang,197,25.85,175
+1133,2025-07-06,Tanjung Priok,Berawan,Malam,714,32.4,139
+1134,2025-07-29,Bitung,Berawan,Malam,598,48.85,40
+1135,2025-07-05,Tanjung Priok,Hujan Deras,Malam,330,19.07,182
+1136,2025-06-04,Belawan,Cerah,Pagi,220,43.01,81
+1137,2025-06-02,Belawan,Hujan Deras,Siang,780,42.03,108
+1138,2025-07-04,Bitung,Hujan Ringan,Malam,115,14.56,122
+1139,2025-07-12,Tanjung Perak,Badai,Siang,938,48.38,144
+1140,2025-07-20,Makassar,Hujan Deras,Siang,965,27.82,112
+1141,2025-07-12,Bitung,Hujan Deras,Siang,883,12.37,114
+1142,2025-06-21,Belawan,Hujan Deras,Malam,905,34.73,171
+1143,2025-07-29,Bitung,Cerah,Pagi,922,40.81,44
+1144,2025-07-11,Bitung,Hujan Ringan,Pagi,533,42.35,68
+1145,2025-07-07,Tanjung Perak,Hujan Ringan,Malam,212,35.26,132
+1146,2025-07-17,Makassar,Berawan,Siang,536,12.09,94
+1147,2025-06-06,Tanjung Priok,Berawan,Malam,448,46.16,71
+1148,2025-07-10,Makassar,Badai,Siang,171,22.15,160
+1149,2025-07-28,Belawan,Cerah,Malam,789,17.12,95
+1150,2025-07-30,Belawan,Hujan Deras,Pagi,263,37.9,154
+1151,2025-06-28,Makassar,Cerah,Malam,161,12.82,69
+1152,2025-06-08,Belawan,Cerah,Siang,390,45.93,34
+1153,2025-07-27,Bitung,Hujan Deras,Siang,321,30.02,83
+1154,2025-07-01,Makassar,Badai,Malam,740,41.03,28
+1155,2025-07-30,Tanjung Priok,Cerah,Malam,553,18.99,63
+1156,2025-07-17,Makassar,Hujan Deras,Siang,370,39.39,106
+1157,2025-07-21,Tanjung Priok,Berawan,Malam,239,16.75,192
+1158,2025-06-09,Bitung,Hujan Ringan,Pagi,174,24.38,164
+1159,2025-06-08,Bitung,Badai,Pagi,841,39.26,99
+1160,2025-07-22,Tanjung Priok,Hujan Deras,Malam,400,26.3,93
+1161,2025-07-11,Bitung,Badai,Malam,851,38.99,171
+1162,2025-06-01,Tanjung Priok,Berawan,Pagi,228,40.56,69
+1163,2025-06-19,Tanjung Priok,Cerah,Pagi,846,49.11,132
+1164,2025-06-25,Belawan,Berawan,Siang,674,27.77,65
+1165,2025-06-18,Belawan,Hujan Ringan,Siang,826,42.64,24
+1166,2025-06-04,Bitung,Hujan Ringan,Pagi,550,16.4,102
+1167,2025-06-19,Bitung,Hujan Deras,Malam,957,31.72,141
+1168,2025-07-19,Bitung,Cerah,Pagi,352,47.6,164
+1169,2025-07-02,Bitung,Hujan Deras,Pagi,512,32.48,157
+1170,2025-06-13,Makassar,Badai,Pagi,550,48.66,50
+1171,2025-07-04,Tanjung Priok,Badai,Siang,197,24.39,104
+1172,2025-07-09,Tanjung Priok,Hujan Ringan,Malam,228,42.37,38
+1173,2025-06-29,Bitung,Berawan,Malam,180,46.44,92
+1174,2025-07-11,Belawan,Hujan Ringan,Siang,529,25.89,26
+1175,2025-07-13,Bitung,Berawan,Malam,688,48.68,50
+1176,2025-07-06,Tanjung Perak,Cerah,Pagi,997,43.82,189
+1177,2025-07-13,Tanjung Priok,Cerah,Malam,980,26.74,72
+1178,2025-07-23,Makassar,Berawan,Siang,602,27.67,192
+1179,2025-07-18,Bitung,Hujan Ringan,Pagi,646,32.64,34
+1180,2025-07-24,Belawan,Badai,Pagi,502,48.75,71
+1181,2025-07-29,Tanjung Perak,Hujan Deras,Pagi,150,43.0,178
+1182,2025-06-29,Tanjung Priok,Hujan Ringan,Malam,501,26.08,75
+1183,2025-07-28,Tanjung Priok,Badai,Malam,334,29.21,144
+1184,2025-07-09,Bitung,Hujan Deras,Pagi,676,37.11,178
+1185,2025-06-02,Makassar,Badai,Pagi,353,32.39,58
+1186,2025-07-27,Tanjung Perak,Berawan,Pagi,492,17.81,156
+1187,2025-07-30,Tanjung Priok,Hujan Ringan,Malam,601,34.47,42
+1188,2025-07-04,Belawan,Cerah,Malam,132,40.27,32
+1189,2025-07-21,Tanjung Perak,Badai,Pagi,752,19.71,44
+1190,2025-06-12,Bitung,Hujan Deras,Malam,706,28.51,148
+1191,2025-07-12,Bitung,Hujan Ringan,Siang,781,12.2,23
+1192,2025-06-24,Bitung,Hujan Ringan,Malam,849,38.92,20
+1193,2025-06-23,Makassar,Hujan Ringan,Pagi,296,37.93,82
+1194,2025-06-27,Makassar,Hujan Deras,Siang,780,15.92,168
+1195,2025-07-29,Tanjung Priok,Hujan Deras,Pagi,637,26.9,22
+1196,2025-06-04,Belawan,Cerah,Siang,629,18.79,148
+1197,2025-06-17,Bitung,Cerah,Malam,523,31.58,144
+1198,2025-07-14,Makassar,Badai,Malam,407,40.84,98
+1199,2025-06-20,Belawan,Berawan,Siang,338,17.19,56
+1200,2025-07-03,Tanjung Priok,Cerah,Pagi,745,46.91,157
+1201,2025-06-01,Tanjung Priok,Hujan Ringan,Malam,478,33.93,138
+1202,2025-06-13,Makassar,Hujan Ringan,Malam,874,25.72,58
+1203,2025-06-27,Bitung,Hujan Deras,Pagi,746,38.06,89
+1204,2025-06-02,Makassar,Badai,Pagi,485,33.86,147
+1205,2025-06-03,Bitung,Hujan Ringan,Siang,981,22.55,187
+1206,2025-07-03,Bitung,Cerah,Malam,116,10.73,139
+1207,2025-06-23,Belawan,Hujan Deras,Siang,603,27.23,131
+1208,2025-06-12,Tanjung Priok,Berawan,Siang,824,31.2,89
+1209,2025-07-22,Belawan,Hujan Deras,Pagi,978,45.11,50
+1210,2025-06-07,Bitung,Cerah,Malam,910,10.43,157
+1211,2025-06-15,Belawan,Badai,Malam,458,22.14,163
+1212,2025-06-26,Makassar,Badai,Siang,218,43.58,74
+1213,2025-07-29,Makassar,Badai,Malam,350,48.87,131
+1214,2025-07-10,Makassar,Hujan Deras,Malam,477,17.14,33
+1215,2025-06-04,Bitung,Hujan Deras,Malam,718,21.8,123
+1216,2025-07-03,Bitung,Cerah,Malam,436,39.1,63
+1217,2025-07-01,Tanjung Priok,Badai,Pagi,565,17.72,102
+1218,2025-07-16,Tanjung Perak,Berawan,Pagi,736,26.31,15
+1219,2025-07-06,Tanjung Priok,Hujan Ringan,Pagi,166,12.43,178
+1220,2025-07-11,Tanjung Perak,Hujan Deras,Pagi,442,26.52,150
+1221,2025-07-21,Tanjung Perak,Badai,Malam,484,24.23,177
+1222,2025-06-22,Belawan,Badai,Siang,491,12.48,170
+1223,2025-07-11,Tanjung Perak,Hujan Deras,Pagi,916,26.06,102
+1224,2025-06-21,Tanjung Priok,Badai,Malam,242,16.27,132
+1225,2025-07-03,Belawan,Badai,Siang,483,14.0,134
+1226,2025-06-24,Bitung,Badai,Malam,426,29.36,31
+1227,2025-06-10,Makassar,Berawan,Pagi,646,36.36,164
+1228,2025-06-23,Tanjung Perak,Berawan,Malam,676,12.1,133
+1229,2025-07-06,Tanjung Perak,Hujan Deras,Siang,474,14.03,104
+1230,2025-06-17,Tanjung Priok,Cerah,Siang,717,13.2,186
+1231,2025-07-26,Belawan,Berawan,Pagi,364,41.72,53
+1232,2025-07-19,Bitung,Berawan,Malam,221,10.9,186
+1233,2025-06-01,Makassar,Hujan Deras,Siang,227,42.41,33
+1234,2025-06-14,Makassar,Cerah,Pagi,995,43.08,185
+1235,2025-07-15,Tanjung Perak,Hujan Ringan,Siang,916,31.49,176
+1236,2025-06-20,Bitung,Cerah,Siang,779,41.79,54
+1237,2025-07-19,Belawan,Berawan,Malam,316,14.04,25
+1238,2025-06-10,Makassar,Cerah,Malam,441,11.45,50
+1239,2025-07-24,Tanjung Perak,Hujan Deras,Pagi,249,44.7,134
+1240,2025-07-28,Makassar,Hujan Ringan,Siang,749,31.28,22
+1241,2025-07-30,Bitung,Berawan,Pagi,303,29.89,17
+1242,2025-07-25,Tanjung Priok,Hujan Ringan,Malam,339,21.33,38
+1243,2025-07-23,Tanjung Priok,Berawan,Siang,713,46.74,180
+1244,2025-07-27,Tanjung Priok,Badai,Pagi,933,47.32,16
+1245,2025-07-15,Makassar,Berawan,Pagi,322,21.0,30
+1246,2025-06-04,Tanjung Perak,Badai,Malam,728,44.25,148
+1247,2025-06-22,Makassar,Hujan Deras,Pagi,959,48.4,200
+1248,2025-06-14,Tanjung Priok,Berawan,Malam,329,19.73,155
+1249,2025-07-20,Tanjung Priok,Hujan Ringan,Pagi,359,39.28,89
+1250,2025-06-20,Makassar,Cerah,Siang,558,39.76,23
+1251,2025-07-09,Makassar,Berawan,Pagi,171,16.07,63
+1252,2025-07-04,Makassar,Badai,Malam,706,36.9,110
+1253,2025-06-25,Makassar,Badai,Malam,551,29.34,27
+1254,2025-06-08,Belawan,Hujan Ringan,Malam,236,44.71,141
+1255,2025-06-09,Belawan,Berawan,Pagi,480,45.09,140
+1256,2025-07-26,Tanjung Priok,Hujan Deras,Siang,292,29.01,91
+1257,2025-07-25,Bitung,Hujan Ringan,Malam,608,49.19,200
+1258,2025-07-17,Makassar,Hujan Deras,Siang,389,48.13,14
+1259,2025-06-01,Tanjung Perak,Badai,Siang,653,23.99,115
+1260,2025-07-30,Makassar,Badai,Siang,623,49.68,171
+1261,2025-06-11,Makassar,Cerah,Malam,450,45.26,169
+1262,2025-07-16,Bitung,Berawan,Malam,118,32.06,48
+1263,2025-07-04,Belawan,Hujan Deras,Malam,731,13.97,147
+1264,2025-07-13,Tanjung Priok,Hujan Deras,Malam,759,15.38,51
+1265,2025-06-19,Makassar,Badai,Malam,252,24.36,129
+1266,2025-06-10,Bitung,Cerah,Malam,971,41.71,114
+1267,2025-06-25,Belawan,Hujan Ringan,Siang,971,47.95,121
+1268,2025-07-08,Makassar,Cerah,Siang,177,39.02,99
+1269,2025-06-20,Tanjung Perak,Cerah,Pagi,314,26.98,122
+1270,2025-06-30,Tanjung Perak,Badai,Malam,735,40.92,17
+1271,2025-06-01,Belawan,Cerah,Pagi,943,40.71,183
+1272,2025-07-15,Belawan,Berawan,Siang,426,32.51,119
+1273,2025-07-30,Tanjung Priok,Badai,Pagi,625,48.92,176
+1274,2025-06-05,Tanjung Priok,Badai,Pagi,700,22.56,27
+1275,2025-06-19,Bitung,Hujan Ringan,Pagi,524,12.68,110
+1276,2025-06-22,Tanjung Perak,Hujan Ringan,Malam,602,35.71,158
+1277,2025-07-19,Tanjung Priok,Hujan Deras,Pagi,517,41.61,76
+1278,2025-07-01,Belawan,Badai,Siang,293,21.17,187
+1279,2025-07-01,Bitung,Badai,Pagi,827,43.5,170
+1280,2025-07-06,Tanjung Perak,Hujan Deras,Pagi,798,43.8,91
+1281,2025-06-05,Bitung,Berawan,Malam,855,44.97,175
+1282,2025-07-19,Tanjung Priok,Badai,Pagi,241,27.8,56
+1283,2025-07-20,Belawan,Cerah,Malam,633,25.78,136
+1284,2025-07-07,Tanjung Perak,Badai,Malam,131,10.74,11
+1285,2025-06-19,Tanjung Perak,Badai,Siang,582,19.13,96
+1286,2025-06-07,Tanjung Priok,Hujan Ringan,Siang,880,48.74,37
+1287,2025-06-30,Tanjung Perak,Cerah,Pagi,565,21.88,108
+1288,2025-07-19,Bitung,Badai,Pagi,216,39.7,63
+1289,2025-06-14,Bitung,Hujan Ringan,Siang,837,23.98,40
+1290,2025-06-10,Bitung,Hujan Ringan,Pagi,304,21.31,112
+1291,2025-07-26,Tanjung Perak,Hujan Deras,Siang,288,22.89,110
+1292,2025-06-14,Bitung,Badai,Siang,712,14.55,99
+1293,2025-07-17,Belawan,Cerah,Malam,661,35.35,145
+1294,2025-07-20,Tanjung Perak,Hujan Ringan,Siang,587,21.84,11
+1295,2025-06-01,Belawan,Badai,Malam,744,25.49,67
+1296,2025-07-02,Tanjung Priok,Cerah,Pagi,875,43.35,43
+1297,2025-07-21,Bitung,Badai,Siang,665,22.92,55
+1298,2025-06-03,Bitung,Hujan Ringan,Siang,993,41.71,91
+1299,2025-07-17,Makassar,Badai,Siang,266,37.18,39
+1300,2025-07-21,Tanjung Priok,Hujan Deras,Malam,465,32.43,118
+1301,2025-06-09,Tanjung Priok,Cerah,Siang,791,23.68,90
+1302,2025-07-08,Makassar,Berawan,Siang,851,39.56,82
+1303,2025-07-05,Makassar,Berawan,Malam,586,22.71,97
+1304,2025-07-28,Tanjung Priok,Badai,Siang,144,25.5,117
+1305,2025-06-05,Tanjung Perak,Berawan,Malam,830,43.5,193
+1306,2025-07-01,Belawan,Badai,Siang,177,17.46,194
+1307,2025-07-04,Tanjung Priok,Berawan,Pagi,385,17.23,53
+1308,2025-06-15,Bitung,Hujan Deras,Malam,823,49.99,113
+1309,2025-07-20,Bitung,Badai,Pagi,957,33.06,16
+1310,2025-06-01,Belawan,Hujan Deras,Pagi,819,49.1,93
+1311,2025-06-07,Tanjung Perak,Hujan Deras,Malam,834,16.41,61
+1312,2025-06-24,Tanjung Perak,Hujan Deras,Malam,204,42.9,107
+1313,2025-07-29,Bitung,Hujan Deras,Pagi,435,27.36,167
+1314,2025-06-14,Makassar,Berawan,Malam,219,31.05,80
+1315,2025-07-25,Tanjung Priok,Hujan Ringan,Siang,898,30.11,170
+1316,2025-07-01,Tanjung Priok,Hujan Deras,Malam,908,42.99,109
+1317,2025-06-27,Makassar,Hujan Ringan,Malam,197,39.57,81
+1318,2025-07-12,Makassar,Berawan,Malam,313,42.12,67
+1319,2025-07-17,Tanjung Priok,Berawan,Siang,297,35.91,47
+1320,2025-06-06,Belawan,Cerah,Siang,684,36.76,62
+1321,2025-06-10,Tanjung Perak,Badai,Pagi,510,36.24,106
+1322,2025-06-28,Tanjung Perak,Berawan,Malam,699,36.04,188
+1323,2025-07-08,Bitung,Hujan Ringan,Siang,191,48.91,155
+1324,2025-07-01,Makassar,Berawan,Malam,390,11.41,119
+1325,2025-07-18,Makassar,Hujan Deras,Siang,626,28.24,108
+1326,2025-07-07,Bitung,Hujan Ringan,Pagi,624,19.55,117
+1327,2025-07-18,Belawan,Cerah,Malam,493,30.0,68
+1328,2025-06-07,Tanjung Priok,Badai,Pagi,704,39.13,71
+1329,2025-06-07,Tanjung Perak,Hujan Ringan,Pagi,973,28.47,25
+1330,2025-06-16,Tanjung Perak,Badai,Malam,174,40.49,41
+1331,2025-07-29,Tanjung Perak,Berawan,Siang,392,38.89,77
+1332,2025-07-30,Tanjung Priok,Badai,Siang,634,33.75,180
+1333,2025-07-10,Tanjung Perak,Berawan,Siang,331,17.17,105
+1334,2025-07-08,Bitung,Badai,Malam,420,27.98,170
+1335,2025-06-03,Tanjung Perak,Badai,Siang,940,45.21,173
+1336,2025-06-02,Tanjung Priok,Badai,Malam,529,32.87,170
+1337,2025-07-06,Bitung,Hujan Ringan,Pagi,742,17.02,74
+1338,2025-06-09,Belawan,Badai,Malam,967,36.26,89
+1339,2025-06-28,Belawan,Badai,Siang,961,15.7,137
+1340,2025-06-12,Tanjung Priok,Berawan,Pagi,718,25.86,50
+1341,2025-07-25,Tanjung Perak,Berawan,Malam,198,18.16,66
+1342,2025-07-26,Tanjung Perak,Hujan Ringan,Malam,287,46.14,82
+1343,2025-07-02,Bitung,Badai,Siang,664,14.89,99
+1344,2025-07-09,Belawan,Berawan,Siang,103,49.32,172
+1345,2025-06-28,Makassar,Cerah,Malam,307,49.24,65
+1346,2025-06-28,Tanjung Perak,Hujan Deras,Malam,205,24.42,29
+1347,2025-07-11,Belawan,Hujan Ringan,Malam,520,35.82,64
+1348,2025-07-14,Bitung,Hujan Ringan,Siang,300,30.85,35
+1349,2025-06-21,Tanjung Perak,Cerah,Siang,416,44.63,150
+1350,2025-07-21,Makassar,Berawan,Malam,743,36.69,48
+1351,2025-06-23,Tanjung Priok,Berawan,Malam,262,11.73,48
+1352,2025-07-05,Tanjung Priok,Hujan Ringan,Pagi,213,16.25,160
+1353,2025-06-23,Bitung,Berawan,Siang,247,13.12,51
+1354,2025-06-06,Bitung,Berawan,Malam,187,46.16,51
+1355,2025-06-07,Bitung,Berawan,Siang,294,32.78,197
+1356,2025-07-18,Bitung,Hujan Ringan,Siang,578,43.2,39
+1357,2025-06-28,Makassar,Cerah,Malam,338,16.3,74
+1358,2025-06-04,Belawan,Badai,Siang,957,28.13,168
+1359,2025-06-19,Makassar,Hujan Ringan,Pagi,160,18.91,164
+1360,2025-06-17,Makassar,Hujan Ringan,Siang,686,41.57,126
+1361,2025-07-04,Tanjung Perak,Cerah,Pagi,989,43.22,87
+1362,2025-06-19,Belawan,Berawan,Siang,265,48.5,180
+1363,2025-06-20,Belawan,Cerah,Malam,391,15.99,137
+1364,2025-06-16,Makassar,Badai,Pagi,433,22.63,176
+1365,2025-06-12,Bitung,Cerah,Malam,304,28.14,94
+1366,2025-06-13,Belawan,Badai,Malam,712,10.12,30
+1367,2025-07-19,Makassar,Hujan Ringan,Pagi,256,18.79,168
+1368,2025-06-08,Belawan,Cerah,Siang,963,17.2,115
+1369,2025-06-23,Makassar,Cerah,Pagi,535,31.04,132
+1370,2025-07-01,Makassar,Badai,Malam,377,15.26,64
+1371,2025-06-26,Bitung,Berawan,Malam,549,16.71,24
+1372,2025-06-20,Bitung,Badai,Malam,786,15.82,10
+1373,2025-06-29,Tanjung Priok,Badai,Malam,826,13.38,53
+1374,2025-07-13,Makassar,Badai,Pagi,864,18.88,135
+1375,2025-06-04,Tanjung Priok,Cerah,Malam,510,17.71,157
+1376,2025-07-13,Bitung,Cerah,Siang,787,12.87,109
+1377,2025-07-30,Belawan,Hujan Ringan,Malam,286,18.13,152
+1378,2025-06-26,Belawan,Cerah,Pagi,388,45.56,12
+1379,2025-06-07,Bitung,Hujan Ringan,Pagi,579,42.93,145
+1380,2025-06-24,Tanjung Perak,Hujan Deras,Malam,540,22.13,17
+1381,2025-06-15,Makassar,Hujan Ringan,Malam,114,37.69,46
+1382,2025-06-05,Tanjung Priok,Hujan Deras,Malam,997,30.62,167
+1383,2025-07-18,Bitung,Badai,Siang,927,29.03,121
+1384,2025-06-03,Bitung,Badai,Siang,336,15.17,117
+1385,2025-07-15,Belawan,Berawan,Pagi,776,35.16,88
+1386,2025-06-15,Bitung,Badai,Siang,624,13.44,31
+1387,2025-07-28,Belawan,Badai,Malam,476,38.15,12
+1388,2025-06-04,Tanjung Priok,Cerah,Siang,913,33.9,98
+1389,2025-06-25,Bitung,Hujan Ringan,Malam,705,20.32,81
+1390,2025-06-23,Tanjung Perak,Cerah,Pagi,520,35.48,145
+1391,2025-07-04,Bitung,Hujan Deras,Pagi,422,39.53,121
+1392,2025-06-14,Bitung,Cerah,Pagi,980,14.67,169
+1393,2025-06-21,Bitung,Cerah,Siang,444,25.89,183
+1394,2025-06-07,Belawan,Badai,Siang,552,33.11,184
+1395,2025-06-27,Bitung,Cerah,Pagi,661,26.86,200
+1396,2025-06-16,Belawan,Berawan,Malam,587,22.41,73
+1397,2025-07-30,Makassar,Hujan Ringan,Malam,785,39.47,77
+1398,2025-07-09,Makassar,Hujan Deras,Siang,583,15.26,21
+1399,2025-06-27,Tanjung Priok,Berawan,Malam,730,10.16,36
+1400,2025-07-02,Makassar,Badai,Malam,500,26.15,18
+1401,2025-06-02,Tanjung Priok,Badai,Pagi,459,19.01,179
+1402,2025-07-17,Makassar,Cerah,Siang,391,38.9,196
+1403,2025-06-20,Makassar,Berawan,Malam,745,40.11,70
+1404,2025-07-05,Bitung,Hujan Deras,Pagi,589,23.38,100
+1405,2025-06-05,Tanjung Priok,Cerah,Pagi,410,37.66,154
+1406,2025-06-15,Makassar,Hujan Ringan,Malam,746,18.26,68
+1407,2025-07-16,Belawan,Hujan Deras,Malam,996,19.71,200
+1408,2025-06-17,Tanjung Perak,Badai,Malam,113,43.41,54
+1409,2025-06-13,Belawan,Hujan Deras,Siang,470,37.86,153
+1410,2025-06-13,Belawan,Badai,Pagi,450,46.46,184
+1411,2025-07-17,Tanjung Perak,Cerah,Siang,529,26.44,109
+1412,2025-07-04,Makassar,Hujan Ringan,Siang,376,48.92,94
+1413,2025-06-10,Bitung,Hujan Ringan,Siang,336,27.46,182
+1414,2025-07-14,Belawan,Cerah,Pagi,550,47.83,85
+1415,2025-06-19,Tanjung Priok,Cerah,Pagi,807,19.2,83
+1416,2025-06-10,Bitung,Berawan,Malam,861,48.95,78
+1417,2025-06-03,Makassar,Hujan Deras,Pagi,953,48.03,144
+1418,2025-07-21,Makassar,Badai,Siang,859,47.71,194
+1419,2025-07-11,Tanjung Priok,Hujan Ringan,Malam,541,34.87,195
+1420,2025-07-17,Belawan,Hujan Deras,Malam,403,16.14,172
+1421,2025-06-22,Belawan,Cerah,Malam,909,35.33,147
+1422,2025-06-07,Tanjung Priok,Hujan Deras,Pagi,424,15.5,113
+1423,2025-07-28,Bitung,Hujan Ringan,Pagi,516,13.66,34
+1424,2025-07-02,Makassar,Hujan Deras,Siang,593,29.42,10
+1425,2025-07-30,Makassar,Badai,Pagi,117,31.16,100
+1426,2025-06-19,Tanjung Perak,Hujan Deras,Siang,209,18.65,181
+1427,2025-07-24,Tanjung Perak,Berawan,Pagi,771,21.94,23
+1428,2025-07-25,Tanjung Priok,Hujan Deras,Malam,539,27.11,44
+1429,2025-07-20,Tanjung Priok,Hujan Ringan,Siang,278,15.57,148
+1430,2025-06-28,Makassar,Badai,Siang,298,16.45,159
+1431,2025-07-06,Makassar,Berawan,Pagi,878,14.97,62
+1432,2025-07-04,Makassar,Badai,Malam,651,16.69,129
+1433,2025-06-26,Tanjung Perak,Berawan,Pagi,966,28.13,199
+1434,2025-06-14,Makassar,Cerah,Pagi,294,11.18,48
+1435,2025-07-21,Makassar,Badai,Pagi,202,15.26,108
+1436,2025-06-06,Tanjung Perak,Badai,Siang,162,44.39,186
+1437,2025-06-02,Tanjung Perak,Hujan Ringan,Siang,471,28.46,93
+1438,2025-07-13,Bitung,Cerah,Pagi,164,43.96,30
+1439,2025-07-07,Tanjung Perak,Cerah,Pagi,128,44.88,144
+1440,2025-07-17,Bitung,Berawan,Siang,462,42.8,30
+1441,2025-06-14,Makassar,Hujan Ringan,Pagi,979,11.66,51
+1442,2025-06-27,Tanjung Priok,Cerah,Pagi,614,49.24,88
+1443,2025-07-29,Belawan,Hujan Ringan,Malam,292,21.13,15
+1444,2025-06-14,Tanjung Priok,Hujan Ringan,Malam,185,13.21,74
+1445,2025-06-27,Makassar,Hujan Ringan,Pagi,286,22.72,144
+1446,2025-06-30,Tanjung Priok,Hujan Deras,Siang,1000,21.46,66
+1447,2025-06-17,Makassar,Badai,Siang,530,29.96,52
+1448,2025-07-05,Belawan,Hujan Ringan,Pagi,903,30.25,145
+1449,2025-06-02,Tanjung Perak,Hujan Ringan,Malam,969,24.55,141
+1450,2025-07-29,Tanjung Priok,Hujan Deras,Pagi,351,18.72,176
+1451,2025-07-21,Makassar,Hujan Deras,Siang,176,29.69,62
+1452,2025-06-15,Tanjung Priok,Berawan,Siang,223,24.32,11
+1453,2025-06-16,Tanjung Priok,Berawan,Pagi,227,24.44,27
+1454,2025-06-05,Tanjung Priok,Berawan,Pagi,195,29.24,52
+1455,2025-06-11,Makassar,Badai,Siang,720,45.06,131
+1456,2025-06-15,Makassar,Hujan Ringan,Pagi,963,22.52,35
+1457,2025-07-26,Bitung,Badai,Malam,319,18.73,116
+1458,2025-06-15,Bitung,Badai,Siang,737,49.05,195
+1459,2025-06-25,Bitung,Hujan Ringan,Pagi,303,23.61,181
+1460,2025-06-16,Bitung,Hujan Deras,Malam,539,10.68,67
+1461,2025-07-06,Makassar,Badai,Malam,284,21.3,44
+1462,2025-07-17,Belawan,Cerah,Pagi,492,10.32,131
+1463,2025-07-02,Tanjung Perak,Berawan,Siang,365,37.54,172
+1464,2025-07-23,Belawan,Berawan,Siang,196,32.6,26
+1465,2025-06-27,Bitung,Hujan Deras,Siang,334,10.91,193
+1466,2025-06-27,Belawan,Hujan Ringan,Siang,523,39.48,189
+1467,2025-07-11,Tanjung Perak,Hujan Ringan,Siang,481,25.92,155
+1468,2025-07-29,Tanjung Priok,Cerah,Pagi,361,16.19,171
+1469,2025-07-28,Tanjung Priok,Hujan Deras,Siang,494,12.79,144
+1470,2025-07-30,Makassar,Cerah,Pagi,750,44.09,44
+1471,2025-07-03,Bitung,Cerah,Malam,620,35.22,73
+1472,2025-07-05,Bitung,Badai,Siang,546,19.37,75
+1473,2025-07-06,Makassar,Berawan,Pagi,617,10.52,157
+1474,2025-07-14,Bitung,Berawan,Pagi,610,18.96,133
+1475,2025-07-01,Belawan,Badai,Siang,173,17.98,131
+1476,2025-07-25,Tanjung Priok,Badai,Siang,377,27.13,80
+1477,2025-07-10,Tanjung Perak,Hujan Ringan,Malam,668,45.6,161
+1478,2025-07-07,Makassar,Hujan Deras,Malam,931,43.74,22
+1479,2025-07-17,Tanjung Priok,Berawan,Pagi,168,45.77,149
+1480,2025-07-07,Tanjung Priok,Badai,Siang,399,40.05,67
+1481,2025-06-08,Tanjung Perak,Hujan Ringan,Siang,625,41.66,11
+1482,2025-06-27,Bitung,Hujan Ringan,Siang,114,14.6,180
+1483,2025-07-23,Belawan,Badai,Pagi,108,14.8,135
+1484,2025-07-25,Tanjung Perak,Berawan,Pagi,616,37.32,151
+1485,2025-07-18,Tanjung Priok,Hujan Ringan,Siang,353,33.6,156
+1486,2025-07-02,Tanjung Perak,Hujan Ringan,Pagi,770,44.74,138
+1487,2025-06-02,Belawan,Hujan Ringan,Malam,427,15.55,107
+1488,2025-06-23,Tanjung Perak,Hujan Ringan,Pagi,319,14.46,157
+1489,2025-07-02,Bitung,Berawan,Siang,366,41.55,127
+1490,2025-06-22,Tanjung Priok,Badai,Siang,163,43.41,37
+1491,2025-07-20,Tanjung Priok,Hujan Ringan,Malam,830,42.65,178
+1492,2025-06-14,Tanjung Perak,Hujan Deras,Siang,463,25.15,193
+1493,2025-07-20,Tanjung Priok,Cerah,Pagi,851,43.51,128
+1494,2025-06-09,Tanjung Perak,Cerah,Malam,843,33.89,79
+1495,2025-06-26,Tanjung Perak,Badai,Malam,848,41.65,26
+1496,2025-06-03,Tanjung Priok,Cerah,Malam,380,29.88,23
+1497,2025-06-10,Tanjung Priok,Hujan Deras,Pagi,667,37.77,33
+1498,2025-07-10,Tanjung Perak,Badai,Malam,681,35.45,61
+1499,2025-07-13,Makassar,Hujan Ringan,Malam,302,35.66,96
+1500,2025-07-01,Tanjung Perak,Hujan Ringan,Malam,573,35.37,35
+1501,2025-07-15,Tanjung Priok,Cerah,Malam,734,48.35,139
+1502,2025-07-29,Makassar,Hujan Deras,Malam,953,33.03,192
+1503,2025-06-16,Tanjung Perak,Badai,Malam,607,33.14,85
+1504,2025-06-06,Bitung,Hujan Deras,Malam,915,32.33,32
+1505,2025-07-03,Makassar,Badai,Siang,444,12.47,175
+1506,2025-07-25,Bitung,Badai,Siang,874,35.52,21
+1507,2025-07-03,Tanjung Perak,Badai,Siang,905,10.35,147
+1508,2025-07-27,Belawan,Badai,Malam,356,43.84,66
+1509,2025-07-15,Bitung,Hujan Deras,Malam,954,16.73,179
+1510,2025-06-16,Bitung,Hujan Deras,Siang,453,39.29,27
+1511,2025-06-29,Belawan,Hujan Deras,Malam,964,15.08,101
+1512,2025-07-01,Tanjung Perak,Berawan,Malam,693,18.24,140
+1513,2025-06-04,Makassar,Hujan Deras,Pagi,425,37.4,170
+1514,2025-07-19,Tanjung Perak,Cerah,Siang,513,23.23,42
+1515,2025-06-20,Tanjung Perak,Hujan Ringan,Malam,880,10.57,148
+1516,2025-06-15,Makassar,Hujan Ringan,Malam,873,33.59,103
+1517,2025-06-29,Bitung,Badai,Pagi,452,32.0,158
+1518,2025-07-06,Bitung,Hujan Deras,Malam,223,47.18,99
+1519,2025-07-25,Belawan,Badai,Pagi,307,46.29,149
+1520,2025-06-18,Makassar,Hujan Ringan,Malam,699,31.29,176
+1521,2025-07-12,Bitung,Cerah,Malam,334,31.1,102
+1522,2025-07-19,Belawan,Badai,Siang,328,48.17,45
+1523,2025-06-04,Bitung,Hujan Deras,Pagi,408,14.63,147
+1524,2025-06-25,Tanjung Priok,Hujan Deras,Malam,286,38.32,151
+1525,2025-06-18,Tanjung Priok,Hujan Deras,Malam,826,40.51,113
+1526,2025-06-17,Makassar,Hujan Ringan,Siang,734,20.64,139
+1527,2025-06-02,Bitung,Cerah,Malam,420,18.22,138
+1528,2025-07-03,Tanjung Priok,Cerah,Siang,683,12.83,116
+1529,2025-07-07,Belawan,Hujan Ringan,Pagi,541,45.18,75
+1530,2025-06-10,Bitung,Berawan,Malam,290,13.21,43
+1531,2025-07-18,Tanjung Priok,Badai,Pagi,625,32.71,35
+1532,2025-07-23,Bitung,Berawan,Malam,832,21.02,56
+1533,2025-07-17,Bitung,Badai,Siang,650,42.46,108
+1534,2025-06-26,Bitung,Berawan,Siang,517,16.67,158
+1535,2025-06-22,Tanjung Priok,Berawan,Siang,935,11.73,182
+1536,2025-07-19,Bitung,Berawan,Siang,271,30.33,118
+1537,2025-07-04,Belawan,Hujan Ringan,Pagi,418,40.8,168
+1538,2025-06-06,Makassar,Berawan,Pagi,248,46.17,51
+1539,2025-06-19,Tanjung Priok,Berawan,Siang,125,16.53,36
+1540,2025-06-19,Bitung,Cerah,Siang,627,29.29,183
+1541,2025-06-23,Tanjung Priok,Hujan Deras,Siang,898,48.03,71
+1542,2025-06-07,Belawan,Badai,Malam,630,14.39,34
+1543,2025-07-21,Tanjung Priok,Badai,Siang,690,11.17,26
+1544,2025-07-01,Belawan,Hujan Ringan,Siang,243,20.33,196
+1545,2025-06-09,Makassar,Hujan Ringan,Malam,637,11.04,136
+1546,2025-06-11,Tanjung Priok,Hujan Ringan,Siang,518,20.45,60
+1547,2025-06-15,Tanjung Perak,Badai,Malam,643,28.23,97
+1548,2025-06-11,Belawan,Berawan,Siang,953,32.17,162
+1549,2025-07-14,Bitung,Hujan Ringan,Siang,760,23.83,133
+1550,2025-06-22,Belawan,Berawan,Malam,618,25.87,152
+1551,2025-06-24,Belawan,Berawan,Malam,201,41.66,26
+1552,2025-06-28,Tanjung Perak,Badai,Siang,454,31.86,133
+1553,2025-07-22,Tanjung Perak,Hujan Deras,Malam,948,15.5,118
+1554,2025-07-01,Tanjung Perak,Cerah,Malam,650,29.94,125
+1555,2025-06-01,Belawan,Cerah,Pagi,114,21.35,40
+1556,2025-07-29,Tanjung Perak,Berawan,Siang,457,46.37,176
+1557,2025-07-20,Belawan,Badai,Malam,914,49.31,132
+1558,2025-06-18,Bitung,Hujan Deras,Pagi,303,18.77,135
+1559,2025-06-17,Belawan,Berawan,Pagi,667,15.52,48
+1560,2025-07-03,Tanjung Priok,Hujan Ringan,Pagi,519,39.05,156
+1561,2025-07-24,Tanjung Priok,Hujan Ringan,Malam,346,25.92,159
+1562,2025-06-30,Bitung,Cerah,Malam,406,26.17,45
+1563,2025-07-27,Tanjung Priok,Cerah,Pagi,502,14.95,176
+1564,2025-07-27,Tanjung Perak,Berawan,Malam,862,25.93,193
+1565,2025-06-21,Belawan,Cerah,Malam,810,15.85,88
+1566,2025-06-13,Tanjung Priok,Berawan,Siang,401,18.01,191
+1567,2025-07-02,Bitung,Cerah,Malam,673,40.31,125
+1568,2025-07-11,Belawan,Hujan Deras,Siang,642,48.09,83
+1569,2025-06-20,Tanjung Priok,Cerah,Pagi,946,41.49,28
+1570,2025-06-23,Tanjung Perak,Hujan Deras,Siang,180,39.42,52
+1571,2025-06-20,Tanjung Priok,Berawan,Siang,709,22.95,147
+1572,2025-07-25,Tanjung Priok,Cerah,Pagi,185,36.94,107
+1573,2025-06-03,Tanjung Priok,Hujan Deras,Malam,179,34.59,172
+1574,2025-06-02,Bitung,Cerah,Malam,935,41.5,132
+1575,2025-07-17,Tanjung Perak,Badai,Malam,508,11.31,55
+1576,2025-06-11,Makassar,Badai,Siang,297,23.83,75
+1577,2025-07-14,Bitung,Hujan Ringan,Pagi,165,34.88,88
+1578,2025-07-07,Tanjung Priok,Badai,Pagi,359,10.98,118
+1579,2025-06-14,Belawan,Berawan,Siang,729,39.97,197
+1580,2025-06-18,Belawan,Cerah,Pagi,292,31.84,74
+1581,2025-07-07,Bitung,Berawan,Malam,781,13.94,73
+1582,2025-06-10,Bitung,Hujan Ringan,Malam,159,41.35,55
+1583,2025-07-19,Bitung,Hujan Ringan,Malam,990,32.86,182
+1584,2025-07-03,Makassar,Cerah,Pagi,142,13.51,73
+1585,2025-07-16,Belawan,Hujan Ringan,Pagi,766,33.75,57
+1586,2025-06-27,Belawan,Cerah,Siang,491,23.82,62
+1587,2025-06-27,Belawan,Cerah,Pagi,523,48.4,130
+1588,2025-07-08,Tanjung Priok,Berawan,Pagi,350,13.49,143
+1589,2025-06-14,Tanjung Perak,Badai,Siang,117,11.17,106
+1590,2025-06-21,Makassar,Hujan Ringan,Siang,816,14.32,165
+1591,2025-07-05,Makassar,Badai,Pagi,380,25.58,109
+1592,2025-07-28,Tanjung Perak,Cerah,Pagi,744,36.59,109
+1593,2025-06-17,Makassar,Cerah,Malam,244,21.94,82
+1594,2025-07-12,Tanjung Perak,Cerah,Malam,524,16.09,106
+1595,2025-06-23,Makassar,Badai,Malam,125,19.14,52
+1596,2025-07-09,Tanjung Perak,Berawan,Malam,333,22.39,27
+1597,2025-06-28,Bitung,Hujan Deras,Siang,373,18.05,47
+1598,2025-06-12,Belawan,Hujan Deras,Siang,758,49.64,110
+1599,2025-06-26,Bitung,Badai,Malam,593,10.14,166
+1600,2025-06-09,Bitung,Berawan,Pagi,581,15.87,39
+1601,2025-06-16,Belawan,Hujan Ringan,Siang,541,35.9,118
+1602,2025-07-06,Tanjung Priok,Hujan Deras,Pagi,920,35.18,103
+1603,2025-06-24,Belawan,Hujan Deras,Pagi,150,28.67,171
+1604,2025-07-20,Belawan,Cerah,Malam,358,34.98,67
+1605,2025-07-02,Belawan,Hujan Ringan,Malam,230,25.34,170
+1606,2025-06-26,Tanjung Priok,Cerah,Malam,645,19.98,54
+1607,2025-07-24,Makassar,Berawan,Malam,330,11.96,12
+1608,2025-06-15,Tanjung Priok,Cerah,Malam,111,29.97,96
+1609,2025-06-07,Bitung,Berawan,Pagi,641,14.2,161
+1610,2025-07-18,Tanjung Priok,Badai,Pagi,162,10.48,166
+1611,2025-07-20,Belawan,Hujan Deras,Siang,326,23.45,78
+1612,2025-06-11,Makassar,Cerah,Pagi,348,47.57,108
+1613,2025-07-27,Bitung,Badai,Malam,244,18.52,21
+1614,2025-07-16,Makassar,Cerah,Siang,261,26.54,105
+1615,2025-07-16,Tanjung Priok,Cerah,Pagi,699,11.21,192
+1616,2025-06-05,Belawan,Hujan Deras,Pagi,913,20.28,120
+1617,2025-06-06,Belawan,Hujan Deras,Siang,301,44.17,162
+1618,2025-06-28,Tanjung Priok,Berawan,Pagi,889,48.16,123
+1619,2025-06-01,Tanjung Perak,Hujan Ringan,Pagi,124,13.39,83
+1620,2025-07-15,Tanjung Priok,Badai,Pagi,246,18.47,198
+1621,2025-06-27,Tanjung Perak,Berawan,Pagi,313,37.77,93
+1622,2025-07-22,Bitung,Hujan Ringan,Pagi,972,15.79,44
+1623,2025-06-16,Belawan,Berawan,Malam,680,13.31,12
+1624,2025-06-14,Tanjung Perak,Berawan,Pagi,484,48.33,137
+1625,2025-07-05,Makassar,Badai,Pagi,275,30.16,185
+1626,2025-07-01,Tanjung Priok,Hujan Ringan,Siang,754,23.12,22
+1627,2025-06-10,Makassar,Cerah,Siang,390,28.67,171
+1628,2025-07-06,Bitung,Berawan,Siang,898,31.59,47
+1629,2025-07-10,Belawan,Cerah,Siang,800,29.31,86
+1630,2025-07-30,Tanjung Perak,Badai,Malam,829,21.04,12
+1631,2025-06-06,Makassar,Hujan Ringan,Malam,948,25.28,64
+1632,2025-06-26,Tanjung Perak,Hujan Deras,Malam,689,34.47,85
+1633,2025-06-04,Makassar,Cerah,Siang,718,15.95,96
+1634,2025-06-24,Tanjung Perak,Berawan,Malam,165,21.72,46
+1635,2025-07-15,Belawan,Badai,Siang,851,18.94,138
+1636,2025-07-26,Tanjung Priok,Cerah,Pagi,246,40.26,119
+1637,2025-07-25,Belawan,Cerah,Pagi,369,37.43,140
+1638,2025-06-11,Tanjung Priok,Berawan,Pagi,470,49.27,109
+1639,2025-06-12,Bitung,Hujan Ringan,Malam,589,46.85,106
+1640,2025-06-14,Bitung,Hujan Deras,Siang,317,11.23,107
+1641,2025-06-26,Bitung,Berawan,Pagi,903,21.39,50
+1642,2025-06-16,Makassar,Hujan Deras,Siang,973,16.15,185
+1643,2025-06-01,Belawan,Berawan,Pagi,158,23.36,135
+1644,2025-07-15,Belawan,Cerah,Pagi,794,35.41,169
+1645,2025-06-11,Belawan,Berawan,Pagi,898,25.76,23
+1646,2025-07-04,Bitung,Cerah,Malam,335,29.03,26
+1647,2025-06-14,Tanjung Priok,Badai,Siang,938,33.85,26
+1648,2025-07-21,Bitung,Cerah,Pagi,645,30.44,26
+1649,2025-07-17,Tanjung Perak,Cerah,Siang,603,27.6,89
+1650,2025-06-16,Bitung,Hujan Deras,Pagi,653,11.44,193
+1651,2025-07-23,Belawan,Cerah,Siang,988,44.15,64
+1652,2025-07-19,Belawan,Berawan,Pagi,205,41.94,57
+1653,2025-06-09,Belawan,Cerah,Siang,604,40.47,143
+1654,2025-07-19,Tanjung Perak,Cerah,Pagi,230,23.44,168
+1655,2025-06-01,Bitung,Berawan,Malam,645,38.72,72
+1656,2025-06-08,Makassar,Hujan Deras,Pagi,569,29.18,88
+1657,2025-06-22,Bitung,Badai,Siang,263,12.51,111
+1658,2025-07-29,Tanjung Priok,Badai,Pagi,932,10.65,185
+1659,2025-07-10,Tanjung Priok,Badai,Malam,433,11.41,65
+1660,2025-07-03,Tanjung Perak,Badai,Malam,656,23.1,138
+1661,2025-07-03,Tanjung Priok,Badai,Malam,110,17.04,198
+1662,2025-07-11,Makassar,Hujan Ringan,Malam,325,14.16,118
+1663,2025-07-30,Makassar,Cerah,Siang,377,20.81,148
+1664,2025-06-14,Belawan,Badai,Malam,271,39.12,26
+1665,2025-07-10,Belawan,Hujan Ringan,Malam,836,27.88,134
+1666,2025-07-04,Bitung,Berawan,Siang,451,23.41,112
+1667,2025-07-12,Tanjung Perak,Badai,Pagi,350,49.03,40
+1668,2025-07-19,Tanjung Perak,Cerah,Siang,250,13.95,28
+1669,2025-06-11,Belawan,Badai,Malam,295,24.55,136
+1670,2025-06-10,Makassar,Badai,Siang,238,40.88,37
+1671,2025-07-28,Belawan,Cerah,Siang,846,36.97,64
+1672,2025-06-13,Bitung,Hujan Deras,Siang,971,46.02,18
+1673,2025-06-09,Bitung,Hujan Ringan,Siang,111,39.72,160
+1674,2025-07-17,Makassar,Hujan Deras,Siang,941,31.73,123
+1675,2025-07-20,Tanjung Perak,Badai,Pagi,363,42.26,58
+1676,2025-06-30,Tanjung Priok,Cerah,Pagi,709,48.55,55
+1677,2025-06-15,Belawan,Berawan,Malam,899,21.15,71
+1678,2025-06-06,Bitung,Hujan Deras,Siang,464,19.62,120
+1679,2025-06-25,Makassar,Cerah,Pagi,310,15.72,61
+1680,2025-06-12,Belawan,Hujan Ringan,Pagi,844,18.63,132
+1681,2025-07-21,Makassar,Hujan Ringan,Malam,497,28.25,153
+1682,2025-07-29,Tanjung Perak,Berawan,Malam,450,34.31,188
+1683,2025-07-02,Tanjung Perak,Berawan,Malam,482,24.72,120
+1684,2025-06-19,Belawan,Hujan Deras,Pagi,841,49.78,25
+1685,2025-06-06,Tanjung Perak,Badai,Siang,758,38.05,107
+1686,2025-06-29,Belawan,Badai,Malam,697,47.47,146
+1687,2025-06-05,Belawan,Hujan Deras,Pagi,413,21.69,173
+1688,2025-06-04,Bitung,Cerah,Malam,731,44.34,196
+1689,2025-06-08,Belawan,Cerah,Siang,264,34.29,53
+1690,2025-07-24,Tanjung Priok,Hujan Deras,Pagi,639,41.2,49
+1691,2025-06-21,Tanjung Priok,Hujan Deras,Pagi,681,20.37,96
+1692,2025-06-10,Tanjung Perak,Cerah,Malam,142,10.94,169
+1693,2025-07-06,Belawan,Hujan Deras,Malam,902,43.46,33
+1694,2025-07-12,Tanjung Perak,Cerah,Pagi,787,38.66,13
+1695,2025-07-29,Belawan,Badai,Malam,180,41.0,162
+1696,2025-07-02,Makassar,Badai,Pagi,336,39.07,90
+1697,2025-07-05,Makassar,Berawan,Pagi,126,32.09,83
+1698,2025-06-03,Bitung,Berawan,Malam,521,25.51,10
+1699,2025-06-24,Tanjung Priok,Hujan Deras,Siang,845,37.05,37
+1700,2025-06-22,Makassar,Hujan Deras,Pagi,782,35.33,55
+1701,2025-06-01,Tanjung Priok,Hujan Deras,Pagi,655,10.15,189
+1702,2025-06-27,Bitung,Berawan,Siang,893,24.75,190
+1703,2025-06-19,Bitung,Hujan Deras,Siang,635,41.09,43
+1704,2025-06-14,Makassar,Cerah,Siang,145,12.42,101
+1705,2025-06-13,Bitung,Berawan,Pagi,633,35.93,172
+1706,2025-07-17,Bitung,Berawan,Siang,305,13.55,24
+1707,2025-07-12,Belawan,Hujan Deras,Siang,276,31.25,68
+1708,2025-06-12,Bitung,Cerah,Pagi,495,44.88,76
+1709,2025-07-15,Tanjung Perak,Cerah,Malam,367,30.04,151
+1710,2025-07-29,Belawan,Berawan,Siang,672,26.82,199
+1711,2025-06-27,Makassar,Hujan Ringan,Malam,964,38.79,178
+1712,2025-07-11,Tanjung Perak,Hujan Deras,Siang,201,24.46,13
+1713,2025-07-09,Belawan,Hujan Ringan,Malam,358,26.96,10
+1714,2025-06-23,Makassar,Berawan,Siang,684,40.56,122
+1715,2025-06-29,Makassar,Berawan,Siang,550,22.41,56
+1716,2025-07-17,Tanjung Priok,Berawan,Pagi,509,33.05,180
+1717,2025-06-08,Belawan,Badai,Pagi,716,20.4,83
+1718,2025-07-23,Tanjung Perak,Berawan,Malam,607,16.99,135
+1719,2025-06-19,Belawan,Hujan Deras,Pagi,255,38.63,13
+1720,2025-06-11,Belawan,Hujan Deras,Pagi,270,14.19,82
+1721,2025-07-30,Tanjung Perak,Hujan Ringan,Siang,578,24.2,129
+1722,2025-06-05,Tanjung Perak,Hujan Deras,Malam,775,12.67,182
+1723,2025-07-16,Makassar,Hujan Ringan,Malam,123,13.94,47
+1724,2025-07-18,Bitung,Hujan Ringan,Pagi,975,14.49,48
+1725,2025-06-12,Belawan,Badai,Malam,861,14.59,86
+1726,2025-07-20,Tanjung Priok,Cerah,Malam,270,16.83,61
+1727,2025-07-14,Belawan,Hujan Deras,Siang,929,44.96,23
+1728,2025-07-13,Tanjung Perak,Hujan Ringan,Malam,469,27.42,192
+1729,2025-06-12,Bitung,Hujan Deras,Siang,984,38.61,133
+1730,2025-07-24,Tanjung Priok,Cerah,Malam,958,43.27,42
+1731,2025-06-04,Tanjung Perak,Berawan,Siang,665,22.26,19
+1732,2025-06-12,Tanjung Priok,Berawan,Pagi,993,17.86,105
+1733,2025-06-07,Tanjung Perak,Cerah,Siang,986,30.25,102
+1734,2025-06-13,Tanjung Priok,Badai,Siang,357,45.35,151
+1735,2025-07-09,Makassar,Cerah,Pagi,329,13.24,151
+1736,2025-06-01,Bitung,Hujan Deras,Siang,666,41.55,16
+1737,2025-07-07,Bitung,Hujan Ringan,Pagi,496,45.5,96
+1738,2025-07-22,Bitung,Berawan,Pagi,683,27.64,167
+1739,2025-07-05,Tanjung Priok,Berawan,Malam,147,39.81,64
+1740,2025-06-11,Bitung,Hujan Deras,Malam,429,30.31,41
+1741,2025-06-19,Bitung,Badai,Pagi,268,20.41,182
+1742,2025-07-25,Makassar,Badai,Malam,888,17.89,110
+1743,2025-06-24,Bitung,Hujan Deras,Malam,361,23.07,145
+1744,2025-07-07,Tanjung Priok,Hujan Deras,Pagi,371,34.17,49
+1745,2025-07-28,Tanjung Priok,Badai,Siang,398,13.55,121
+1746,2025-07-16,Bitung,Hujan Deras,Pagi,804,36.6,44
+1747,2025-07-30,Tanjung Priok,Badai,Pagi,250,13.67,38
+1748,2025-07-11,Tanjung Perak,Berawan,Malam,947,13.19,177
+1749,2025-07-12,Tanjung Perak,Hujan Deras,Malam,272,15.47,164
+1750,2025-07-13,Bitung,Hujan Ringan,Pagi,710,21.25,170
+1751,2025-06-08,Bitung,Cerah,Pagi,684,39.33,168
+1752,2025-06-22,Tanjung Perak,Badai,Malam,830,30.65,133
+1753,2025-06-02,Tanjung Perak,Berawan,Malam,553,15.45,110
+1754,2025-07-26,Makassar,Cerah,Pagi,265,21.66,169
+1755,2025-07-07,Tanjung Perak,Badai,Siang,890,33.89,184
+1756,2025-06-07,Tanjung Perak,Hujan Ringan,Malam,862,28.84,70
+1757,2025-06-27,Makassar,Hujan Ringan,Malam,358,24.37,120
+1758,2025-07-12,Tanjung Perak,Hujan Deras,Siang,272,35.72,166
+1759,2025-07-14,Makassar,Berawan,Malam,983,49.07,146
+1760,2025-07-04,Tanjung Perak,Badai,Siang,463,40.47,164
+1761,2025-07-13,Tanjung Perak,Hujan Ringan,Malam,492,16.56,70
+1762,2025-06-06,Tanjung Priok,Berawan,Malam,272,42.46,66
+1763,2025-07-29,Belawan,Hujan Deras,Siang,970,39.36,155
+1764,2025-07-15,Tanjung Priok,Hujan Ringan,Malam,160,22.02,25
+1765,2025-06-13,Makassar,Hujan Ringan,Siang,741,32.02,78
+1766,2025-07-02,Belawan,Hujan Ringan,Pagi,723,15.45,106
+1767,2025-07-22,Bitung,Hujan Deras,Malam,877,18.39,47
+1768,2025-06-24,Belawan,Badai,Malam,993,30.12,138
+1769,2025-06-21,Bitung,Berawan,Siang,680,21.89,131
+1770,2025-07-27,Tanjung Perak,Cerah,Siang,702,39.45,11
+1771,2025-06-06,Tanjung Perak,Berawan,Malam,785,19.32,149
+1772,2025-06-29,Bitung,Badai,Pagi,599,20.13,26
+1773,2025-06-11,Bitung,Hujan Deras,Malam,651,29.65,144
+1774,2025-06-05,Belawan,Badai,Siang,134,33.98,39
+1775,2025-06-20,Bitung,Badai,Pagi,488,39.03,90
+1776,2025-07-29,Bitung,Badai,Siang,763,26.27,106
+1777,2025-06-10,Belawan,Cerah,Siang,311,26.32,155
+1778,2025-07-25,Tanjung Priok,Cerah,Pagi,390,20.34,148
+1779,2025-06-25,Tanjung Perak,Cerah,Malam,119,47.63,120
+1780,2025-06-11,Bitung,Badai,Malam,231,29.67,113
+1781,2025-06-19,Bitung,Hujan Ringan,Pagi,995,42.42,152
+1782,2025-07-11,Belawan,Hujan Deras,Malam,157,39.48,123
+1783,2025-06-24,Tanjung Perak,Hujan Ringan,Siang,200,16.24,52
+1784,2025-06-24,Makassar,Cerah,Siang,408,34.09,71
+1785,2025-07-30,Tanjung Perak,Hujan Ringan,Pagi,651,42.52,160
+1786,2025-06-11,Belawan,Cerah,Malam,708,37.62,112
+1787,2025-07-12,Makassar,Hujan Ringan,Malam,981,48.67,181
+1788,2025-07-10,Belawan,Cerah,Malam,333,18.08,114
+1789,2025-07-17,Tanjung Priok,Cerah,Malam,812,33.73,40
+1790,2025-07-04,Tanjung Priok,Berawan,Malam,817,32.78,142
+1791,2025-06-07,Makassar,Badai,Malam,767,11.42,118
+1792,2025-06-19,Bitung,Hujan Deras,Pagi,606,10.82,52
+1793,2025-06-22,Bitung,Badai,Pagi,391,17.19,86
+1794,2025-06-28,Tanjung Priok,Badai,Malam,298,33.07,30
+1795,2025-07-03,Tanjung Priok,Cerah,Pagi,882,37.29,38
+1796,2025-07-19,Tanjung Priok,Cerah,Pagi,572,41.58,145
+1797,2025-07-15,Bitung,Hujan Ringan,Malam,727,19.67,79
+1798,2025-07-02,Tanjung Perak,Cerah,Pagi,190,12.37,39
+1799,2025-06-02,Tanjung Perak,Berawan,Malam,389,15.48,137
+1800,2025-07-25,Makassar,Cerah,Siang,899,31.24,58
+1801,2025-07-08,Makassar,Berawan,Siang,199,34.42,99
+1802,2025-06-03,Tanjung Perak,Hujan Deras,Pagi,670,42.5,37
+1803,2025-07-05,Tanjung Perak,Hujan Ringan,Pagi,635,30.86,48
+1804,2025-06-07,Bitung,Badai,Siang,821,14.39,131
+1805,2025-07-14,Bitung,Badai,Siang,538,42.14,132
+1806,2025-07-16,Makassar,Berawan,Malam,214,46.14,145
+1807,2025-07-05,Tanjung Perak,Hujan Deras,Malam,484,46.05,192
+1808,2025-06-22,Bitung,Berawan,Malam,505,19.22,53
+1809,2025-06-24,Tanjung Priok,Badai,Siang,754,15.81,83
+1810,2025-07-14,Belawan,Berawan,Pagi,324,14.13,72
+1811,2025-06-15,Tanjung Priok,Cerah,Siang,130,31.3,140
+1812,2025-06-15,Tanjung Priok,Badai,Malam,362,33.27,138
+1813,2025-06-28,Bitung,Berawan,Pagi,199,41.2,179
+1814,2025-07-10,Tanjung Priok,Badai,Pagi,511,32.0,82
+1815,2025-06-21,Bitung,Cerah,Pagi,789,25.68,71
+1816,2025-06-16,Tanjung Priok,Hujan Deras,Pagi,551,26.56,54
+1817,2025-07-16,Bitung,Badai,Siang,392,34.64,125
+1818,2025-06-26,Belawan,Cerah,Siang,245,27.92,177
+1819,2025-07-14,Bitung,Cerah,Siang,680,12.9,10
+1820,2025-07-27,Bitung,Berawan,Malam,189,15.95,130
+1821,2025-07-19,Tanjung Perak,Cerah,Pagi,693,37.53,151
+1822,2025-06-09,Belawan,Badai,Pagi,271,27.97,36
+1823,2025-06-19,Makassar,Berawan,Pagi,997,13.34,49
+1824,2025-06-20,Tanjung Priok,Badai,Pagi,194,20.07,99
+1825,2025-06-13,Tanjung Priok,Badai,Malam,363,38.28,95
+1826,2025-07-20,Tanjung Priok,Hujan Ringan,Pagi,734,38.22,186
+1827,2025-06-24,Bitung,Hujan Ringan,Siang,611,26.69,113
+1828,2025-07-10,Tanjung Priok,Badai,Malam,488,11.26,187
+1829,2025-07-02,Belawan,Berawan,Malam,523,31.36,76
+1830,2025-06-16,Tanjung Priok,Hujan Ringan,Malam,396,10.34,91
+1831,2025-06-28,Bitung,Berawan,Pagi,463,30.33,150
+1832,2025-06-16,Bitung,Badai,Siang,321,18.12,63
+1833,2025-06-18,Makassar,Berawan,Malam,269,29.67,96
+1834,2025-06-25,Belawan,Berawan,Malam,241,20.03,34
+1835,2025-07-05,Bitung,Cerah,Pagi,463,36.17,189
+1836,2025-06-18,Makassar,Hujan Ringan,Malam,235,38.62,23
+1837,2025-06-15,Makassar,Berawan,Pagi,192,38.25,71
+1838,2025-06-29,Belawan,Hujan Ringan,Malam,323,24.95,194
+1839,2025-07-29,Belawan,Hujan Deras,Siang,949,39.47,128
+1840,2025-06-13,Makassar,Cerah,Malam,482,38.15,195
+1841,2025-06-21,Makassar,Hujan Ringan,Pagi,412,22.67,124
+1842,2025-07-05,Belawan,Badai,Siang,180,41.47,59
+1843,2025-06-09,Bitung,Cerah,Pagi,873,28.57,180
+1844,2025-07-11,Belawan,Hujan Ringan,Pagi,360,35.74,93
+1845,2025-07-01,Tanjung Priok,Hujan Ringan,Pagi,575,14.2,114
+1846,2025-06-18,Tanjung Priok,Berawan,Siang,868,20.9,119
+1847,2025-06-11,Bitung,Berawan,Siang,924,10.85,120
+1848,2025-07-11,Tanjung Priok,Berawan,Pagi,843,46.8,41
+1849,2025-06-05,Makassar,Hujan Ringan,Pagi,980,32.55,130
+1850,2025-07-20,Bitung,Badai,Siang,373,35.03,59
+1851,2025-07-07,Belawan,Cerah,Pagi,828,31.02,42
+1852,2025-07-13,Tanjung Priok,Hujan Ringan,Siang,266,20.55,101
+1853,2025-07-27,Tanjung Perak,Berawan,Malam,570,33.55,144
+1854,2025-06-18,Makassar,Berawan,Malam,830,48.38,33
+1855,2025-06-29,Bitung,Hujan Ringan,Siang,201,42.98,79
+1856,2025-07-05,Belawan,Berawan,Siang,748,49.25,164
+1857,2025-07-21,Belawan,Hujan Deras,Siang,961,14.33,39
+1858,2025-06-19,Belawan,Hujan Deras,Malam,881,36.45,125
+1859,2025-07-12,Bitung,Hujan Deras,Pagi,828,29.59,16
+1860,2025-07-14,Tanjung Priok,Hujan Deras,Pagi,574,42.34,69
+1861,2025-07-16,Belawan,Hujan Deras,Malam,423,23.8,14
+1862,2025-06-16,Makassar,Badai,Pagi,514,47.04,50
+1863,2025-07-14,Bitung,Badai,Siang,117,39.81,122
+1864,2025-07-21,Bitung,Hujan Ringan,Siang,393,30.21,200
+1865,2025-07-17,Tanjung Perak,Hujan Ringan,Siang,144,30.22,105
+1866,2025-06-18,Belawan,Berawan,Malam,537,16.61,106
+1867,2025-06-01,Belawan,Cerah,Siang,541,24.27,155
+1868,2025-07-18,Bitung,Berawan,Malam,930,26.32,148
+1869,2025-06-18,Bitung,Berawan,Malam,862,24.21,153
+1870,2025-06-07,Belawan,Cerah,Malam,755,21.74,53
+1871,2025-06-09,Bitung,Hujan Deras,Malam,709,22.09,139
+1872,2025-06-22,Makassar,Berawan,Malam,376,25.0,96
+1873,2025-07-28,Belawan,Cerah,Malam,656,22.75,76
+1874,2025-07-20,Bitung,Hujan Deras,Malam,211,41.9,80
+1875,2025-06-05,Bitung,Hujan Ringan,Pagi,195,43.92,61
+1876,2025-06-12,Bitung,Badai,Malam,350,35.91,39
+1877,2025-06-21,Tanjung Perak,Hujan Ringan,Malam,430,42.91,39
+1878,2025-06-08,Tanjung Priok,Berawan,Malam,455,12.12,26
+1879,2025-06-10,Bitung,Hujan Deras,Pagi,468,45.03,177
+1880,2025-06-27,Tanjung Priok,Badai,Malam,601,24.16,81
+1881,2025-06-28,Tanjung Perak,Berawan,Siang,673,38.29,196
+1882,2025-07-22,Bitung,Cerah,Siang,940,17.97,116
+1883,2025-06-28,Tanjung Priok,Cerah,Pagi,267,29.44,112
+1884,2025-06-26,Tanjung Priok,Hujan Ringan,Siang,241,40.47,84
+1885,2025-07-09,Tanjung Perak,Badai,Pagi,790,37.22,118
+1886,2025-06-25,Bitung,Cerah,Malam,862,36.82,75
+1887,2025-06-08,Makassar,Hujan Ringan,Siang,169,15.79,120
+1888,2025-07-05,Belawan,Hujan Ringan,Siang,857,29.24,41
+1889,2025-07-23,Bitung,Hujan Deras,Siang,360,34.34,88
+1890,2025-07-27,Belawan,Cerah,Siang,783,43.74,70
+1891,2025-06-16,Makassar,Badai,Pagi,956,11.74,164
+1892,2025-06-17,Bitung,Badai,Siang,978,28.82,112
+1893,2025-06-15,Belawan,Hujan Deras,Siang,512,38.11,81
+1894,2025-07-03,Tanjung Perak,Badai,Malam,512,26.3,198
+1895,2025-06-25,Belawan,Cerah,Siang,421,43.29,196
+1896,2025-07-25,Belawan,Badai,Malam,518,30.77,102
+1897,2025-07-06,Tanjung Priok,Hujan Ringan,Pagi,949,23.89,180
+1898,2025-07-21,Makassar,Hujan Deras,Malam,527,49.93,38
+1899,2025-06-24,Bitung,Hujan Deras,Malam,524,17.31,64
+1900,2025-07-25,Bitung,Hujan Ringan,Pagi,582,47.01,56
+1901,2025-07-09,Belawan,Berawan,Pagi,118,25.77,20
+1902,2025-07-10,Tanjung Priok,Badai,Malam,859,11.71,176
+1903,2025-07-06,Tanjung Perak,Hujan Ringan,Malam,220,39.47,168
+1904,2025-06-05,Bitung,Badai,Siang,558,10.83,32
+1905,2025-06-22,Tanjung Priok,Berawan,Malam,424,35.07,104
+1906,2025-07-24,Tanjung Perak,Hujan Ringan,Siang,130,10.24,136
+1907,2025-06-26,Tanjung Perak,Badai,Siang,990,49.77,24
+1908,2025-06-20,Belawan,Cerah,Malam,383,22.81,13
+1909,2025-06-01,Bitung,Berawan,Pagi,777,33.38,105
+1910,2025-06-12,Bitung,Hujan Ringan,Malam,262,14.57,90
+1911,2025-06-12,Tanjung Priok,Badai,Pagi,242,37.04,29
+1912,2025-06-10,Makassar,Hujan Deras,Malam,684,34.16,19
+1913,2025-06-04,Tanjung Perak,Hujan Ringan,Malam,534,31.54,51
+1914,2025-07-18,Tanjung Priok,Badai,Malam,441,32.11,140
+1915,2025-07-22,Tanjung Perak,Cerah,Siang,882,30.86,69
+1916,2025-06-24,Tanjung Perak,Badai,Siang,873,35.21,142
+1917,2025-06-02,Makassar,Hujan Ringan,Pagi,511,33.55,183
+1918,2025-07-28,Tanjung Priok,Hujan Deras,Malam,381,26.32,56
+1919,2025-06-24,Tanjung Perak,Hujan Ringan,Pagi,853,36.34,150
+1920,2025-06-28,Bitung,Berawan,Siang,768,41.18,138
+1921,2025-07-12,Tanjung Priok,Berawan,Siang,618,38.8,49
+1922,2025-07-22,Belawan,Hujan Ringan,Siang,501,28.35,91
+1923,2025-06-17,Belawan,Hujan Ringan,Siang,316,38.47,139
+1924,2025-06-14,Bitung,Hujan Deras,Pagi,374,18.31,94
+1925,2025-07-23,Makassar,Badai,Siang,565,15.1,92
+1926,2025-06-22,Tanjung Priok,Berawan,Siang,590,24.38,133
+1927,2025-06-12,Bitung,Cerah,Malam,508,26.19,176
+1928,2025-06-17,Bitung,Berawan,Pagi,737,39.9,120
+1929,2025-07-01,Belawan,Hujan Deras,Pagi,167,32.13,83
+1930,2025-06-02,Bitung,Berawan,Siang,823,17.36,108
+1931,2025-07-29,Tanjung Perak,Cerah,Malam,697,11.1,21
+1932,2025-07-02,Tanjung Perak,Cerah,Siang,363,44.24,175
+1933,2025-06-08,Makassar,Berawan,Pagi,774,40.64,20
+1934,2025-06-17,Tanjung Priok,Berawan,Malam,994,46.67,190
+1935,2025-06-19,Tanjung Perak,Hujan Ringan,Malam,631,31.14,168
+1936,2025-07-08,Makassar,Hujan Ringan,Pagi,841,31.3,63
+1937,2025-07-23,Tanjung Priok,Hujan Ringan,Malam,889,20.39,194
+1938,2025-06-14,Tanjung Perak,Badai,Siang,553,37.62,94
+1939,2025-07-02,Belawan,Berawan,Malam,155,49.15,98
+1940,2025-07-14,Tanjung Priok,Badai,Pagi,711,22.91,26
+1941,2025-06-28,Tanjung Priok,Hujan Deras,Pagi,464,44.18,185
+1942,2025-06-14,Tanjung Perak,Badai,Malam,886,45.21,82
+1943,2025-07-10,Tanjung Perak,Cerah,Siang,203,44.2,88
+1944,2025-07-03,Belawan,Cerah,Siang,540,47.17,105
+1945,2025-06-19,Tanjung Priok,Badai,Malam,877,44.81,140
+1946,2025-06-05,Makassar,Berawan,Malam,544,10.69,118
+1947,2025-06-25,Tanjung Perak,Hujan Deras,Pagi,703,12.41,142
+1948,2025-07-28,Makassar,Berawan,Malam,730,29.93,129
+1949,2025-06-10,Tanjung Priok,Hujan Deras,Siang,877,47.3,14
+1950,2025-06-01,Tanjung Perak,Badai,Malam,309,39.92,74
+1951,2025-07-27,Tanjung Priok,Hujan Deras,Pagi,710,47.15,128
+1952,2025-06-02,Belawan,Cerah,Pagi,639,34.4,128
+1953,2025-06-01,Bitung,Hujan Deras,Pagi,278,49.16,82
+1954,2025-06-14,Makassar,Hujan Ringan,Pagi,776,34.37,121
+1955,2025-06-10,Belawan,Hujan Ringan,Siang,696,18.42,118
+1956,2025-06-12,Tanjung Priok,Hujan Ringan,Siang,927,34.93,71
+1957,2025-06-29,Belawan,Cerah,Siang,576,48.89,158
+1958,2025-06-19,Belawan,Hujan Ringan,Siang,509,18.21,30
+1959,2025-06-13,Tanjung Perak,Cerah,Siang,936,41.73,117
+1960,2025-07-19,Tanjung Perak,Badai,Siang,872,15.89,42
+1961,2025-06-24,Tanjung Perak,Badai,Malam,220,48.25,83
+1962,2025-06-24,Tanjung Perak,Hujan Ringan,Malam,642,32.35,81
+1963,2025-06-11,Belawan,Hujan Deras,Pagi,597,37.41,77
+1964,2025-07-22,Tanjung Priok,Hujan Ringan,Malam,651,13.07,132
+1965,2025-07-01,Tanjung Priok,Hujan Deras,Siang,272,16.02,69
+1966,2025-06-14,Makassar,Hujan Deras,Pagi,496,26.86,133
+1967,2025-06-14,Tanjung Perak,Badai,Siang,720,17.42,61
+1968,2025-07-20,Tanjung Priok,Berawan,Malam,872,33.26,78
+1969,2025-06-29,Belawan,Cerah,Malam,173,48.98,141
+1970,2025-07-24,Tanjung Perak,Hujan Ringan,Pagi,665,36.71,50
+1971,2025-06-15,Tanjung Priok,Hujan Ringan,Pagi,603,27.68,155
+1972,2025-07-16,Tanjung Priok,Cerah,Malam,912,11.98,167
+1973,2025-06-29,Tanjung Perak,Cerah,Malam,867,46.35,139
+1974,2025-07-20,Bitung,Badai,Malam,532,41.04,57
+1975,2025-06-21,Bitung,Badai,Pagi,362,37.07,121
+1976,2025-07-24,Belawan,Hujan Deras,Malam,351,19.78,153
+1977,2025-07-04,Belawan,Cerah,Pagi,443,26.18,50
+1978,2025-06-14,Makassar,Cerah,Siang,606,29.41,77
+1979,2025-06-30,Makassar,Hujan Deras,Malam,501,22.33,54
+1980,2025-07-30,Tanjung Priok,Hujan Deras,Malam,974,11.92,171
+1981,2025-06-01,Tanjung Priok,Badai,Malam,611,45.21,188
+1982,2025-07-15,Belawan,Berawan,Pagi,199,36.99,41
+1983,2025-06-30,Tanjung Priok,Cerah,Pagi,508,13.44,24
+1984,2025-06-16,Bitung,Hujan Deras,Pagi,506,22.61,17
+1985,2025-07-04,Belawan,Hujan Deras,Pagi,948,21.75,169
+1986,2025-06-30,Tanjung Perak,Hujan Ringan,Siang,170,19.02,181
+1987,2025-07-17,Tanjung Priok,Hujan Deras,Siang,250,28.22,155
+1988,2025-06-30,Makassar,Berawan,Pagi,479,32.79,171
+1989,2025-06-29,Belawan,Berawan,Siang,588,44.29,181
+1990,2025-07-13,Bitung,Hujan Deras,Pagi,962,44.13,27
+1991,2025-06-19,Belawan,Berawan,Pagi,880,27.32,38
+1992,2025-07-06,Belawan,Berawan,Pagi,133,14.14,15
+1993,2025-07-01,Tanjung Perak,Hujan Deras,Siang,276,13.05,191
+1994,2025-06-20,Tanjung Perak,Cerah,Siang,665,18.29,101
+1995,2025-07-18,Tanjung Priok,Berawan,Siang,838,26.45,118
+1996,2025-06-22,Tanjung Priok,Berawan,Pagi,307,30.74,86
+1997,2025-07-23,Belawan,Hujan Deras,Pagi,569,38.01,190
+1998,2025-06-10,Tanjung Priok,Berawan,Siang,578,14.63,112
+1999,2025-06-19,Tanjung Perak,Badai,Malam,483,45.3,20
+2000,2025-06-28,Tanjung Perak,Badai,Pagi,553,48.12,187

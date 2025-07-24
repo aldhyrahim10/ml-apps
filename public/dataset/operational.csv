@@ -1,0 +1,2001 @@
+ID,Tanggal,Pelabuhan,Jenis Kendala,Cuaca,Volume Kargo (ton),Risiko Delay (Jam),Rekomendasi AI
+ISS0001,29/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,18011,0.22,Tunda pengiriman hingga cuaca membaik
+ISS0002,03/07/2025,Bitung,Cuaca Buruk,Angin Kencang,16176,0.3,Alihkan kontainer ke terminal lain
+ISS0003,08/06/2025,Bitung,Force Majeure,Angin Kencang,11250,0.58,Alokasikan ke terminal cadangan
+ISS0004,28/07/2025,Tanjung Priok,Overload,Cerah,17724,0.31,Alokasikan ke terminal cadangan
+ISS0005,20/06/2025,Bitung,Force Majeure,Angin Kencang,9123,0.65,Alihkan ke pelabuhan terdekat
+ISS0006,07/06/2025,Bitung,Force Majeure,Kabut Tebal,14158,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0007,29/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,6330,0.16,Koordinasi dengan otoritas pelabuhan
+ISS0008,12/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,13902,0.47,Tambahkan armada ke pelabuhan
+ISS0009,12/07/2025,Tanjung Priok,Overload,Hujan Deras,18374,0.71,Alokasikan ke terminal cadangan
+ISS0010,15/07/2025,Bitung,Overload,Kabut Tebal,12353,0.62,Percepat proses bongkar saat cuaca memungkinkan
+ISS0011,10/07/2025,Bitung,Overload,Badai,16179,0.63,Alihkan ke pelabuhan terdekat
+ISS0012,10/06/2025,Belawan,Overload,Badai,3087,0.24,Koordinasi dengan otoritas pelabuhan
+ISS0013,14/07/2025,Belawan,Overload,Badai,8255,0.56,Alihkan ke pelabuhan terdekat
+ISS0014,16/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,18978,0.83,Alokasikan ke terminal cadangan
+ISS0015,04/06/2025,Makassar,Force Majeure,Hujan Deras,15805,0.6,Koordinasi dengan otoritas pelabuhan
+ISS0016,27/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,11892,0.13,Alokasikan ke terminal cadangan
+ISS0017,24/07/2025,Makassar,Overload,Cerah,18819,0.84,Tambahkan armada ke pelabuhan
+ISS0018,19/06/2025,Tanjung Perak,Overload,Kabut Tebal,15740,0.28,Alihkan ke pelabuhan terdekat
+ISS0019,29/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,15748,0.32,Alokasikan ke terminal cadangan
+ISS0020,27/07/2025,Makassar,Cuaca Buruk,Angin Kencang,11586,0.67,Alihkan ke pelabuhan terdekat
+ISS0021,19/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,10599,0.26,Alihkan kontainer ke terminal lain
+ISS0022,12/07/2025,Belawan,Overload,Badai,8846,0.61,Tambahkan armada ke pelabuhan
+ISS0023,21/07/2025,Tanjung Perak,Force Majeure,Cerah,11889,0.16,Alihkan ke pelabuhan terdekat
+ISS0024,14/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,8706,0.66,Aktifkan jalur logistik alternatif
+ISS0025,28/07/2025,Tanjung Priok,Overload,Badai,18674,0.27,Aktifkan jalur logistik alternatif
+ISS0026,14/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,15768,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0027,06/07/2025,Tanjung Perak,Overload,Badai,15461,0.53,Aktifkan jalur logistik alternatif
+ISS0028,27/07/2025,Belawan,Force Majeure,Angin Kencang,6649,0.33,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0029,29/06/2025,Makassar,Cuaca Buruk,Angin Kencang,9633,0.76,Tunda pengiriman hingga cuaca membaik
+ISS0030,12/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,13037,0.64,Tunda pengiriman hingga cuaca membaik
+ISS0031,05/06/2025,Belawan,Overload,Badai,6475,0.67,Aktifkan jalur logistik alternatif
+ISS0032,24/07/2025,Tanjung Perak,Overload,Angin Kencang,3393,0.2,Aktifkan jalur logistik alternatif
+ISS0033,21/06/2025,Makassar,Overload,Cerah,6610,0.49,Alihkan kontainer ke terminal lain
+ISS0034,07/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,3385,0.11,Koordinasi dengan otoritas pelabuhan
+ISS0035,02/06/2025,Belawan,Overload,Hujan Deras,10717,0.14,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0036,10/06/2025,Bitung,Cuaca Buruk,Angin Kencang,19779,0.53,Alihkan kontainer ke terminal lain
+ISS0037,30/06/2025,Belawan,Force Majeure,Angin Kencang,6901,0.72,Aktifkan jalur logistik alternatif
+ISS0038,16/06/2025,Tanjung Perak,Overload,Kabut Tebal,14887,0.84,Alihkan kontainer ke terminal lain
+ISS0039,16/07/2025,Makassar,Force Majeure,Cerah,11317,0.64,Tunda pengiriman hingga cuaca membaik
+ISS0040,22/06/2025,Tanjung Priok,Overload,Kabut Tebal,16327,0.41,Alokasikan ke terminal cadangan
+ISS0041,09/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,9227,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS0042,28/06/2025,Bitung,Force Majeure,Hujan Deras,9374,0.91,Alihkan kontainer ke terminal lain
+ISS0043,25/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,15287,0.26,Aktifkan jalur logistik alternatif
+ISS0044,14/07/2025,Belawan,Cuaca Buruk,Angin Kencang,16347,0.94,Tunda pengiriman hingga cuaca membaik
+ISS0045,27/06/2025,Bitung,Overload,Badai,18329,0.12,Aktifkan jalur logistik alternatif
+ISS0046,02/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,13470,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0047,06/07/2025,Makassar,Overload,Hujan Deras,10508,0.32,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0048,09/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,19871,0.43,Alihkan kontainer ke terminal lain
+ISS0049,25/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,12471,0.92,Tambahkan armada ke pelabuhan
+ISS0050,18/06/2025,Tanjung Priok,Force Majeure,Cerah,12796,0.11,Percepat proses bongkar saat cuaca memungkinkan
+ISS0051,12/06/2025,Makassar,Cuaca Buruk,Hujan Deras,19607,0.28,Tambahkan armada ke pelabuhan
+ISS0052,05/07/2025,Tanjung Priok,Overload,Cerah,9347,0.12,Alihkan ke pelabuhan terdekat
+ISS0053,26/07/2025,Makassar,Overload,Angin Kencang,7411,0.7,Aktifkan jalur logistik alternatif
+ISS0054,24/07/2025,Tanjung Priok,Overload,Kabut Tebal,19926,0.53,Alihkan kontainer ke terminal lain
+ISS0055,14/07/2025,Bitung,Cuaca Buruk,Badai,6968,0.59,Alihkan kontainer ke terminal lain
+ISS0056,24/06/2025,Tanjung Perak,Overload,Cerah,2782,0.77,Alokasikan ke terminal cadangan
+ISS0057,05/06/2025,Tanjung Priok,Overload,Angin Kencang,2848,0.7,Alokasikan ke terminal cadangan
+ISS0058,26/06/2025,Belawan,Overload,Kabut Tebal,12336,0.11,Percepat proses bongkar saat cuaca memungkinkan
+ISS0059,06/07/2025,Makassar,Force Majeure,Badai,4333,0.75,Alihkan ke pelabuhan terdekat
+ISS0060,29/06/2025,Bitung,Overload,Angin Kencang,17004,0.17,Koordinasi dengan otoritas pelabuhan
+ISS0061,21/07/2025,Belawan,Overload,Badai,4549,0.83,Koordinasi dengan otoritas pelabuhan
+ISS0062,26/06/2025,Makassar,Overload,Cerah,16362,0.93,Alihkan ke pelabuhan terdekat
+ISS0063,18/07/2025,Belawan,Overload,Badai,18171,0.62,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0064,13/06/2025,Makassar,Overload,Angin Kencang,17798,0.5,Alihkan ke pelabuhan terdekat
+ISS0065,28/06/2025,Bitung,Overload,Hujan Deras,2483,0.7,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0066,30/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,19482,0.48,Aktifkan jalur logistik alternatif
+ISS0067,07/07/2025,Belawan,Overload,Angin Kencang,4619,0.45,Alokasikan ke terminal cadangan
+ISS0068,22/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,7613,0.42,Tunda pengiriman hingga cuaca membaik
+ISS0069,01/06/2025,Belawan,Cuaca Buruk,Cerah,13053,0.93,Koordinasi dengan otoritas pelabuhan
+ISS0070,03/06/2025,Makassar,Force Majeure,Cerah,7026,0.35,Koordinasi dengan otoritas pelabuhan
+ISS0071,24/06/2025,Belawan,Force Majeure,Hujan Deras,15750,0.91,Alihkan kontainer ke terminal lain
+ISS0072,24/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,13069,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS0073,05/06/2025,Belawan,Cuaca Buruk,Angin Kencang,3578,0.61,Tambahkan armada ke pelabuhan
+ISS0074,04/07/2025,Tanjung Perak,Cuaca Buruk,Badai,13709,0.33,Tambahkan armada ke pelabuhan
+ISS0075,15/07/2025,Bitung,Overload,Angin Kencang,8403,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0076,10/06/2025,Tanjung Perak,Force Majeure,Cerah,13904,0.23,Alokasikan ke terminal cadangan
+ISS0077,18/07/2025,Belawan,Force Majeure,Angin Kencang,14500,0.42,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0078,22/06/2025,Makassar,Overload,Kabut Tebal,10116,0.8,Alihkan kontainer ke terminal lain
+ISS0079,29/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,10091,0.18,Aktifkan jalur logistik alternatif
+ISS0080,09/06/2025,Tanjung Perak,Overload,Angin Kencang,17922,0.68,Tunda pengiriman hingga cuaca membaik
+ISS0081,29/06/2025,Makassar,Force Majeure,Angin Kencang,18722,0.47,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0082,02/07/2025,Bitung,Cuaca Buruk,Hujan Deras,9284,0.43,Tambahkan armada ke pelabuhan
+ISS0083,03/06/2025,Makassar,Force Majeure,Badai,14602,0.69,Alihkan ke pelabuhan terdekat
+ISS0084,04/06/2025,Makassar,Overload,Hujan Deras,5486,0.64,Alihkan kontainer ke terminal lain
+ISS0085,16/07/2025,Bitung,Overload,Hujan Deras,2825,0.2,Koordinasi dengan otoritas pelabuhan
+ISS0086,17/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,9726,0.24,Koordinasi dengan otoritas pelabuhan
+ISS0087,09/06/2025,Bitung,Force Majeure,Angin Kencang,6223,0.86,Koordinasi dengan otoritas pelabuhan
+ISS0088,16/06/2025,Tanjung Perak,Overload,Badai,12666,0.67,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0089,27/06/2025,Bitung,Cuaca Buruk,Hujan Deras,7411,0.94,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0090,27/06/2025,Makassar,Overload,Hujan Deras,15641,0.48,Tambahkan armada ke pelabuhan
+ISS0091,18/07/2025,Belawan,Force Majeure,Kabut Tebal,3029,0.39,Alihkan ke pelabuhan terdekat
+ISS0092,17/07/2025,Belawan,Overload,Cerah,13793,0.11,Alokasikan ke terminal cadangan
+ISS0093,16/06/2025,Belawan,Force Majeure,Angin Kencang,4354,0.55,Aktifkan jalur logistik alternatif
+ISS0094,25/07/2025,Tanjung Perak,Overload,Kabut Tebal,6384,0.36,Alihkan ke pelabuhan terdekat
+ISS0095,06/07/2025,Tanjung Perak,Overload,Cerah,13474,0.73,Tunda pengiriman hingga cuaca membaik
+ISS0096,07/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,16086,0.6,Tambahkan armada ke pelabuhan
+ISS0097,11/07/2025,Makassar,Force Majeure,Cerah,7906,0.74,Aktifkan jalur logistik alternatif
+ISS0098,07/07/2025,Belawan,Overload,Cerah,2442,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS0099,03/06/2025,Tanjung Priok,Overload,Hujan Deras,5673,0.56,Koordinasi dengan otoritas pelabuhan
+ISS0100,29/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,5543,0.46,Aktifkan jalur logistik alternatif
+ISS0101,16/06/2025,Bitung,Force Majeure,Kabut Tebal,18343,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS0102,24/06/2025,Tanjung Priok,Overload,Hujan Deras,19600,0.28,Alokasikan ke terminal cadangan
+ISS0103,29/06/2025,Tanjung Priok,Overload,Angin Kencang,13543,0.82,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0104,05/06/2025,Tanjung Perak,Cuaca Buruk,Badai,5887,0.7,Alihkan kontainer ke terminal lain
+ISS0105,07/06/2025,Belawan,Force Majeure,Cerah,11795,0.73,Tambahkan armada ke pelabuhan
+ISS0106,05/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,15635,0.46,Alihkan kontainer ke terminal lain
+ISS0107,14/07/2025,Belawan,Force Majeure,Cerah,11620,0.14,Aktifkan jalur logistik alternatif
+ISS0108,25/07/2025,Belawan,Overload,Cerah,5641,0.52,Alokasikan ke terminal cadangan
+ISS0109,07/07/2025,Belawan,Overload,Hujan Deras,7887,0.22,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0110,20/06/2025,Makassar,Cuaca Buruk,Hujan Deras,8160,0.19,Alihkan kontainer ke terminal lain
+ISS0111,24/06/2025,Tanjung Priok,Overload,Angin Kencang,19378,0.95,Alokasikan ke terminal cadangan
+ISS0112,20/06/2025,Belawan,Force Majeure,Hujan Deras,14695,0.76,Alihkan ke pelabuhan terdekat
+ISS0113,29/07/2025,Tanjung Perak,Overload,Cerah,8385,0.53,Alokasikan ke terminal cadangan
+ISS0114,28/07/2025,Belawan,Overload,Hujan Deras,13604,0.3,Alihkan ke pelabuhan terdekat
+ISS0115,29/07/2025,Belawan,Force Majeure,Kabut Tebal,9596,0.8,Alokasikan ke terminal cadangan
+ISS0116,25/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,17629,0.71,Koordinasi dengan otoritas pelabuhan
+ISS0117,18/07/2025,Belawan,Overload,Hujan Deras,2933,0.92,Tambahkan armada ke pelabuhan
+ISS0118,25/06/2025,Belawan,Cuaca Buruk,Angin Kencang,11107,0.43,Percepat proses bongkar saat cuaca memungkinkan
+ISS0119,06/06/2025,Tanjung Perak,Overload,Hujan Deras,17784,0.57,Koordinasi dengan otoritas pelabuhan
+ISS0120,01/06/2025,Tanjung Priok,Cuaca Buruk,Badai,12069,0.33,Tambahkan armada ke pelabuhan
+ISS0121,25/06/2025,Belawan,Force Majeure,Badai,2383,0.34,Alihkan ke pelabuhan terdekat
+ISS0122,29/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,14205,0.21,Alokasikan ke terminal cadangan
+ISS0123,04/07/2025,Belawan,Cuaca Buruk,Cerah,4094,0.74,Tambahkan armada ke pelabuhan
+ISS0124,05/06/2025,Tanjung Priok,Force Majeure,Cerah,12385,0.23,Aktifkan jalur logistik alternatif
+ISS0125,07/06/2025,Bitung,Overload,Hujan Deras,13204,0.93,Koordinasi dengan otoritas pelabuhan
+ISS0126,17/07/2025,Bitung,Cuaca Buruk,Badai,14458,0.57,Percepat proses bongkar saat cuaca memungkinkan
+ISS0127,28/06/2025,Makassar,Force Majeure,Cerah,13658,0.69,Koordinasi dengan otoritas pelabuhan
+ISS0128,18/06/2025,Makassar,Cuaca Buruk,Badai,19021,0.37,Tambahkan armada ke pelabuhan
+ISS0129,18/07/2025,Makassar,Force Majeure,Cerah,12690,0.77,Koordinasi dengan otoritas pelabuhan
+ISS0130,12/06/2025,Bitung,Force Majeure,Badai,7431,0.14,Alihkan kontainer ke terminal lain
+ISS0131,08/07/2025,Tanjung Perak,Force Majeure,Badai,14758,0.11,Alihkan kontainer ke terminal lain
+ISS0132,07/06/2025,Belawan,Cuaca Buruk,Angin Kencang,11279,0.5,Aktifkan jalur logistik alternatif
+ISS0133,29/06/2025,Bitung,Force Majeure,Angin Kencang,4499,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0134,06/07/2025,Makassar,Cuaca Buruk,Hujan Deras,18690,0.35,Aktifkan jalur logistik alternatif
+ISS0135,26/06/2025,Belawan,Cuaca Buruk,Hujan Deras,6016,0.53,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0136,15/07/2025,Makassar,Force Majeure,Cerah,13350,0.39,Alihkan ke pelabuhan terdekat
+ISS0137,28/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,7148,0.92,Tambahkan armada ke pelabuhan
+ISS0138,07/06/2025,Makassar,Force Majeure,Hujan Deras,2798,0.94,Tunda pengiriman hingga cuaca membaik
+ISS0139,17/07/2025,Belawan,Force Majeure,Kabut Tebal,14451,0.53,Alihkan kontainer ke terminal lain
+ISS0140,07/06/2025,Belawan,Force Majeure,Badai,14733,0.71,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0141,25/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,5906,0.62,Aktifkan jalur logistik alternatif
+ISS0142,19/07/2025,Tanjung Priok,Overload,Hujan Deras,9087,0.34,Tunda pengiriman hingga cuaca membaik
+ISS0143,19/06/2025,Makassar,Cuaca Buruk,Hujan Deras,2822,0.65,Koordinasi dengan otoritas pelabuhan
+ISS0144,28/07/2025,Bitung,Force Majeure,Cerah,11074,0.36,Alihkan ke pelabuhan terdekat
+ISS0145,28/06/2025,Tanjung Priok,Force Majeure,Cerah,4398,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0146,29/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,16594,0.57,Aktifkan jalur logistik alternatif
+ISS0147,28/06/2025,Tanjung Perak,Overload,Angin Kencang,3608,0.88,Alihkan kontainer ke terminal lain
+ISS0148,21/06/2025,Belawan,Overload,Angin Kencang,6388,0.45,Tambahkan armada ke pelabuhan
+ISS0149,05/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,18376,0.3,Percepat proses bongkar saat cuaca memungkinkan
+ISS0150,12/07/2025,Belawan,Cuaca Buruk,Hujan Deras,11896,0.48,Tunda pengiriman hingga cuaca membaik
+ISS0151,13/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,15902,0.91,Percepat proses bongkar saat cuaca memungkinkan
+ISS0152,14/06/2025,Tanjung Priok,Force Majeure,Cerah,16718,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0153,11/06/2025,Tanjung Perak,Force Majeure,Badai,9735,0.34,Percepat proses bongkar saat cuaca memungkinkan
+ISS0154,23/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,5397,0.94,Alihkan kontainer ke terminal lain
+ISS0155,20/06/2025,Bitung,Force Majeure,Kabut Tebal,15948,0.53,Alihkan kontainer ke terminal lain
+ISS0156,15/06/2025,Belawan,Force Majeure,Kabut Tebal,3850,0.94,Tambahkan armada ke pelabuhan
+ISS0157,21/06/2025,Belawan,Overload,Cerah,10041,0.29,Aktifkan jalur logistik alternatif
+ISS0158,27/07/2025,Belawan,Force Majeure,Badai,19452,0.93,Percepat proses bongkar saat cuaca memungkinkan
+ISS0159,13/07/2025,Belawan,Force Majeure,Angin Kencang,2719,0.91,Alokasikan ke terminal cadangan
+ISS0160,27/06/2025,Makassar,Overload,Cerah,7185,0.57,Tambahkan armada ke pelabuhan
+ISS0161,26/07/2025,Bitung,Force Majeure,Kabut Tebal,18703,0.72,Tunda pengiriman hingga cuaca membaik
+ISS0162,29/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,15078,0.21,Aktifkan jalur logistik alternatif
+ISS0163,20/07/2025,Bitung,Overload,Angin Kencang,3783,0.74,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0164,14/07/2025,Bitung,Force Majeure,Hujan Deras,19168,0.84,Tambahkan armada ke pelabuhan
+ISS0165,22/07/2025,Tanjung Priok,Overload,Kabut Tebal,15201,0.8,Tambahkan armada ke pelabuhan
+ISS0166,20/07/2025,Makassar,Cuaca Buruk,Badai,8915,0.47,Percepat proses bongkar saat cuaca memungkinkan
+ISS0167,15/06/2025,Tanjung Priok,Overload,Kabut Tebal,3810,0.41,Koordinasi dengan otoritas pelabuhan
+ISS0168,24/06/2025,Makassar,Cuaca Buruk,Badai,11665,0.53,Alokasikan ke terminal cadangan
+ISS0169,07/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,18924,0.55,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0170,30/06/2025,Makassar,Cuaca Buruk,Angin Kencang,14190,0.42,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0171,17/07/2025,Makassar,Cuaca Buruk,Hujan Deras,6649,0.17,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0172,12/07/2025,Tanjung Perak,Force Majeure,Cerah,7398,0.74,Koordinasi dengan otoritas pelabuhan
+ISS0173,15/06/2025,Bitung,Cuaca Buruk,Badai,18694,0.95,Alihkan ke pelabuhan terdekat
+ISS0174,14/06/2025,Tanjung Priok,Force Majeure,Badai,11777,0.71,Tunda pengiriman hingga cuaca membaik
+ISS0175,24/07/2025,Belawan,Overload,Kabut Tebal,14014,0.55,Percepat proses bongkar saat cuaca memungkinkan
+ISS0176,06/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,7172,0.63,Tambahkan armada ke pelabuhan
+ISS0177,24/06/2025,Makassar,Force Majeure,Cerah,11450,0.61,Tunda pengiriman hingga cuaca membaik
+ISS0178,28/06/2025,Tanjung Perak,Cuaca Buruk,Badai,4378,0.93,Aktifkan jalur logistik alternatif
+ISS0179,14/07/2025,Makassar,Overload,Cerah,3297,0.83,Alihkan kontainer ke terminal lain
+ISS0180,25/07/2025,Makassar,Cuaca Buruk,Badai,13074,0.81,Alihkan kontainer ke terminal lain
+ISS0181,30/06/2025,Tanjung Priok,Cuaca Buruk,Badai,9363,0.83,Alokasikan ke terminal cadangan
+ISS0182,30/07/2025,Tanjung Priok,Cuaca Buruk,Badai,9278,0.54,Alihkan ke pelabuhan terdekat
+ISS0183,11/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,6045,0.45,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0184,15/07/2025,Makassar,Overload,Hujan Deras,8762,0.11,Alokasikan ke terminal cadangan
+ISS0185,08/06/2025,Makassar,Cuaca Buruk,Badai,4436,0.25,Tambahkan armada ke pelabuhan
+ISS0186,14/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,14112,0.59,Koordinasi dengan otoritas pelabuhan
+ISS0187,11/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,19489,0.47,Aktifkan jalur logistik alternatif
+ISS0188,08/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,16962,0.41,Aktifkan jalur logistik alternatif
+ISS0189,02/07/2025,Bitung,Force Majeure,Cerah,11859,0.31,Percepat proses bongkar saat cuaca memungkinkan
+ISS0190,14/07/2025,Tanjung Perak,Overload,Badai,6998,0.86,Tambahkan armada ke pelabuhan
+ISS0191,30/07/2025,Belawan,Force Majeure,Badai,12868,0.18,Alihkan kontainer ke terminal lain
+ISS0192,10/07/2025,Tanjung Priok,Force Majeure,Badai,19251,0.69,Tambahkan armada ke pelabuhan
+ISS0193,25/06/2025,Belawan,Cuaca Buruk,Angin Kencang,4322,0.32,Percepat proses bongkar saat cuaca memungkinkan
+ISS0194,02/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,7145,0.61,Tunda pengiriman hingga cuaca membaik
+ISS0195,22/07/2025,Belawan,Overload,Cerah,14764,0.23,Tunda pengiriman hingga cuaca membaik
+ISS0196,02/07/2025,Tanjung Perak,Overload,Angin Kencang,19031,0.67,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0197,11/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,8533,0.12,Tunda pengiriman hingga cuaca membaik
+ISS0198,02/06/2025,Tanjung Perak,Force Majeure,Badai,3016,0.12,Koordinasi dengan otoritas pelabuhan
+ISS0199,25/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,9956,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0200,20/06/2025,Bitung,Force Majeure,Badai,16013,0.43,Koordinasi dengan otoritas pelabuhan
+ISS0201,13/07/2025,Tanjung Perak,Overload,Cerah,2155,0.7,Alokasikan ke terminal cadangan
+ISS0202,24/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,11643,0.35,Percepat proses bongkar saat cuaca memungkinkan
+ISS0203,05/07/2025,Bitung,Cuaca Buruk,Hujan Deras,9597,0.88,Koordinasi dengan otoritas pelabuhan
+ISS0204,11/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,2193,0.43,Alihkan ke pelabuhan terdekat
+ISS0205,16/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,10320,0.47,Alihkan kontainer ke terminal lain
+ISS0206,14/06/2025,Belawan,Overload,Kabut Tebal,7041,0.17,Percepat proses bongkar saat cuaca memungkinkan
+ISS0207,01/06/2025,Tanjung Perak,Force Majeure,Badai,8936,0.33,Alihkan kontainer ke terminal lain
+ISS0208,19/06/2025,Bitung,Overload,Kabut Tebal,6491,0.47,Koordinasi dengan otoritas pelabuhan
+ISS0209,25/07/2025,Bitung,Overload,Angin Kencang,6467,0.23,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0210,22/07/2025,Makassar,Force Majeure,Badai,19273,0.24,Aktifkan jalur logistik alternatif
+ISS0211,11/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,5651,0.91,Alihkan ke pelabuhan terdekat
+ISS0212,08/06/2025,Makassar,Cuaca Buruk,Hujan Deras,6083,0.72,Alokasikan ke terminal cadangan
+ISS0213,30/06/2025,Makassar,Cuaca Buruk,Badai,14988,0.74,Alihkan kontainer ke terminal lain
+ISS0214,17/07/2025,Tanjung Priok,Force Majeure,Badai,2985,0.34,Koordinasi dengan otoritas pelabuhan
+ISS0215,13/07/2025,Belawan,Overload,Cerah,2917,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS0216,17/07/2025,Bitung,Force Majeure,Badai,17297,0.42,Aktifkan jalur logistik alternatif
+ISS0217,21/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,17768,0.4,Alokasikan ke terminal cadangan
+ISS0218,14/07/2025,Makassar,Overload,Kabut Tebal,15029,0.51,Alihkan ke pelabuhan terdekat
+ISS0219,02/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,8098,0.87,Alihkan kontainer ke terminal lain
+ISS0220,30/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,4565,0.84,Koordinasi dengan otoritas pelabuhan
+ISS0221,09/06/2025,Bitung,Force Majeure,Kabut Tebal,18117,0.44,Alihkan kontainer ke terminal lain
+ISS0222,16/06/2025,Belawan,Overload,Hujan Deras,5263,0.66,Alihkan ke pelabuhan terdekat
+ISS0223,25/07/2025,Belawan,Overload,Cerah,14738,0.14,Aktifkan jalur logistik alternatif
+ISS0224,26/06/2025,Bitung,Overload,Badai,3593,0.69,Tambahkan armada ke pelabuhan
+ISS0225,22/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,16852,0.7,Tambahkan armada ke pelabuhan
+ISS0226,09/06/2025,Makassar,Force Majeure,Kabut Tebal,5370,0.77,Alihkan kontainer ke terminal lain
+ISS0227,03/07/2025,Tanjung Priok,Overload,Hujan Deras,5006,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0228,23/06/2025,Makassar,Force Majeure,Cerah,14611,0.34,Tambahkan armada ke pelabuhan
+ISS0229,26/06/2025,Belawan,Overload,Cerah,7535,0.9,Aktifkan jalur logistik alternatif
+ISS0230,23/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,2856,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0231,05/06/2025,Belawan,Overload,Cerah,11178,0.79,Percepat proses bongkar saat cuaca memungkinkan
+ISS0232,01/07/2025,Tanjung Priok,Force Majeure,Cerah,8189,0.62,Aktifkan jalur logistik alternatif
+ISS0233,17/06/2025,Belawan,Overload,Badai,5938,0.92,Tambahkan armada ke pelabuhan
+ISS0234,18/06/2025,Belawan,Force Majeure,Hujan Deras,19819,0.49,Percepat proses bongkar saat cuaca memungkinkan
+ISS0235,06/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,12899,0.51,Aktifkan jalur logistik alternatif
+ISS0236,20/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,8904,0.82,Alihkan kontainer ke terminal lain
+ISS0237,25/07/2025,Makassar,Cuaca Buruk,Hujan Deras,9598,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS0238,15/06/2025,Makassar,Cuaca Buruk,Angin Kencang,17985,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0239,25/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,3619,0.14,Alihkan kontainer ke terminal lain
+ISS0240,15/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,11905,0.72,Alihkan ke pelabuhan terdekat
+ISS0241,10/07/2025,Bitung,Overload,Kabut Tebal,15803,0.87,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0242,20/07/2025,Tanjung Perak,Overload,Kabut Tebal,17710,0.51,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0243,05/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,5173,0.6,Koordinasi dengan otoritas pelabuhan
+ISS0244,22/06/2025,Tanjung Perak,Cuaca Buruk,Badai,2694,0.49,Alihkan ke pelabuhan terdekat
+ISS0245,17/07/2025,Bitung,Cuaca Buruk,Badai,7521,0.62,Tambahkan armada ke pelabuhan
+ISS0246,08/07/2025,Bitung,Force Majeure,Badai,2058,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS0247,19/07/2025,Bitung,Force Majeure,Badai,15103,0.15,Aktifkan jalur logistik alternatif
+ISS0248,02/06/2025,Tanjung Priok,Overload,Badai,16296,0.73,Alihkan kontainer ke terminal lain
+ISS0249,05/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,5259,0.34,Percepat proses bongkar saat cuaca memungkinkan
+ISS0250,23/07/2025,Makassar,Cuaca Buruk,Cerah,14942,0.93,Alihkan kontainer ke terminal lain
+ISS0251,06/07/2025,Tanjung Priok,Overload,Cerah,5216,0.15,Percepat proses bongkar saat cuaca memungkinkan
+ISS0252,22/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,11627,0.8,Alokasikan ke terminal cadangan
+ISS0253,10/07/2025,Makassar,Cuaca Buruk,Hujan Deras,9856,0.53,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0254,10/06/2025,Belawan,Overload,Cerah,16174,0.54,Alihkan ke pelabuhan terdekat
+ISS0255,10/07/2025,Bitung,Overload,Badai,9020,0.54,Alihkan kontainer ke terminal lain
+ISS0256,28/07/2025,Belawan,Cuaca Buruk,Hujan Deras,19585,0.26,Tambahkan armada ke pelabuhan
+ISS0257,14/06/2025,Belawan,Cuaca Buruk,Angin Kencang,2563,0.61,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0258,21/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,16374,0.13,Koordinasi dengan otoritas pelabuhan
+ISS0259,01/07/2025,Bitung,Overload,Kabut Tebal,13173,0.18,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0260,16/06/2025,Belawan,Cuaca Buruk,Cerah,11616,0.93,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0261,09/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,3354,0.7,Aktifkan jalur logistik alternatif
+ISS0262,12/07/2025,Belawan,Force Majeure,Badai,4092,0.9,Alihkan ke pelabuhan terdekat
+ISS0263,09/06/2025,Makassar,Overload,Cerah,2570,0.27,Tambahkan armada ke pelabuhan
+ISS0264,26/06/2025,Makassar,Overload,Badai,12921,0.47,Alokasikan ke terminal cadangan
+ISS0265,18/06/2025,Belawan,Force Majeure,Angin Kencang,5356,0.94,Tunda pengiriman hingga cuaca membaik
+ISS0266,15/07/2025,Bitung,Force Majeure,Angin Kencang,11927,0.92,Tunda pengiriman hingga cuaca membaik
+ISS0267,30/07/2025,Makassar,Force Majeure,Kabut Tebal,16797,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0268,09/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,13474,0.72,Aktifkan jalur logistik alternatif
+ISS0269,12/07/2025,Bitung,Force Majeure,Cerah,6347,0.5,Alihkan kontainer ke terminal lain
+ISS0270,13/06/2025,Tanjung Perak,Force Majeure,Badai,13405,0.38,Alihkan kontainer ke terminal lain
+ISS0271,28/07/2025,Belawan,Cuaca Buruk,Badai,11475,0.23,Koordinasi dengan otoritas pelabuhan
+ISS0272,02/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,15208,0.35,Aktifkan jalur logistik alternatif
+ISS0273,29/06/2025,Tanjung Perak,Overload,Angin Kencang,7522,0.68,Alihkan ke pelabuhan terdekat
+ISS0274,01/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,16092,0.82,Alokasikan ke terminal cadangan
+ISS0275,12/07/2025,Makassar,Force Majeure,Badai,10006,0.85,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0276,05/06/2025,Belawan,Force Majeure,Cerah,13577,0.2,Tambahkan armada ke pelabuhan
+ISS0277,02/07/2025,Tanjung Priok,Cuaca Buruk,Badai,12199,0.42,Percepat proses bongkar saat cuaca memungkinkan
+ISS0278,08/07/2025,Belawan,Cuaca Buruk,Cerah,2937,0.42,Koordinasi dengan otoritas pelabuhan
+ISS0279,14/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,9880,0.21,Alihkan ke pelabuhan terdekat
+ISS0280,16/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,16089,0.49,Koordinasi dengan otoritas pelabuhan
+ISS0281,15/06/2025,Bitung,Cuaca Buruk,Angin Kencang,17586,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0282,04/06/2025,Bitung,Force Majeure,Cerah,2865,0.2,Alihkan kontainer ke terminal lain
+ISS0283,26/07/2025,Makassar,Force Majeure,Hujan Deras,9919,0.24,Aktifkan jalur logistik alternatif
+ISS0284,04/06/2025,Makassar,Force Majeure,Hujan Deras,11915,0.58,Percepat proses bongkar saat cuaca memungkinkan
+ISS0285,02/06/2025,Bitung,Cuaca Buruk,Angin Kencang,5813,0.58,Aktifkan jalur logistik alternatif
+ISS0286,12/07/2025,Belawan,Force Majeure,Angin Kencang,10076,0.64,Alokasikan ke terminal cadangan
+ISS0287,13/06/2025,Belawan,Overload,Hujan Deras,18455,0.15,Tambahkan armada ke pelabuhan
+ISS0288,03/07/2025,Makassar,Force Majeure,Cerah,5864,0.49,Percepat proses bongkar saat cuaca memungkinkan
+ISS0289,22/06/2025,Tanjung Priok,Overload,Badai,7668,0.84,Alihkan ke pelabuhan terdekat
+ISS0290,08/07/2025,Makassar,Overload,Cerah,3911,0.69,Alokasikan ke terminal cadangan
+ISS0291,24/07/2025,Makassar,Force Majeure,Hujan Deras,7919,0.1,Tambahkan armada ke pelabuhan
+ISS0292,12/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,4640,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0293,30/07/2025,Tanjung Perak,Overload,Badai,9045,0.93,Aktifkan jalur logistik alternatif
+ISS0294,15/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,9838,0.5,Alokasikan ke terminal cadangan
+ISS0295,13/07/2025,Bitung,Force Majeure,Cerah,4592,0.52,Aktifkan jalur logistik alternatif
+ISS0296,19/06/2025,Makassar,Force Majeure,Kabut Tebal,12052,0.13,Aktifkan jalur logistik alternatif
+ISS0297,23/07/2025,Makassar,Cuaca Buruk,Badai,3518,0.76,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0298,13/07/2025,Tanjung Perak,Overload,Angin Kencang,11477,0.2,Koordinasi dengan otoritas pelabuhan
+ISS0299,08/07/2025,Makassar,Force Majeure,Kabut Tebal,18335,0.72,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0300,24/07/2025,Tanjung Priok,Cuaca Buruk,Badai,4025,0.65,Tambahkan armada ke pelabuhan
+ISS0301,12/07/2025,Bitung,Overload,Angin Kencang,4376,0.93,Tunda pengiriman hingga cuaca membaik
+ISS0302,05/07/2025,Makassar,Cuaca Buruk,Hujan Deras,3605,0.47,Tunda pengiriman hingga cuaca membaik
+ISS0303,22/06/2025,Belawan,Force Majeure,Badai,8674,0.59,Tambahkan armada ke pelabuhan
+ISS0304,07/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,8869,0.31,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0305,07/06/2025,Tanjung Priok,Force Majeure,Badai,17803,0.64,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0306,11/06/2025,Tanjung Perak,Force Majeure,Cerah,10443,0.8,Alihkan ke pelabuhan terdekat
+ISS0307,01/07/2025,Makassar,Cuaca Buruk,Badai,9443,0.35,Aktifkan jalur logistik alternatif
+ISS0308,22/07/2025,Makassar,Force Majeure,Hujan Deras,11636,0.31,Alihkan ke pelabuhan terdekat
+ISS0309,01/06/2025,Tanjung Perak,Overload,Cerah,15623,0.28,Alihkan kontainer ke terminal lain
+ISS0310,17/06/2025,Tanjung Priok,Force Majeure,Badai,3596,0.93,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0311,09/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,13510,0.83,Tambahkan armada ke pelabuhan
+ISS0312,14/07/2025,Makassar,Force Majeure,Cerah,18721,0.49,Tambahkan armada ke pelabuhan
+ISS0313,07/07/2025,Belawan,Force Majeure,Cerah,3292,0.17,Alihkan ke pelabuhan terdekat
+ISS0314,12/07/2025,Belawan,Force Majeure,Angin Kencang,7615,0.6,Aktifkan jalur logistik alternatif
+ISS0315,03/07/2025,Tanjung Priok,Cuaca Buruk,Badai,10637,0.2,Alokasikan ke terminal cadangan
+ISS0316,29/06/2025,Bitung,Overload,Angin Kencang,7848,0.37,Alokasikan ke terminal cadangan
+ISS0317,11/07/2025,Belawan,Cuaca Buruk,Cerah,5009,0.88,Alihkan ke pelabuhan terdekat
+ISS0318,26/07/2025,Makassar,Overload,Cerah,17053,0.63,Tambahkan armada ke pelabuhan
+ISS0319,17/06/2025,Makassar,Cuaca Buruk,Hujan Deras,2537,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0320,30/07/2025,Bitung,Overload,Badai,19735,0.87,Alihkan kontainer ke terminal lain
+ISS0321,29/06/2025,Belawan,Force Majeure,Cerah,2362,0.57,Alihkan ke pelabuhan terdekat
+ISS0322,04/07/2025,Belawan,Force Majeure,Cerah,3736,0.48,Tambahkan armada ke pelabuhan
+ISS0323,10/07/2025,Makassar,Force Majeure,Hujan Deras,13195,0.14,Alihkan ke pelabuhan terdekat
+ISS0324,15/06/2025,Tanjung Priok,Overload,Cerah,4557,0.93,Alokasikan ke terminal cadangan
+ISS0325,23/07/2025,Bitung,Force Majeure,Hujan Deras,18048,0.41,Alihkan ke pelabuhan terdekat
+ISS0326,11/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,14436,0.52,Alihkan kontainer ke terminal lain
+ISS0327,30/07/2025,Makassar,Cuaca Buruk,Angin Kencang,18659,0.69,Tambahkan armada ke pelabuhan
+ISS0328,18/06/2025,Belawan,Force Majeure,Kabut Tebal,18122,0.93,Alihkan kontainer ke terminal lain
+ISS0329,09/07/2025,Tanjung Perak,Overload,Angin Kencang,12499,0.29,Percepat proses bongkar saat cuaca memungkinkan
+ISS0330,07/07/2025,Bitung,Force Majeure,Kabut Tebal,16083,0.3,Aktifkan jalur logistik alternatif
+ISS0331,23/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,11835,0.61,Koordinasi dengan otoritas pelabuhan
+ISS0332,22/06/2025,Tanjung Priok,Force Majeure,Cerah,4439,0.72,Tambahkan armada ke pelabuhan
+ISS0333,23/06/2025,Bitung,Overload,Cerah,3972,0.48,Percepat proses bongkar saat cuaca memungkinkan
+ISS0334,11/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,11628,0.79,Tunda pengiriman hingga cuaca membaik
+ISS0335,05/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,8752,0.66,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0336,05/07/2025,Bitung,Overload,Angin Kencang,3767,0.86,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0337,24/07/2025,Bitung,Cuaca Buruk,Hujan Deras,16563,0.81,Aktifkan jalur logistik alternatif
+ISS0338,01/07/2025,Makassar,Cuaca Buruk,Cerah,15027,0.48,Alihkan kontainer ke terminal lain
+ISS0339,01/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,5103,0.37,Koordinasi dengan otoritas pelabuhan
+ISS0340,25/06/2025,Tanjung Perak,Overload,Kabut Tebal,9119,0.6,Alokasikan ke terminal cadangan
+ISS0341,08/07/2025,Belawan,Overload,Angin Kencang,11842,0.28,Alihkan kontainer ke terminal lain
+ISS0342,19/06/2025,Tanjung Priok,Overload,Badai,16830,0.75,Alihkan kontainer ke terminal lain
+ISS0343,26/06/2025,Makassar,Cuaca Buruk,Hujan Deras,7423,0.64,Percepat proses bongkar saat cuaca memungkinkan
+ISS0344,01/06/2025,Belawan,Force Majeure,Angin Kencang,17486,0.83,Tunda pengiriman hingga cuaca membaik
+ISS0345,25/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,11977,0.38,Tunda pengiriman hingga cuaca membaik
+ISS0346,06/07/2025,Bitung,Overload,Kabut Tebal,12099,0.9,Tunda pengiriman hingga cuaca membaik
+ISS0347,17/06/2025,Makassar,Cuaca Buruk,Hujan Deras,19076,0.59,Alihkan kontainer ke terminal lain
+ISS0348,04/07/2025,Belawan,Overload,Badai,12575,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0349,09/06/2025,Tanjung Perak,Overload,Angin Kencang,8671,0.35,Koordinasi dengan otoritas pelabuhan
+ISS0350,09/07/2025,Makassar,Force Majeure,Cerah,17952,0.21,Percepat proses bongkar saat cuaca memungkinkan
+ISS0351,11/06/2025,Tanjung Priok,Overload,Angin Kencang,16725,0.15,Aktifkan jalur logistik alternatif
+ISS0352,16/06/2025,Belawan,Cuaca Buruk,Badai,8576,0.61,Alihkan kontainer ke terminal lain
+ISS0353,16/07/2025,Makassar,Cuaca Buruk,Angin Kencang,12399,0.54,Tunda pengiriman hingga cuaca membaik
+ISS0354,10/07/2025,Makassar,Overload,Kabut Tebal,13947,0.44,Alihkan kontainer ke terminal lain
+ISS0355,19/07/2025,Belawan,Overload,Hujan Deras,8614,0.36,Tambahkan armada ke pelabuhan
+ISS0356,03/06/2025,Bitung,Force Majeure,Kabut Tebal,19159,0.84,Koordinasi dengan otoritas pelabuhan
+ISS0357,03/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,15304,0.54,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0358,12/07/2025,Makassar,Force Majeure,Badai,5945,0.13,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0359,10/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,6280,0.15,Aktifkan jalur logistik alternatif
+ISS0360,24/06/2025,Makassar,Overload,Hujan Deras,11902,0.5,Tambahkan armada ke pelabuhan
+ISS0361,14/07/2025,Makassar,Overload,Cerah,18658,0.18,Percepat proses bongkar saat cuaca memungkinkan
+ISS0362,21/06/2025,Bitung,Force Majeure,Cerah,15565,0.77,Tambahkan armada ke pelabuhan
+ISS0363,14/06/2025,Bitung,Cuaca Buruk,Angin Kencang,7411,0.14,Alokasikan ke terminal cadangan
+ISS0364,09/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,4403,0.65,Koordinasi dengan otoritas pelabuhan
+ISS0365,10/07/2025,Belawan,Overload,Hujan Deras,13697,0.35,Alihkan kontainer ke terminal lain
+ISS0366,07/07/2025,Bitung,Overload,Badai,8460,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0367,20/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,8504,0.54,Alihkan kontainer ke terminal lain
+ISS0368,21/07/2025,Tanjung Priok,Overload,Kabut Tebal,13921,0.62,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0369,14/06/2025,Makassar,Overload,Hujan Deras,18972,0.93,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0370,17/06/2025,Tanjung Priok,Overload,Hujan Deras,10054,0.4,Aktifkan jalur logistik alternatif
+ISS0371,02/06/2025,Belawan,Force Majeure,Kabut Tebal,9762,0.92,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0372,28/07/2025,Bitung,Cuaca Buruk,Badai,4341,0.13,Alihkan ke pelabuhan terdekat
+ISS0373,25/06/2025,Bitung,Overload,Hujan Deras,3066,0.51,Alokasikan ke terminal cadangan
+ISS0374,11/07/2025,Belawan,Force Majeure,Cerah,8922,0.26,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0375,27/07/2025,Makassar,Overload,Cerah,19389,0.73,Aktifkan jalur logistik alternatif
+ISS0376,10/06/2025,Bitung,Cuaca Buruk,Hujan Deras,10498,0.77,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0377,20/07/2025,Makassar,Overload,Kabut Tebal,18922,0.65,Tambahkan armada ke pelabuhan
+ISS0378,22/06/2025,Belawan,Cuaca Buruk,Badai,5913,0.46,Alokasikan ke terminal cadangan
+ISS0379,17/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,4088,0.34,Koordinasi dengan otoritas pelabuhan
+ISS0380,29/06/2025,Makassar,Force Majeure,Kabut Tebal,18993,0.45,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0381,28/06/2025,Tanjung Priok,Overload,Kabut Tebal,11151,0.2,Tambahkan armada ke pelabuhan
+ISS0382,23/07/2025,Bitung,Force Majeure,Kabut Tebal,3299,0.44,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0383,08/06/2025,Belawan,Overload,Angin Kencang,6859,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS0384,22/06/2025,Tanjung Perak,Overload,Kabut Tebal,13916,0.53,Alihkan ke pelabuhan terdekat
+ISS0385,21/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,6023,0.61,Percepat proses bongkar saat cuaca memungkinkan
+ISS0386,04/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,9489,0.66,Tambahkan armada ke pelabuhan
+ISS0387,01/06/2025,Bitung,Overload,Hujan Deras,8277,0.91,Koordinasi dengan otoritas pelabuhan
+ISS0388,23/06/2025,Tanjung Perak,Force Majeure,Cerah,12428,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS0389,02/07/2025,Bitung,Cuaca Buruk,Badai,8277,0.87,Alihkan ke pelabuhan terdekat
+ISS0390,17/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,14658,0.32,Percepat proses bongkar saat cuaca memungkinkan
+ISS0391,10/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,11353,0.33,Tunda pengiriman hingga cuaca membaik
+ISS0392,28/06/2025,Belawan,Overload,Badai,19770,0.64,Tunda pengiriman hingga cuaca membaik
+ISS0393,19/07/2025,Makassar,Force Majeure,Hujan Deras,13785,0.26,Alihkan kontainer ke terminal lain
+ISS0394,14/06/2025,Bitung,Overload,Hujan Deras,2430,0.73,Tunda pengiriman hingga cuaca membaik
+ISS0395,10/07/2025,Tanjung Perak,Overload,Angin Kencang,8070,0.82,Aktifkan jalur logistik alternatif
+ISS0396,14/07/2025,Belawan,Force Majeure,Cerah,2388,0.83,Tunda pengiriman hingga cuaca membaik
+ISS0397,23/07/2025,Belawan,Overload,Badai,11141,0.94,Alihkan kontainer ke terminal lain
+ISS0398,10/06/2025,Tanjung Priok,Overload,Hujan Deras,11221,0.63,Alokasikan ke terminal cadangan
+ISS0399,07/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,6821,0.47,Alihkan ke pelabuhan terdekat
+ISS0400,23/06/2025,Makassar,Force Majeure,Kabut Tebal,14530,0.32,Alokasikan ke terminal cadangan
+ISS0401,16/06/2025,Makassar,Overload,Hujan Deras,6603,0.26,Aktifkan jalur logistik alternatif
+ISS0402,23/06/2025,Tanjung Perak,Overload,Hujan Deras,13881,0.92,Alokasikan ke terminal cadangan
+ISS0403,17/06/2025,Tanjung Perak,Force Majeure,Cerah,11790,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0404,26/06/2025,Tanjung Perak,Overload,Badai,11194,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0405,02/06/2025,Bitung,Cuaca Buruk,Cerah,11938,0.94,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0406,16/06/2025,Makassar,Cuaca Buruk,Badai,5127,0.21,Koordinasi dengan otoritas pelabuhan
+ISS0407,14/06/2025,Belawan,Force Majeure,Kabut Tebal,18753,0.85,Alihkan ke pelabuhan terdekat
+ISS0408,17/07/2025,Bitung,Overload,Badai,2758,0.91,Koordinasi dengan otoritas pelabuhan
+ISS0409,16/07/2025,Makassar,Cuaca Buruk,Cerah,17340,0.24,Alihkan kontainer ke terminal lain
+ISS0410,04/07/2025,Belawan,Overload,Cerah,19765,0.74,Alihkan ke pelabuhan terdekat
+ISS0411,27/06/2025,Tanjung Perak,Overload,Angin Kencang,2379,0.26,Aktifkan jalur logistik alternatif
+ISS0412,27/06/2025,Belawan,Cuaca Buruk,Cerah,6796,0.84,Alokasikan ke terminal cadangan
+ISS0413,28/07/2025,Tanjung Perak,Force Majeure,Cerah,16504,0.71,Aktifkan jalur logistik alternatif
+ISS0414,17/06/2025,Bitung,Force Majeure,Angin Kencang,19265,0.69,Alihkan ke pelabuhan terdekat
+ISS0415,21/06/2025,Tanjung Perak,Overload,Badai,12921,0.3,Aktifkan jalur logistik alternatif
+ISS0416,06/06/2025,Tanjung Perak,Overload,Cerah,3961,0.67,Alokasikan ke terminal cadangan
+ISS0417,17/06/2025,Bitung,Overload,Hujan Deras,18757,0.57,Tambahkan armada ke pelabuhan
+ISS0418,09/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,5695,0.23,Aktifkan jalur logistik alternatif
+ISS0419,27/06/2025,Belawan,Force Majeure,Cerah,11979,0.84,Tambahkan armada ke pelabuhan
+ISS0420,05/06/2025,Tanjung Perak,Overload,Hujan Deras,13487,0.14,Tambahkan armada ke pelabuhan
+ISS0421,07/07/2025,Makassar,Cuaca Buruk,Cerah,4841,0.89,Tunda pengiriman hingga cuaca membaik
+ISS0422,12/06/2025,Bitung,Overload,Angin Kencang,7450,0.22,Alihkan ke pelabuhan terdekat
+ISS0423,10/07/2025,Bitung,Overload,Hujan Deras,15588,0.8,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0424,30/07/2025,Belawan,Force Majeure,Hujan Deras,15203,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0425,07/07/2025,Tanjung Perak,Force Majeure,Badai,11408,0.5,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0426,30/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,14366,0.67,Alihkan ke pelabuhan terdekat
+ISS0427,16/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,10107,0.16,Alihkan ke pelabuhan terdekat
+ISS0428,25/06/2025,Tanjung Priok,Overload,Angin Kencang,8829,0.65,Alihkan ke pelabuhan terdekat
+ISS0429,06/06/2025,Makassar,Cuaca Buruk,Cerah,12556,0.26,Percepat proses bongkar saat cuaca memungkinkan
+ISS0430,07/07/2025,Tanjung Priok,Overload,Hujan Deras,11571,0.34,Percepat proses bongkar saat cuaca memungkinkan
+ISS0431,29/07/2025,Bitung,Cuaca Buruk,Cerah,5035,0.89,Tambahkan armada ke pelabuhan
+ISS0432,06/06/2025,Bitung,Overload,Badai,5755,0.25,Percepat proses bongkar saat cuaca memungkinkan
+ISS0433,21/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,18508,0.15,Alihkan ke pelabuhan terdekat
+ISS0434,30/06/2025,Makassar,Overload,Badai,13671,0.22,Tunda pengiriman hingga cuaca membaik
+ISS0435,28/07/2025,Bitung,Force Majeure,Kabut Tebal,11440,0.91,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0436,07/06/2025,Belawan,Cuaca Buruk,Hujan Deras,9782,0.66,Alihkan kontainer ke terminal lain
+ISS0437,10/07/2025,Makassar,Overload,Cerah,7407,0.75,Tunda pengiriman hingga cuaca membaik
+ISS0438,30/07/2025,Tanjung Priok,Overload,Hujan Deras,10750,0.9,Alihkan kontainer ke terminal lain
+ISS0439,12/06/2025,Bitung,Cuaca Buruk,Angin Kencang,18387,0.91,Alihkan kontainer ke terminal lain
+ISS0440,16/07/2025,Tanjung Perak,Overload,Angin Kencang,3692,0.53,Percepat proses bongkar saat cuaca memungkinkan
+ISS0441,22/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,7189,0.75,Tunda pengiriman hingga cuaca membaik
+ISS0442,17/06/2025,Belawan,Cuaca Buruk,Badai,15512,0.77,Percepat proses bongkar saat cuaca memungkinkan
+ISS0443,18/07/2025,Belawan,Force Majeure,Badai,5902,0.25,Alihkan ke pelabuhan terdekat
+ISS0444,23/07/2025,Tanjung Priok,Overload,Hujan Deras,15455,0.16,Alihkan kontainer ke terminal lain
+ISS0445,17/07/2025,Belawan,Overload,Hujan Deras,15083,0.78,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0446,03/06/2025,Makassar,Cuaca Buruk,Hujan Deras,19517,0.86,Koordinasi dengan otoritas pelabuhan
+ISS0447,02/06/2025,Bitung,Cuaca Buruk,Badai,19606,0.85,Koordinasi dengan otoritas pelabuhan
+ISS0448,02/06/2025,Bitung,Cuaca Buruk,Cerah,15219,0.56,Alihkan kontainer ke terminal lain
+ISS0449,17/07/2025,Tanjung Priok,Overload,Angin Kencang,15015,0.6,Alokasikan ke terminal cadangan
+ISS0450,06/07/2025,Belawan,Force Majeure,Hujan Deras,18300,0.42,Tambahkan armada ke pelabuhan
+ISS0451,01/06/2025,Belawan,Force Majeure,Angin Kencang,2439,0.7,Tambahkan armada ke pelabuhan
+ISS0452,20/06/2025,Bitung,Cuaca Buruk,Hujan Deras,13822,0.47,Tunda pengiriman hingga cuaca membaik
+ISS0453,07/07/2025,Bitung,Overload,Kabut Tebal,17339,0.15,Koordinasi dengan otoritas pelabuhan
+ISS0454,24/06/2025,Belawan,Force Majeure,Cerah,15202,0.74,Koordinasi dengan otoritas pelabuhan
+ISS0455,26/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,12360,0.53,Aktifkan jalur logistik alternatif
+ISS0456,21/06/2025,Belawan,Force Majeure,Hujan Deras,4812,0.49,Aktifkan jalur logistik alternatif
+ISS0457,08/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,7341,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0458,05/07/2025,Bitung,Force Majeure,Badai,7971,0.38,Tunda pengiriman hingga cuaca membaik
+ISS0459,27/06/2025,Bitung,Cuaca Buruk,Hujan Deras,2268,0.86,Tunda pengiriman hingga cuaca membaik
+ISS0460,09/07/2025,Tanjung Priok,Force Majeure,Badai,13786,0.62,Tunda pengiriman hingga cuaca membaik
+ISS0461,27/07/2025,Tanjung Priok,Overload,Hujan Deras,19568,0.24,Alihkan ke pelabuhan terdekat
+ISS0462,14/07/2025,Tanjung Perak,Overload,Cerah,15592,0.33,Tunda pengiriman hingga cuaca membaik
+ISS0463,26/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,5892,0.71,Alihkan ke pelabuhan terdekat
+ISS0464,03/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,2097,0.54,Aktifkan jalur logistik alternatif
+ISS0465,15/06/2025,Bitung,Cuaca Buruk,Angin Kencang,9779,0.44,Alihkan kontainer ke terminal lain
+ISS0466,17/07/2025,Bitung,Force Majeure,Cerah,9865,0.26,Tambahkan armada ke pelabuhan
+ISS0467,12/07/2025,Bitung,Overload,Badai,15300,0.93,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0468,22/07/2025,Makassar,Cuaca Buruk,Hujan Deras,16970,0.69,Tambahkan armada ke pelabuhan
+ISS0469,18/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,14312,0.28,Tambahkan armada ke pelabuhan
+ISS0470,29/07/2025,Tanjung Perak,Force Majeure,Badai,12319,0.17,Aktifkan jalur logistik alternatif
+ISS0471,03/07/2025,Bitung,Force Majeure,Angin Kencang,15737,0.88,Percepat proses bongkar saat cuaca memungkinkan
+ISS0472,27/07/2025,Belawan,Cuaca Buruk,Hujan Deras,12823,0.52,Alihkan ke pelabuhan terdekat
+ISS0473,27/06/2025,Bitung,Cuaca Buruk,Badai,10418,0.95,Koordinasi dengan otoritas pelabuhan
+ISS0474,05/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,8859,0.49,Aktifkan jalur logistik alternatif
+ISS0475,19/07/2025,Makassar,Overload,Badai,9878,0.24,Koordinasi dengan otoritas pelabuhan
+ISS0476,29/07/2025,Bitung,Cuaca Buruk,Cerah,8306,0.32,Percepat proses bongkar saat cuaca memungkinkan
+ISS0477,27/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,9074,0.55,Aktifkan jalur logistik alternatif
+ISS0478,26/06/2025,Makassar,Force Majeure,Kabut Tebal,3859,0.81,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0479,05/06/2025,Tanjung Priok,Cuaca Buruk,Badai,13515,0.48,Koordinasi dengan otoritas pelabuhan
+ISS0480,01/07/2025,Tanjung Priok,Force Majeure,Cerah,6185,0.11,Alihkan kontainer ke terminal lain
+ISS0481,26/06/2025,Bitung,Force Majeure,Badai,16886,0.82,Tambahkan armada ke pelabuhan
+ISS0482,05/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,12906,0.45,Alokasikan ke terminal cadangan
+ISS0483,03/07/2025,Tanjung Priok,Force Majeure,Cerah,4131,0.13,Tunda pengiriman hingga cuaca membaik
+ISS0484,06/06/2025,Tanjung Perak,Force Majeure,Badai,6657,0.11,Koordinasi dengan otoritas pelabuhan
+ISS0485,16/07/2025,Tanjung Priok,Cuaca Buruk,Badai,16300,0.37,Aktifkan jalur logistik alternatif
+ISS0486,14/07/2025,Makassar,Force Majeure,Kabut Tebal,9989,0.77,Koordinasi dengan otoritas pelabuhan
+ISS0487,18/06/2025,Makassar,Cuaca Buruk,Hujan Deras,4606,0.67,Tambahkan armada ke pelabuhan
+ISS0488,28/06/2025,Belawan,Overload,Angin Kencang,18531,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS0489,22/06/2025,Makassar,Force Majeure,Cerah,13670,0.5,Alokasikan ke terminal cadangan
+ISS0490,29/06/2025,Bitung,Force Majeure,Cerah,15260,0.79,Aktifkan jalur logistik alternatif
+ISS0491,09/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,17014,0.89,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0492,11/07/2025,Bitung,Overload,Hujan Deras,10406,0.45,Alihkan ke pelabuhan terdekat
+ISS0493,25/07/2025,Belawan,Overload,Badai,12209,0.8,Aktifkan jalur logistik alternatif
+ISS0494,12/06/2025,Makassar,Cuaca Buruk,Angin Kencang,14123,0.42,Alihkan kontainer ke terminal lain
+ISS0495,02/07/2025,Belawan,Force Majeure,Badai,13837,0.32,Tunda pengiriman hingga cuaca membaik
+ISS0496,30/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,19933,0.26,Alihkan ke pelabuhan terdekat
+ISS0497,26/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,2591,0.73,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0498,14/07/2025,Tanjung Perak,Overload,Angin Kencang,14091,0.46,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0499,18/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,10022,0.48,Koordinasi dengan otoritas pelabuhan
+ISS0500,15/07/2025,Bitung,Cuaca Buruk,Cerah,2038,0.42,Aktifkan jalur logistik alternatif
+ISS0501,21/07/2025,Belawan,Overload,Hujan Deras,12610,0.76,Tambahkan armada ke pelabuhan
+ISS0502,14/06/2025,Makassar,Force Majeure,Cerah,18409,0.23,Percepat proses bongkar saat cuaca memungkinkan
+ISS0503,04/07/2025,Bitung,Cuaca Buruk,Hujan Deras,16078,0.35,Aktifkan jalur logistik alternatif
+ISS0504,27/07/2025,Makassar,Force Majeure,Kabut Tebal,6224,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0505,28/06/2025,Bitung,Force Majeure,Angin Kencang,2847,0.5,Aktifkan jalur logistik alternatif
+ISS0506,30/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,13976,0.21,Koordinasi dengan otoritas pelabuhan
+ISS0507,27/07/2025,Tanjung Perak,Cuaca Buruk,Badai,5024,0.77,Koordinasi dengan otoritas pelabuhan
+ISS0508,24/06/2025,Makassar,Overload,Kabut Tebal,17486,0.79,Alihkan kontainer ke terminal lain
+ISS0509,12/07/2025,Tanjung Perak,Cuaca Buruk,Badai,3529,0.88,Alihkan kontainer ke terminal lain
+ISS0510,29/07/2025,Bitung,Cuaca Buruk,Badai,18347,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS0511,14/06/2025,Tanjung Priok,Force Majeure,Cerah,11078,0.58,Alihkan kontainer ke terminal lain
+ISS0512,10/07/2025,Belawan,Cuaca Buruk,Badai,3566,0.36,Tunda pengiriman hingga cuaca membaik
+ISS0513,16/06/2025,Makassar,Force Majeure,Cerah,5365,0.43,Alokasikan ke terminal cadangan
+ISS0514,20/07/2025,Bitung,Cuaca Buruk,Hujan Deras,17400,0.14,Percepat proses bongkar saat cuaca memungkinkan
+ISS0515,18/07/2025,Makassar,Cuaca Buruk,Cerah,2682,0.8,Alihkan ke pelabuhan terdekat
+ISS0516,05/06/2025,Bitung,Cuaca Buruk,Hujan Deras,6755,0.59,Aktifkan jalur logistik alternatif
+ISS0517,16/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,11983,0.28,Alokasikan ke terminal cadangan
+ISS0518,07/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,2511,0.19,Tunda pengiriman hingga cuaca membaik
+ISS0519,18/06/2025,Tanjung Perak,Overload,Angin Kencang,14616,0.29,Tambahkan armada ke pelabuhan
+ISS0520,28/06/2025,Belawan,Overload,Angin Kencang,11387,0.89,Tunda pengiriman hingga cuaca membaik
+ISS0521,27/07/2025,Tanjung Priok,Overload,Hujan Deras,9321,0.57,Aktifkan jalur logistik alternatif
+ISS0522,12/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,15593,0.19,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0523,22/06/2025,Tanjung Priok,Cuaca Buruk,Badai,10795,0.33,Tunda pengiriman hingga cuaca membaik
+ISS0524,19/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,5656,0.77,Koordinasi dengan otoritas pelabuhan
+ISS0525,02/06/2025,Makassar,Force Majeure,Badai,15186,0.28,Koordinasi dengan otoritas pelabuhan
+ISS0526,23/06/2025,Belawan,Cuaca Buruk,Cerah,19898,0.25,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0527,14/07/2025,Bitung,Force Majeure,Cerah,13992,0.4,Tunda pengiriman hingga cuaca membaik
+ISS0528,19/07/2025,Bitung,Cuaca Buruk,Cerah,5341,0.27,Alokasikan ke terminal cadangan
+ISS0529,03/06/2025,Belawan,Cuaca Buruk,Badai,2830,0.92,Alokasikan ke terminal cadangan
+ISS0530,29/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,10040,0.19,Alokasikan ke terminal cadangan
+ISS0531,22/06/2025,Bitung,Overload,Hujan Deras,9883,0.16,Tambahkan armada ke pelabuhan
+ISS0532,27/06/2025,Belawan,Overload,Hujan Deras,2310,0.69,Aktifkan jalur logistik alternatif
+ISS0533,21/06/2025,Tanjung Perak,Cuaca Buruk,Badai,5270,0.8,Percepat proses bongkar saat cuaca memungkinkan
+ISS0534,08/06/2025,Bitung,Force Majeure,Cerah,15838,0.82,Alokasikan ke terminal cadangan
+ISS0535,09/06/2025,Tanjung Perak,Overload,Kabut Tebal,15373,0.54,Alokasikan ke terminal cadangan
+ISS0536,01/07/2025,Bitung,Force Majeure,Badai,6111,0.67,Alokasikan ke terminal cadangan
+ISS0537,28/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,17692,0.25,Alihkan kontainer ke terminal lain
+ISS0538,05/07/2025,Tanjung Priok,Cuaca Buruk,Badai,8701,0.9,Alihkan kontainer ke terminal lain
+ISS0539,16/07/2025,Belawan,Overload,Angin Kencang,10481,0.91,Aktifkan jalur logistik alternatif
+ISS0540,01/07/2025,Makassar,Overload,Kabut Tebal,12117,0.68,Alihkan kontainer ke terminal lain
+ISS0541,05/07/2025,Tanjung Perak,Overload,Badai,17922,0.66,Alihkan ke pelabuhan terdekat
+ISS0542,11/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,4084,0.92,Tunda pengiriman hingga cuaca membaik
+ISS0543,25/06/2025,Makassar,Overload,Badai,2116,0.54,Percepat proses bongkar saat cuaca memungkinkan
+ISS0544,27/07/2025,Tanjung Priok,Cuaca Buruk,Badai,8550,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS0545,29/07/2025,Tanjung Perak,Overload,Cerah,9057,0.74,Percepat proses bongkar saat cuaca memungkinkan
+ISS0546,15/07/2025,Makassar,Force Majeure,Cerah,17271,0.89,Alokasikan ke terminal cadangan
+ISS0547,24/07/2025,Tanjung Perak,Overload,Kabut Tebal,12437,0.31,Alihkan kontainer ke terminal lain
+ISS0548,14/06/2025,Tanjung Priok,Overload,Kabut Tebal,4764,0.83,Alokasikan ke terminal cadangan
+ISS0549,10/07/2025,Makassar,Force Majeure,Cerah,15050,0.86,Alihkan kontainer ke terminal lain
+ISS0550,03/06/2025,Makassar,Force Majeure,Cerah,5065,0.82,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0551,30/06/2025,Tanjung Priok,Overload,Hujan Deras,17811,0.55,Alihkan ke pelabuhan terdekat
+ISS0552,06/07/2025,Belawan,Force Majeure,Hujan Deras,12789,0.34,Alihkan kontainer ke terminal lain
+ISS0553,18/07/2025,Bitung,Cuaca Buruk,Hujan Deras,9334,0.24,Tambahkan armada ke pelabuhan
+ISS0554,25/07/2025,Bitung,Force Majeure,Cerah,19761,0.28,Alokasikan ke terminal cadangan
+ISS0555,01/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,9777,0.36,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0556,30/06/2025,Makassar,Force Majeure,Cerah,5173,0.48,Aktifkan jalur logistik alternatif
+ISS0557,13/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,3427,0.29,Percepat proses bongkar saat cuaca memungkinkan
+ISS0558,16/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,7789,0.13,Tambahkan armada ke pelabuhan
+ISS0559,04/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,2015,0.74,Alihkan kontainer ke terminal lain
+ISS0560,24/06/2025,Bitung,Force Majeure,Hujan Deras,10190,0.34,Percepat proses bongkar saat cuaca memungkinkan
+ISS0561,18/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,8752,0.32,Alihkan kontainer ke terminal lain
+ISS0562,28/07/2025,Bitung,Overload,Kabut Tebal,9939,0.92,Koordinasi dengan otoritas pelabuhan
+ISS0563,07/06/2025,Tanjung Perak,Force Majeure,Cerah,8676,0.15,Alihkan kontainer ke terminal lain
+ISS0564,28/07/2025,Makassar,Cuaca Buruk,Angin Kencang,3615,0.64,Alihkan ke pelabuhan terdekat
+ISS0565,29/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,9711,0.31,Tambahkan armada ke pelabuhan
+ISS0566,20/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,8175,0.53,Koordinasi dengan otoritas pelabuhan
+ISS0567,24/07/2025,Makassar,Overload,Angin Kencang,19898,0.19,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0568,12/07/2025,Bitung,Force Majeure,Angin Kencang,4346,0.36,Koordinasi dengan otoritas pelabuhan
+ISS0569,11/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,12534,0.44,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0570,30/06/2025,Belawan,Overload,Kabut Tebal,10577,0.76,Alihkan kontainer ke terminal lain
+ISS0571,25/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,6020,0.51,Percepat proses bongkar saat cuaca memungkinkan
+ISS0572,25/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,8347,0.74,Koordinasi dengan otoritas pelabuhan
+ISS0573,17/06/2025,Makassar,Force Majeure,Hujan Deras,3654,0.23,Koordinasi dengan otoritas pelabuhan
+ISS0574,21/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,8213,0.43,Aktifkan jalur logistik alternatif
+ISS0575,22/07/2025,Makassar,Cuaca Buruk,Angin Kencang,9154,0.71,Aktifkan jalur logistik alternatif
+ISS0576,14/06/2025,Bitung,Overload,Angin Kencang,11395,0.11,Tunda pengiriman hingga cuaca membaik
+ISS0577,11/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,8863,0.79,Aktifkan jalur logistik alternatif
+ISS0578,06/07/2025,Makassar,Overload,Kabut Tebal,16570,0.76,Alihkan ke pelabuhan terdekat
+ISS0579,03/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,18872,0.34,Tambahkan armada ke pelabuhan
+ISS0580,11/07/2025,Bitung,Force Majeure,Badai,12396,0.28,Aktifkan jalur logistik alternatif
+ISS0581,18/06/2025,Bitung,Cuaca Buruk,Cerah,8198,0.75,Tambahkan armada ke pelabuhan
+ISS0582,18/07/2025,Makassar,Overload,Angin Kencang,3352,0.32,Tunda pengiriman hingga cuaca membaik
+ISS0583,09/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,5565,0.46,Koordinasi dengan otoritas pelabuhan
+ISS0584,06/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,10340,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS0585,08/07/2025,Tanjung Perak,Force Majeure,Badai,2675,0.71,Tambahkan armada ke pelabuhan
+ISS0586,18/06/2025,Bitung,Force Majeure,Kabut Tebal,12524,0.55,Koordinasi dengan otoritas pelabuhan
+ISS0587,11/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,2239,0.52,Aktifkan jalur logistik alternatif
+ISS0588,14/06/2025,Bitung,Force Majeure,Kabut Tebal,10640,0.61,Alokasikan ke terminal cadangan
+ISS0589,13/07/2025,Belawan,Overload,Kabut Tebal,4727,0.39,Alihkan ke pelabuhan terdekat
+ISS0590,21/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,14106,0.81,Alihkan kontainer ke terminal lain
+ISS0591,24/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,10617,0.78,Koordinasi dengan otoritas pelabuhan
+ISS0592,13/06/2025,Bitung,Overload,Cerah,19276,0.71,Alihkan ke pelabuhan terdekat
+ISS0593,11/07/2025,Tanjung Perak,Overload,Kabut Tebal,14516,0.14,Tambahkan armada ke pelabuhan
+ISS0594,22/07/2025,Belawan,Overload,Badai,8510,0.39,Percepat proses bongkar saat cuaca memungkinkan
+ISS0595,24/07/2025,Belawan,Force Majeure,Kabut Tebal,11086,0.72,Tambahkan armada ke pelabuhan
+ISS0596,26/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,14139,0.48,Alihkan ke pelabuhan terdekat
+ISS0597,08/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,5171,0.31,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0598,30/07/2025,Makassar,Force Majeure,Angin Kencang,8714,0.35,Alihkan ke pelabuhan terdekat
+ISS0599,04/07/2025,Bitung,Cuaca Buruk,Angin Kencang,14418,0.75,Tambahkan armada ke pelabuhan
+ISS0600,04/06/2025,Bitung,Force Majeure,Angin Kencang,17828,0.58,Aktifkan jalur logistik alternatif
+ISS0601,14/07/2025,Bitung,Cuaca Buruk,Hujan Deras,12861,0.44,Alihkan kontainer ke terminal lain
+ISS0602,21/07/2025,Tanjung Perak,Overload,Hujan Deras,7648,0.16,Tunda pengiriman hingga cuaca membaik
+ISS0603,05/07/2025,Bitung,Cuaca Buruk,Badai,13054,0.11,Alihkan kontainer ke terminal lain
+ISS0604,16/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,18734,0.4,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0605,30/07/2025,Belawan,Overload,Badai,19847,0.8,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0606,20/07/2025,Tanjung Priok,Force Majeure,Cerah,17059,0.44,Tambahkan armada ke pelabuhan
+ISS0607,10/07/2025,Bitung,Force Majeure,Badai,10985,0.14,Tunda pengiriman hingga cuaca membaik
+ISS0608,19/06/2025,Bitung,Overload,Angin Kencang,5169,0.39,Percepat proses bongkar saat cuaca memungkinkan
+ISS0609,19/07/2025,Bitung,Force Majeure,Cerah,3229,0.67,Tunda pengiriman hingga cuaca membaik
+ISS0610,25/07/2025,Tanjung Priok,Cuaca Buruk,Badai,13185,0.91,Tunda pengiriman hingga cuaca membaik
+ISS0611,16/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,17682,0.41,Tambahkan armada ke pelabuhan
+ISS0612,23/07/2025,Makassar,Cuaca Buruk,Badai,3362,0.32,Aktifkan jalur logistik alternatif
+ISS0613,15/06/2025,Belawan,Force Majeure,Badai,2108,0.2,Tunda pengiriman hingga cuaca membaik
+ISS0614,07/06/2025,Tanjung Perak,Force Majeure,Cerah,4317,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS0615,26/06/2025,Bitung,Cuaca Buruk,Hujan Deras,10149,0.54,Alokasikan ke terminal cadangan
+ISS0616,17/06/2025,Tanjung Priok,Overload,Kabut Tebal,8147,0.6,Percepat proses bongkar saat cuaca memungkinkan
+ISS0617,27/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,9680,0.91,Tunda pengiriman hingga cuaca membaik
+ISS0618,04/07/2025,Belawan,Force Majeure,Kabut Tebal,10777,0.8,Percepat proses bongkar saat cuaca memungkinkan
+ISS0619,15/06/2025,Tanjung Perak,Force Majeure,Cerah,3073,0.92,Koordinasi dengan otoritas pelabuhan
+ISS0620,29/07/2025,Belawan,Force Majeure,Angin Kencang,12345,0.14,Alokasikan ke terminal cadangan
+ISS0621,03/07/2025,Makassar,Overload,Hujan Deras,7569,0.71,Alihkan ke pelabuhan terdekat
+ISS0622,01/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,5731,0.62,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0623,16/07/2025,Makassar,Overload,Badai,7472,0.67,Alokasikan ke terminal cadangan
+ISS0624,11/06/2025,Bitung,Cuaca Buruk,Badai,9595,0.23,Alokasikan ke terminal cadangan
+ISS0625,28/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,11089,0.51,Tunda pengiriman hingga cuaca membaik
+ISS0626,29/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,6101,0.35,Alihkan ke pelabuhan terdekat
+ISS0627,21/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,9433,0.41,Aktifkan jalur logistik alternatif
+ISS0628,23/07/2025,Belawan,Cuaca Buruk,Cerah,2296,0.85,Percepat proses bongkar saat cuaca memungkinkan
+ISS0629,30/06/2025,Tanjung Perak,Force Majeure,Badai,9774,0.55,Koordinasi dengan otoritas pelabuhan
+ISS0630,12/06/2025,Belawan,Overload,Hujan Deras,6259,0.42,Koordinasi dengan otoritas pelabuhan
+ISS0631,06/07/2025,Belawan,Force Majeure,Angin Kencang,9174,0.31,Tambahkan armada ke pelabuhan
+ISS0632,19/07/2025,Tanjung Perak,Force Majeure,Badai,17177,0.83,Aktifkan jalur logistik alternatif
+ISS0633,22/07/2025,Belawan,Cuaca Buruk,Cerah,14092,0.17,Tunda pengiriman hingga cuaca membaik
+ISS0634,20/07/2025,Bitung,Force Majeure,Angin Kencang,12820,0.4,Alokasikan ke terminal cadangan
+ISS0635,09/06/2025,Belawan,Overload,Cerah,2053,0.72,Alihkan ke pelabuhan terdekat
+ISS0636,20/07/2025,Belawan,Cuaca Buruk,Cerah,3426,0.63,Tunda pengiriman hingga cuaca membaik
+ISS0637,19/06/2025,Belawan,Force Majeure,Cerah,5100,0.33,Alihkan ke pelabuhan terdekat
+ISS0638,25/06/2025,Makassar,Overload,Badai,8179,0.12,Alokasikan ke terminal cadangan
+ISS0639,27/07/2025,Belawan,Overload,Badai,13418,0.52,Aktifkan jalur logistik alternatif
+ISS0640,07/06/2025,Bitung,Force Majeure,Hujan Deras,6207,0.44,Alokasikan ke terminal cadangan
+ISS0641,22/06/2025,Makassar,Overload,Kabut Tebal,10181,0.81,Tunda pengiriman hingga cuaca membaik
+ISS0642,13/07/2025,Tanjung Priok,Overload,Angin Kencang,18412,0.12,Percepat proses bongkar saat cuaca memungkinkan
+ISS0643,29/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,7215,0.51,Koordinasi dengan otoritas pelabuhan
+ISS0644,30/07/2025,Bitung,Cuaca Buruk,Badai,16830,0.56,Aktifkan jalur logistik alternatif
+ISS0645,27/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,4484,0.95,Alihkan ke pelabuhan terdekat
+ISS0646,06/07/2025,Tanjung Perak,Overload,Angin Kencang,18587,0.54,Aktifkan jalur logistik alternatif
+ISS0647,07/06/2025,Makassar,Overload,Badai,6449,0.14,Tunda pengiriman hingga cuaca membaik
+ISS0648,30/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,14852,0.3,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0649,28/07/2025,Tanjung Priok,Force Majeure,Cerah,11061,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0650,10/07/2025,Belawan,Cuaca Buruk,Cerah,10375,0.23,Aktifkan jalur logistik alternatif
+ISS0651,14/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,15657,0.79,Percepat proses bongkar saat cuaca memungkinkan
+ISS0652,25/06/2025,Belawan,Overload,Cerah,11995,0.73,Tambahkan armada ke pelabuhan
+ISS0653,25/06/2025,Tanjung Perak,Overload,Hujan Deras,6076,0.35,Alihkan ke pelabuhan terdekat
+ISS0654,01/06/2025,Tanjung Priok,Overload,Badai,10995,0.88,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0655,30/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,12738,0.75,Aktifkan jalur logistik alternatif
+ISS0656,26/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,11531,0.27,Tambahkan armada ke pelabuhan
+ISS0657,06/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,19117,0.4,Aktifkan jalur logistik alternatif
+ISS0658,28/06/2025,Belawan,Overload,Angin Kencang,5514,0.68,Tunda pengiriman hingga cuaca membaik
+ISS0659,19/07/2025,Tanjung Priok,Force Majeure,Badai,3734,0.53,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0660,08/06/2025,Belawan,Force Majeure,Kabut Tebal,3229,0.54,Tambahkan armada ke pelabuhan
+ISS0661,27/06/2025,Bitung,Cuaca Buruk,Badai,8921,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS0662,25/07/2025,Bitung,Overload,Badai,15172,0.94,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0663,05/06/2025,Tanjung Priok,Overload,Badai,3830,0.22,Koordinasi dengan otoritas pelabuhan
+ISS0664,10/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,15110,0.12,Alihkan kontainer ke terminal lain
+ISS0665,06/07/2025,Belawan,Overload,Kabut Tebal,15945,0.41,Tunda pengiriman hingga cuaca membaik
+ISS0666,01/07/2025,Bitung,Force Majeure,Angin Kencang,19547,0.21,Alihkan kontainer ke terminal lain
+ISS0667,05/07/2025,Bitung,Cuaca Buruk,Hujan Deras,5782,0.28,Alihkan ke pelabuhan terdekat
+ISS0668,24/06/2025,Makassar,Overload,Hujan Deras,12940,0.49,Tunda pengiriman hingga cuaca membaik
+ISS0669,17/07/2025,Makassar,Force Majeure,Kabut Tebal,5635,0.69,Koordinasi dengan otoritas pelabuhan
+ISS0670,30/06/2025,Tanjung Perak,Overload,Kabut Tebal,12621,0.48,Alokasikan ke terminal cadangan
+ISS0671,29/07/2025,Tanjung Perak,Overload,Angin Kencang,14064,0.8,Koordinasi dengan otoritas pelabuhan
+ISS0672,10/06/2025,Makassar,Cuaca Buruk,Badai,7484,0.28,Tambahkan armada ke pelabuhan
+ISS0673,08/07/2025,Belawan,Force Majeure,Angin Kencang,17475,0.47,Aktifkan jalur logistik alternatif
+ISS0674,18/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,17680,0.45,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0675,14/06/2025,Bitung,Force Majeure,Badai,14005,0.83,Koordinasi dengan otoritas pelabuhan
+ISS0676,11/06/2025,Makassar,Cuaca Buruk,Cerah,12041,0.57,Percepat proses bongkar saat cuaca memungkinkan
+ISS0677,05/07/2025,Bitung,Overload,Hujan Deras,8977,0.59,Tunda pengiriman hingga cuaca membaik
+ISS0678,10/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,12765,0.87,Alokasikan ke terminal cadangan
+ISS0679,04/06/2025,Belawan,Force Majeure,Angin Kencang,11214,0.89,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0680,03/06/2025,Tanjung Priok,Overload,Badai,2444,0.19,Alihkan kontainer ke terminal lain
+ISS0681,30/06/2025,Makassar,Force Majeure,Cerah,14730,0.92,Alihkan ke pelabuhan terdekat
+ISS0682,11/07/2025,Belawan,Overload,Hujan Deras,18676,0.17,Alihkan kontainer ke terminal lain
+ISS0683,28/06/2025,Makassar,Cuaca Buruk,Hujan Deras,17374,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS0684,05/07/2025,Makassar,Overload,Angin Kencang,19785,0.26,Alihkan ke pelabuhan terdekat
+ISS0685,12/06/2025,Belawan,Overload,Badai,7107,0.76,Tambahkan armada ke pelabuhan
+ISS0686,27/07/2025,Bitung,Overload,Angin Kencang,18822,0.19,Alihkan ke pelabuhan terdekat
+ISS0687,26/06/2025,Tanjung Perak,Overload,Badai,17296,0.41,Tambahkan armada ke pelabuhan
+ISS0688,14/07/2025,Makassar,Overload,Kabut Tebal,2020,0.58,Percepat proses bongkar saat cuaca memungkinkan
+ISS0689,08/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,7565,0.1,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0690,04/06/2025,Belawan,Cuaca Buruk,Hujan Deras,16877,0.94,Alokasikan ke terminal cadangan
+ISS0691,16/07/2025,Makassar,Overload,Hujan Deras,14260,0.8,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0692,03/07/2025,Belawan,Overload,Cerah,7891,0.11,Koordinasi dengan otoritas pelabuhan
+ISS0693,19/06/2025,Bitung,Overload,Cerah,15733,0.33,Alihkan kontainer ke terminal lain
+ISS0694,19/07/2025,Bitung,Overload,Hujan Deras,13435,0.94,Alihkan ke pelabuhan terdekat
+ISS0695,11/06/2025,Tanjung Perak,Overload,Badai,15714,0.61,Tambahkan armada ke pelabuhan
+ISS0696,27/07/2025,Tanjung Perak,Overload,Angin Kencang,13072,0.76,Tambahkan armada ke pelabuhan
+ISS0697,11/07/2025,Makassar,Force Majeure,Angin Kencang,11408,0.58,Percepat proses bongkar saat cuaca memungkinkan
+ISS0698,08/07/2025,Bitung,Force Majeure,Angin Kencang,2745,0.87,Percepat proses bongkar saat cuaca memungkinkan
+ISS0699,26/07/2025,Tanjung Priok,Overload,Cerah,11545,0.84,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0700,22/07/2025,Tanjung Perak,Cuaca Buruk,Badai,11323,0.44,Koordinasi dengan otoritas pelabuhan
+ISS0701,07/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,16939,0.37,Alokasikan ke terminal cadangan
+ISS0702,09/07/2025,Tanjung Priok,Overload,Hujan Deras,4000,0.87,Alihkan ke pelabuhan terdekat
+ISS0703,05/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,9077,0.16,Tunda pengiriman hingga cuaca membaik
+ISS0704,09/07/2025,Belawan,Cuaca Buruk,Hujan Deras,5722,0.13,Alokasikan ke terminal cadangan
+ISS0705,21/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,8519,0.16,Aktifkan jalur logistik alternatif
+ISS0706,24/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,18881,0.27,Alokasikan ke terminal cadangan
+ISS0707,02/07/2025,Bitung,Cuaca Buruk,Cerah,12822,0.46,Tambahkan armada ke pelabuhan
+ISS0708,09/06/2025,Bitung,Cuaca Buruk,Badai,13416,0.48,Alokasikan ke terminal cadangan
+ISS0709,20/06/2025,Belawan,Force Majeure,Angin Kencang,15293,0.43,Alihkan kontainer ke terminal lain
+ISS0710,20/06/2025,Belawan,Force Majeure,Hujan Deras,9787,0.45,Tambahkan armada ke pelabuhan
+ISS0711,28/06/2025,Makassar,Overload,Cerah,7563,0.85,Aktifkan jalur logistik alternatif
+ISS0712,15/07/2025,Makassar,Force Majeure,Kabut Tebal,5516,0.27,Alihkan kontainer ke terminal lain
+ISS0713,28/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3369,0.7,Koordinasi dengan otoritas pelabuhan
+ISS0714,18/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,3647,0.52,Alokasikan ke terminal cadangan
+ISS0715,24/06/2025,Bitung,Cuaca Buruk,Badai,18082,0.67,Tambahkan armada ke pelabuhan
+ISS0716,29/06/2025,Tanjung Priok,Overload,Hujan Deras,4755,0.32,Alokasikan ke terminal cadangan
+ISS0717,06/06/2025,Belawan,Overload,Badai,19588,0.12,Alihkan ke pelabuhan terdekat
+ISS0718,12/07/2025,Makassar,Overload,Angin Kencang,17566,0.69,Tunda pengiriman hingga cuaca membaik
+ISS0719,20/06/2025,Bitung,Force Majeure,Kabut Tebal,11533,0.91,Alihkan kontainer ke terminal lain
+ISS0720,22/06/2025,Makassar,Overload,Hujan Deras,13670,0.44,Alokasikan ke terminal cadangan
+ISS0721,05/06/2025,Bitung,Overload,Hujan Deras,15388,0.95,Alihkan kontainer ke terminal lain
+ISS0722,06/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,9500,0.46,Tambahkan armada ke pelabuhan
+ISS0723,28/06/2025,Tanjung Priok,Overload,Hujan Deras,19668,0.65,Alihkan kontainer ke terminal lain
+ISS0724,07/07/2025,Makassar,Cuaca Buruk,Badai,9902,0.37,Koordinasi dengan otoritas pelabuhan
+ISS0725,16/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,5927,0.61,Koordinasi dengan otoritas pelabuhan
+ISS0726,10/06/2025,Tanjung Perak,Overload,Cerah,2474,0.57,Tunda pengiriman hingga cuaca membaik
+ISS0727,16/06/2025,Bitung,Cuaca Buruk,Cerah,11669,0.31,Tunda pengiriman hingga cuaca membaik
+ISS0728,14/06/2025,Makassar,Overload,Angin Kencang,2449,0.57,Alihkan kontainer ke terminal lain
+ISS0729,29/06/2025,Tanjung Perak,Cuaca Buruk,Badai,11377,0.49,Percepat proses bongkar saat cuaca memungkinkan
+ISS0730,26/07/2025,Belawan,Overload,Angin Kencang,6515,0.51,Tambahkan armada ke pelabuhan
+ISS0731,26/06/2025,Makassar,Overload,Badai,12518,0.25,Tunda pengiriman hingga cuaca membaik
+ISS0732,03/06/2025,Makassar,Force Majeure,Hujan Deras,13349,0.2,Alokasikan ke terminal cadangan
+ISS0733,27/07/2025,Belawan,Cuaca Buruk,Angin Kencang,16392,0.51,Alihkan ke pelabuhan terdekat
+ISS0734,25/07/2025,Belawan,Force Majeure,Cerah,9388,0.44,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0735,26/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,9995,0.21,Percepat proses bongkar saat cuaca memungkinkan
+ISS0736,22/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,13911,0.28,Tunda pengiriman hingga cuaca membaik
+ISS0737,10/07/2025,Bitung,Cuaca Buruk,Cerah,14064,0.8,Koordinasi dengan otoritas pelabuhan
+ISS0738,25/07/2025,Bitung,Force Majeure,Cerah,11753,0.58,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0739,07/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,17120,0.79,Tunda pengiriman hingga cuaca membaik
+ISS0740,23/07/2025,Belawan,Force Majeure,Cerah,4764,0.76,Tambahkan armada ke pelabuhan
+ISS0741,25/06/2025,Belawan,Force Majeure,Angin Kencang,7804,0.33,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0742,21/06/2025,Tanjung Priok,Overload,Kabut Tebal,14844,0.45,Koordinasi dengan otoritas pelabuhan
+ISS0743,13/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,9967,0.88,Tunda pengiriman hingga cuaca membaik
+ISS0744,29/07/2025,Belawan,Force Majeure,Hujan Deras,19037,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0745,11/07/2025,Tanjung Priok,Overload,Kabut Tebal,12507,0.44,Koordinasi dengan otoritas pelabuhan
+ISS0746,18/06/2025,Makassar,Cuaca Buruk,Hujan Deras,19801,0.76,Tambahkan armada ke pelabuhan
+ISS0747,15/06/2025,Tanjung Perak,Cuaca Buruk,Badai,14242,0.42,Aktifkan jalur logistik alternatif
+ISS0748,20/07/2025,Bitung,Force Majeure,Hujan Deras,10341,0.13,Aktifkan jalur logistik alternatif
+ISS0749,27/07/2025,Makassar,Overload,Cerah,10366,0.35,Aktifkan jalur logistik alternatif
+ISS0750,29/06/2025,Tanjung Perak,Force Majeure,Cerah,19410,0.19,Alokasikan ke terminal cadangan
+ISS0751,22/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,8255,0.76,Koordinasi dengan otoritas pelabuhan
+ISS0752,19/06/2025,Belawan,Cuaca Buruk,Badai,12560,0.23,Koordinasi dengan otoritas pelabuhan
+ISS0753,14/07/2025,Belawan,Cuaca Buruk,Hujan Deras,12505,0.69,Koordinasi dengan otoritas pelabuhan
+ISS0754,28/07/2025,Bitung,Overload,Cerah,15710,0.71,Tambahkan armada ke pelabuhan
+ISS0755,15/06/2025,Bitung,Cuaca Buruk,Badai,11975,0.24,Tunda pengiriman hingga cuaca membaik
+ISS0756,16/07/2025,Tanjung Perak,Overload,Kabut Tebal,3219,0.64,Percepat proses bongkar saat cuaca memungkinkan
+ISS0757,08/06/2025,Bitung,Overload,Cerah,19358,0.33,Percepat proses bongkar saat cuaca memungkinkan
+ISS0758,26/07/2025,Tanjung Priok,Cuaca Buruk,Badai,11525,0.64,Alihkan ke pelabuhan terdekat
+ISS0759,25/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,14461,0.62,Tambahkan armada ke pelabuhan
+ISS0760,01/06/2025,Belawan,Cuaca Buruk,Angin Kencang,8154,0.6,Tunda pengiriman hingga cuaca membaik
+ISS0761,22/06/2025,Tanjung Priok,Force Majeure,Badai,10591,0.5,Alihkan kontainer ke terminal lain
+ISS0762,07/06/2025,Makassar,Force Majeure,Badai,17458,0.2,Koordinasi dengan otoritas pelabuhan
+ISS0763,29/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,18153,0.46,Tambahkan armada ke pelabuhan
+ISS0764,13/07/2025,Makassar,Cuaca Buruk,Badai,12717,0.31,Aktifkan jalur logistik alternatif
+ISS0765,12/06/2025,Belawan,Overload,Angin Kencang,10081,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0766,09/06/2025,Tanjung Priok,Overload,Kabut Tebal,14106,0.92,Koordinasi dengan otoritas pelabuhan
+ISS0767,23/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,6229,0.84,Alihkan ke pelabuhan terdekat
+ISS0768,12/07/2025,Tanjung Priok,Overload,Cerah,11428,0.54,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0769,16/07/2025,Bitung,Force Majeure,Cerah,9785,0.83,Percepat proses bongkar saat cuaca memungkinkan
+ISS0770,05/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,16248,0.6,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0771,18/07/2025,Belawan,Force Majeure,Angin Kencang,2249,0.92,Koordinasi dengan otoritas pelabuhan
+ISS0772,03/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,6394,0.92,Koordinasi dengan otoritas pelabuhan
+ISS0773,03/07/2025,Makassar,Overload,Cerah,2599,0.88,Percepat proses bongkar saat cuaca memungkinkan
+ISS0774,30/06/2025,Makassar,Force Majeure,Angin Kencang,11404,0.42,Alihkan kontainer ke terminal lain
+ISS0775,29/06/2025,Makassar,Overload,Cerah,7718,0.17,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0776,14/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,6884,0.2,Alihkan kontainer ke terminal lain
+ISS0777,03/06/2025,Makassar,Cuaca Buruk,Cerah,13177,0.64,Aktifkan jalur logistik alternatif
+ISS0778,25/06/2025,Belawan,Force Majeure,Hujan Deras,15560,0.4,Aktifkan jalur logistik alternatif
+ISS0779,03/06/2025,Belawan,Overload,Hujan Deras,2555,0.48,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0780,23/07/2025,Belawan,Force Majeure,Hujan Deras,19166,0.53,Alokasikan ke terminal cadangan
+ISS0781,12/07/2025,Belawan,Force Majeure,Angin Kencang,10641,0.9,Tambahkan armada ke pelabuhan
+ISS0782,24/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,11524,0.92,Alihkan ke pelabuhan terdekat
+ISS0783,15/07/2025,Makassar,Overload,Hujan Deras,14991,0.87,Alihkan kontainer ke terminal lain
+ISS0784,15/07/2025,Tanjung Priok,Overload,Badai,15497,0.16,Koordinasi dengan otoritas pelabuhan
+ISS0785,02/07/2025,Bitung,Overload,Angin Kencang,3455,0.24,Alokasikan ke terminal cadangan
+ISS0786,02/07/2025,Belawan,Force Majeure,Angin Kencang,11248,0.68,Percepat proses bongkar saat cuaca memungkinkan
+ISS0787,21/07/2025,Makassar,Cuaca Buruk,Badai,4783,0.65,Alihkan kontainer ke terminal lain
+ISS0788,10/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,6583,0.79,Alokasikan ke terminal cadangan
+ISS0789,20/07/2025,Belawan,Force Majeure,Kabut Tebal,18846,0.85,Koordinasi dengan otoritas pelabuhan
+ISS0790,08/06/2025,Tanjung Priok,Overload,Hujan Deras,3077,0.79,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0791,01/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,11630,0.28,Tambahkan armada ke pelabuhan
+ISS0792,01/06/2025,Bitung,Force Majeure,Cerah,18059,0.95,Tunda pengiriman hingga cuaca membaik
+ISS0793,22/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,17216,0.79,Alihkan kontainer ke terminal lain
+ISS0794,21/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,10243,0.83,Alokasikan ke terminal cadangan
+ISS0795,14/07/2025,Belawan,Cuaca Buruk,Hujan Deras,9055,0.34,Alokasikan ke terminal cadangan
+ISS0796,26/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,2782,0.52,Alihkan ke pelabuhan terdekat
+ISS0797,01/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,2604,0.5,Alihkan kontainer ke terminal lain
+ISS0798,27/07/2025,Belawan,Force Majeure,Hujan Deras,3867,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS0799,05/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,8653,0.93,Aktifkan jalur logistik alternatif
+ISS0800,02/06/2025,Bitung,Cuaca Buruk,Badai,6103,0.41,Alihkan kontainer ke terminal lain
+ISS0801,30/06/2025,Makassar,Force Majeure,Cerah,11180,0.9,Aktifkan jalur logistik alternatif
+ISS0802,21/07/2025,Bitung,Force Majeure,Cerah,9173,0.12,Alokasikan ke terminal cadangan
+ISS0803,29/06/2025,Belawan,Overload,Badai,3229,0.3,Tambahkan armada ke pelabuhan
+ISS0804,15/06/2025,Makassar,Overload,Angin Kencang,3910,0.52,Koordinasi dengan otoritas pelabuhan
+ISS0805,24/06/2025,Belawan,Force Majeure,Angin Kencang,9232,0.94,Percepat proses bongkar saat cuaca memungkinkan
+ISS0806,09/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,17799,0.13,Alokasikan ke terminal cadangan
+ISS0807,16/07/2025,Makassar,Cuaca Buruk,Hujan Deras,18977,0.31,Alihkan ke pelabuhan terdekat
+ISS0808,12/07/2025,Bitung,Force Majeure,Hujan Deras,16040,0.15,Alihkan kontainer ke terminal lain
+ISS0809,28/06/2025,Belawan,Cuaca Buruk,Angin Kencang,4115,0.27,Alokasikan ke terminal cadangan
+ISS0810,01/07/2025,Makassar,Overload,Badai,9189,0.26,Alihkan ke pelabuhan terdekat
+ISS0811,11/07/2025,Belawan,Overload,Hujan Deras,9066,0.25,Percepat proses bongkar saat cuaca memungkinkan
+ISS0812,07/07/2025,Belawan,Cuaca Buruk,Hujan Deras,6814,0.56,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0813,14/06/2025,Makassar,Cuaca Buruk,Hujan Deras,10439,0.62,Percepat proses bongkar saat cuaca memungkinkan
+ISS0814,09/07/2025,Bitung,Force Majeure,Angin Kencang,18600,0.41,Alihkan ke pelabuhan terdekat
+ISS0815,20/06/2025,Bitung,Cuaca Buruk,Angin Kencang,4139,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0816,05/07/2025,Bitung,Overload,Angin Kencang,16352,0.23,Alokasikan ke terminal cadangan
+ISS0817,20/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,16439,0.71,Alihkan kontainer ke terminal lain
+ISS0818,18/06/2025,Tanjung Priok,Overload,Kabut Tebal,17815,0.23,Tunda pengiriman hingga cuaca membaik
+ISS0819,18/06/2025,Tanjung Perak,Cuaca Buruk,Badai,3229,0.22,Alokasikan ke terminal cadangan
+ISS0820,29/06/2025,Bitung,Force Majeure,Badai,17149,0.57,Alihkan kontainer ke terminal lain
+ISS0821,25/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,17756,0.38,Alihkan ke pelabuhan terdekat
+ISS0822,23/07/2025,Belawan,Cuaca Buruk,Cerah,16149,0.38,Percepat proses bongkar saat cuaca memungkinkan
+ISS0823,03/06/2025,Makassar,Cuaca Buruk,Badai,14113,0.87,Alihkan kontainer ke terminal lain
+ISS0824,26/07/2025,Tanjung Priok,Overload,Angin Kencang,12066,0.87,Alihkan ke pelabuhan terdekat
+ISS0825,10/06/2025,Makassar,Overload,Badai,5726,0.34,Alihkan ke pelabuhan terdekat
+ISS0826,11/07/2025,Bitung,Overload,Badai,3731,0.81,Alihkan ke pelabuhan terdekat
+ISS0827,10/07/2025,Tanjung Priok,Overload,Kabut Tebal,13024,0.28,Aktifkan jalur logistik alternatif
+ISS0828,17/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,16758,0.82,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0829,28/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,14246,0.13,Percepat proses bongkar saat cuaca memungkinkan
+ISS0830,24/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,8311,0.41,Aktifkan jalur logistik alternatif
+ISS0831,23/06/2025,Belawan,Force Majeure,Hujan Deras,3668,0.79,Alihkan ke pelabuhan terdekat
+ISS0832,24/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,17208,0.6,Aktifkan jalur logistik alternatif
+ISS0833,18/07/2025,Tanjung Perak,Overload,Angin Kencang,18510,0.4,Aktifkan jalur logistik alternatif
+ISS0834,29/07/2025,Makassar,Overload,Hujan Deras,19095,0.26,Koordinasi dengan otoritas pelabuhan
+ISS0835,18/06/2025,Makassar,Force Majeure,Cerah,9299,0.28,Alihkan ke pelabuhan terdekat
+ISS0836,12/07/2025,Bitung,Overload,Angin Kencang,18328,0.93,Alihkan ke pelabuhan terdekat
+ISS0837,02/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,5063,0.13,Alokasikan ke terminal cadangan
+ISS0838,09/07/2025,Belawan,Cuaca Buruk,Cerah,3118,0.9,Alihkan ke pelabuhan terdekat
+ISS0839,08/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,6189,0.15,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0840,22/07/2025,Belawan,Force Majeure,Cerah,14519,0.9,Percepat proses bongkar saat cuaca memungkinkan
+ISS0841,03/06/2025,Makassar,Force Majeure,Cerah,14256,0.26,Alihkan ke pelabuhan terdekat
+ISS0842,15/06/2025,Belawan,Cuaca Buruk,Hujan Deras,18801,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS0843,24/06/2025,Makassar,Cuaca Buruk,Badai,5455,0.56,Alihkan kontainer ke terminal lain
+ISS0844,25/06/2025,Tanjung Perak,Cuaca Buruk,Badai,17429,0.37,Koordinasi dengan otoritas pelabuhan
+ISS0845,19/06/2025,Bitung,Force Majeure,Badai,13811,0.35,Koordinasi dengan otoritas pelabuhan
+ISS0846,08/07/2025,Bitung,Cuaca Buruk,Hujan Deras,11134,0.32,Alihkan kontainer ke terminal lain
+ISS0847,20/06/2025,Tanjung Perak,Overload,Cerah,18631,0.49,Tunda pengiriman hingga cuaca membaik
+ISS0848,26/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,11573,0.73,Alihkan kontainer ke terminal lain
+ISS0849,28/06/2025,Bitung,Overload,Kabut Tebal,15555,0.42,Percepat proses bongkar saat cuaca memungkinkan
+ISS0850,04/06/2025,Makassar,Overload,Hujan Deras,5546,0.12,Tunda pengiriman hingga cuaca membaik
+ISS0851,08/06/2025,Makassar,Cuaca Buruk,Angin Kencang,12897,0.55,Tunda pengiriman hingga cuaca membaik
+ISS0852,24/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,10448,0.11,Alokasikan ke terminal cadangan
+ISS0853,13/07/2025,Makassar,Force Majeure,Angin Kencang,11655,0.26,Tambahkan armada ke pelabuhan
+ISS0854,06/06/2025,Belawan,Overload,Badai,16981,0.16,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0855,10/07/2025,Tanjung Perak,Cuaca Buruk,Badai,11048,0.61,Alokasikan ke terminal cadangan
+ISS0856,26/07/2025,Belawan,Force Majeure,Badai,11083,0.33,Alokasikan ke terminal cadangan
+ISS0857,17/06/2025,Bitung,Force Majeure,Angin Kencang,5164,0.86,Koordinasi dengan otoritas pelabuhan
+ISS0858,02/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,9911,0.68,Tambahkan armada ke pelabuhan
+ISS0859,18/07/2025,Bitung,Force Majeure,Cerah,5012,0.62,Alihkan kontainer ke terminal lain
+ISS0860,25/06/2025,Makassar,Force Majeure,Angin Kencang,10485,0.46,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0861,15/07/2025,Belawan,Force Majeure,Hujan Deras,13603,0.86,Alokasikan ke terminal cadangan
+ISS0862,03/06/2025,Tanjung Priok,Overload,Hujan Deras,3653,0.6,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0863,13/07/2025,Tanjung Perak,Overload,Cerah,7280,0.91,Alihkan ke pelabuhan terdekat
+ISS0864,19/06/2025,Belawan,Overload,Hujan Deras,8148,0.52,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0865,19/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,15757,0.9,Alihkan ke pelabuhan terdekat
+ISS0866,10/07/2025,Bitung,Cuaca Buruk,Cerah,18407,0.29,Tambahkan armada ke pelabuhan
+ISS0867,08/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,2105,0.93,Percepat proses bongkar saat cuaca memungkinkan
+ISS0868,21/06/2025,Makassar,Overload,Kabut Tebal,17647,0.52,Koordinasi dengan otoritas pelabuhan
+ISS0869,22/07/2025,Bitung,Overload,Badai,18056,0.21,Alihkan kontainer ke terminal lain
+ISS0870,01/06/2025,Belawan,Overload,Hujan Deras,19489,0.15,Alihkan kontainer ke terminal lain
+ISS0871,23/06/2025,Tanjung Priok,Force Majeure,Cerah,13825,0.2,Tunda pengiriman hingga cuaca membaik
+ISS0872,14/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,4892,0.52,Koordinasi dengan otoritas pelabuhan
+ISS0873,21/06/2025,Makassar,Overload,Hujan Deras,14979,0.32,Aktifkan jalur logistik alternatif
+ISS0874,17/07/2025,Makassar,Cuaca Buruk,Angin Kencang,7202,0.45,Alihkan kontainer ke terminal lain
+ISS0875,14/06/2025,Belawan,Force Majeure,Angin Kencang,7683,0.19,Alokasikan ke terminal cadangan
+ISS0876,21/07/2025,Tanjung Perak,Force Majeure,Cerah,5991,0.92,Percepat proses bongkar saat cuaca memungkinkan
+ISS0877,03/06/2025,Makassar,Overload,Kabut Tebal,18872,0.61,Percepat proses bongkar saat cuaca memungkinkan
+ISS0878,06/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,2875,0.32,Alokasikan ke terminal cadangan
+ISS0879,21/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,14854,0.37,Alokasikan ke terminal cadangan
+ISS0880,20/06/2025,Bitung,Cuaca Buruk,Badai,2957,0.33,Alihkan ke pelabuhan terdekat
+ISS0881,30/06/2025,Belawan,Cuaca Buruk,Cerah,6138,0.41,Tunda pengiriman hingga cuaca membaik
+ISS0882,04/07/2025,Makassar,Cuaca Buruk,Hujan Deras,9837,0.29,Alihkan kontainer ke terminal lain
+ISS0883,28/06/2025,Bitung,Cuaca Buruk,Hujan Deras,6195,0.12,Koordinasi dengan otoritas pelabuhan
+ISS0884,24/06/2025,Bitung,Force Majeure,Hujan Deras,10700,0.68,Tunda pengiriman hingga cuaca membaik
+ISS0885,03/07/2025,Belawan,Force Majeure,Badai,7400,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS0886,27/07/2025,Tanjung Perak,Overload,Kabut Tebal,18642,0.53,Alihkan ke pelabuhan terdekat
+ISS0887,04/06/2025,Bitung,Overload,Hujan Deras,18826,0.91,Alihkan ke pelabuhan terdekat
+ISS0888,06/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,8789,0.12,Koordinasi dengan otoritas pelabuhan
+ISS0889,12/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,6812,0.74,Percepat proses bongkar saat cuaca memungkinkan
+ISS0890,26/06/2025,Tanjung Priok,Overload,Hujan Deras,18950,0.64,Alokasikan ke terminal cadangan
+ISS0891,23/06/2025,Belawan,Overload,Angin Kencang,8961,0.67,Alihkan ke pelabuhan terdekat
+ISS0892,10/07/2025,Belawan,Force Majeure,Angin Kencang,8911,0.12,Alokasikan ke terminal cadangan
+ISS0893,04/07/2025,Tanjung Perak,Cuaca Buruk,Badai,2461,0.61,Aktifkan jalur logistik alternatif
+ISS0894,22/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,3206,0.9,Alokasikan ke terminal cadangan
+ISS0895,07/06/2025,Tanjung Perak,Overload,Badai,2889,0.69,Koordinasi dengan otoritas pelabuhan
+ISS0896,17/06/2025,Belawan,Force Majeure,Badai,12239,0.93,Aktifkan jalur logistik alternatif
+ISS0897,18/07/2025,Tanjung Priok,Overload,Kabut Tebal,13218,0.52,Aktifkan jalur logistik alternatif
+ISS0898,19/06/2025,Bitung,Cuaca Buruk,Cerah,7169,0.9,Tambahkan armada ke pelabuhan
+ISS0899,08/07/2025,Tanjung Perak,Overload,Cerah,8080,0.77,Koordinasi dengan otoritas pelabuhan
+ISS0900,02/07/2025,Makassar,Cuaca Buruk,Hujan Deras,8077,0.5,Alokasikan ke terminal cadangan
+ISS0901,09/06/2025,Belawan,Force Majeure,Hujan Deras,12276,0.89,Percepat proses bongkar saat cuaca memungkinkan
+ISS0902,29/07/2025,Bitung,Force Majeure,Kabut Tebal,17261,0.3,Tambahkan armada ke pelabuhan
+ISS0903,15/06/2025,Belawan,Force Majeure,Hujan Deras,2097,0.78,Alokasikan ke terminal cadangan
+ISS0904,29/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,3620,0.86,Tunda pengiriman hingga cuaca membaik
+ISS0905,04/06/2025,Bitung,Cuaca Buruk,Hujan Deras,3990,0.3,Tambahkan armada ke pelabuhan
+ISS0906,03/07/2025,Tanjung Perak,Overload,Angin Kencang,16643,0.82,Tunda pengiriman hingga cuaca membaik
+ISS0907,05/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,11148,0.17,Aktifkan jalur logistik alternatif
+ISS0908,02/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,3433,0.82,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0909,12/06/2025,Bitung,Cuaca Buruk,Cerah,5009,0.15,Alihkan kontainer ke terminal lain
+ISS0910,21/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,5987,0.23,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0911,07/06/2025,Bitung,Cuaca Buruk,Cerah,4788,0.93,Alokasikan ke terminal cadangan
+ISS0912,07/06/2025,Bitung,Cuaca Buruk,Badai,14745,0.58,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0913,19/06/2025,Makassar,Force Majeure,Angin Kencang,11638,0.45,Alokasikan ke terminal cadangan
+ISS0914,09/07/2025,Bitung,Cuaca Buruk,Badai,7155,0.12,Aktifkan jalur logistik alternatif
+ISS0915,21/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,16582,0.25,Koordinasi dengan otoritas pelabuhan
+ISS0916,13/07/2025,Tanjung Priok,Cuaca Buruk,Badai,16346,0.38,Koordinasi dengan otoritas pelabuhan
+ISS0917,23/07/2025,Makassar,Force Majeure,Cerah,12229,0.82,Tambahkan armada ke pelabuhan
+ISS0918,24/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,16096,0.94,Alihkan kontainer ke terminal lain
+ISS0919,16/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,13702,0.49,Tunda pengiriman hingga cuaca membaik
+ISS0920,25/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,3463,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0921,10/06/2025,Bitung,Overload,Kabut Tebal,4893,0.48,Tunda pengiriman hingga cuaca membaik
+ISS0922,07/06/2025,Belawan,Overload,Hujan Deras,3942,0.66,Tambahkan armada ke pelabuhan
+ISS0923,09/07/2025,Bitung,Overload,Cerah,9935,0.28,Tunda pengiriman hingga cuaca membaik
+ISS0924,23/07/2025,Tanjung Priok,Overload,Angin Kencang,18522,0.68,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0925,03/07/2025,Belawan,Cuaca Buruk,Badai,14098,0.35,Alokasikan ke terminal cadangan
+ISS0926,17/07/2025,Makassar,Cuaca Buruk,Angin Kencang,8088,0.68,Alihkan kontainer ke terminal lain
+ISS0927,28/06/2025,Bitung,Force Majeure,Kabut Tebal,17024,0.26,Tunda pengiriman hingga cuaca membaik
+ISS0928,09/07/2025,Belawan,Overload,Cerah,17204,0.39,Tunda pengiriman hingga cuaca membaik
+ISS0929,16/06/2025,Belawan,Force Majeure,Cerah,7958,0.46,Tambahkan armada ke pelabuhan
+ISS0930,08/07/2025,Makassar,Overload,Angin Kencang,17276,0.82,Alihkan ke pelabuhan terdekat
+ISS0931,15/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,8806,0.74,Alokasikan ke terminal cadangan
+ISS0932,11/06/2025,Tanjung Priok,Overload,Badai,17761,0.25,Percepat proses bongkar saat cuaca memungkinkan
+ISS0933,09/06/2025,Makassar,Force Majeure,Kabut Tebal,2597,0.24,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0934,10/06/2025,Makassar,Cuaca Buruk,Cerah,2430,0.81,Alokasikan ke terminal cadangan
+ISS0935,18/06/2025,Bitung,Cuaca Buruk,Cerah,17826,0.81,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0936,25/06/2025,Belawan,Overload,Kabut Tebal,11762,0.52,Alihkan ke pelabuhan terdekat
+ISS0937,20/07/2025,Belawan,Overload,Kabut Tebal,4851,0.45,Alihkan ke pelabuhan terdekat
+ISS0938,18/07/2025,Makassar,Overload,Cerah,5628,0.4,Tunda pengiriman hingga cuaca membaik
+ISS0939,05/07/2025,Tanjung Perak,Overload,Kabut Tebal,14998,0.58,Tambahkan armada ke pelabuhan
+ISS0940,15/07/2025,Belawan,Force Majeure,Kabut Tebal,4189,0.83,Percepat proses bongkar saat cuaca memungkinkan
+ISS0941,29/06/2025,Belawan,Overload,Kabut Tebal,6840,0.59,Tambahkan armada ke pelabuhan
+ISS0942,14/07/2025,Makassar,Force Majeure,Kabut Tebal,4283,0.55,Tunda pengiriman hingga cuaca membaik
+ISS0943,22/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,19867,0.78,Aktifkan jalur logistik alternatif
+ISS0944,06/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,11349,0.26,Tunda pengiriman hingga cuaca membaik
+ISS0945,01/06/2025,Belawan,Cuaca Buruk,Hujan Deras,15123,0.95,Alihkan kontainer ke terminal lain
+ISS0946,01/07/2025,Makassar,Force Majeure,Kabut Tebal,16965,0.14,Tambahkan armada ke pelabuhan
+ISS0947,02/06/2025,Makassar,Overload,Kabut Tebal,18399,0.4,Alokasikan ke terminal cadangan
+ISS0948,24/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,8897,0.83,Alihkan ke pelabuhan terdekat
+ISS0949,07/07/2025,Belawan,Overload,Hujan Deras,10152,0.61,Aktifkan jalur logistik alternatif
+ISS0950,16/06/2025,Bitung,Force Majeure,Kabut Tebal,15675,0.16,Alokasikan ke terminal cadangan
+ISS0951,24/07/2025,Makassar,Overload,Kabut Tebal,17013,0.34,Tambahkan armada ke pelabuhan
+ISS0952,24/07/2025,Bitung,Force Majeure,Cerah,7597,0.93,Aktifkan jalur logistik alternatif
+ISS0953,15/06/2025,Tanjung Perak,Overload,Cerah,11877,0.53,Tunda pengiriman hingga cuaca membaik
+ISS0954,21/07/2025,Makassar,Force Majeure,Badai,2676,0.19,Alihkan kontainer ke terminal lain
+ISS0955,11/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,17084,0.53,Percepat proses bongkar saat cuaca memungkinkan
+ISS0956,13/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,16158,0.14,Alokasikan ke terminal cadangan
+ISS0957,12/06/2025,Tanjung Priok,Overload,Kabut Tebal,4952,0.2,Tunda pengiriman hingga cuaca membaik
+ISS0958,27/06/2025,Belawan,Overload,Angin Kencang,9954,0.2,Koordinasi dengan otoritas pelabuhan
+ISS0959,28/07/2025,Belawan,Force Majeure,Angin Kencang,18570,0.41,Alihkan kontainer ke terminal lain
+ISS0960,10/07/2025,Bitung,Overload,Kabut Tebal,8845,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0961,15/07/2025,Belawan,Force Majeure,Badai,17107,0.18,Percepat proses bongkar saat cuaca memungkinkan
+ISS0962,14/07/2025,Bitung,Cuaca Buruk,Hujan Deras,19742,0.33,Alokasikan ke terminal cadangan
+ISS0963,22/07/2025,Tanjung Priok,Overload,Badai,3661,0.69,Tambahkan armada ke pelabuhan
+ISS0964,04/07/2025,Makassar,Overload,Hujan Deras,4995,0.33,Alihkan kontainer ke terminal lain
+ISS0965,28/07/2025,Tanjung Perak,Overload,Badai,7694,0.37,Alihkan kontainer ke terminal lain
+ISS0966,02/06/2025,Belawan,Overload,Kabut Tebal,8640,0.24,Tunda pengiriman hingga cuaca membaik
+ISS0967,25/06/2025,Makassar,Cuaca Buruk,Angin Kencang,9954,0.13,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0968,07/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,10148,0.93,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0969,06/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,4395,0.93,Tambahkan armada ke pelabuhan
+ISS0970,30/06/2025,Makassar,Force Majeure,Cerah,6080,0.85,Alihkan ke pelabuhan terdekat
+ISS0971,17/07/2025,Belawan,Cuaca Buruk,Badai,15879,0.75,Koordinasi dengan otoritas pelabuhan
+ISS0972,24/07/2025,Bitung,Overload,Badai,6141,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0973,02/07/2025,Bitung,Overload,Hujan Deras,16128,0.36,Tunda pengiriman hingga cuaca membaik
+ISS0974,30/07/2025,Makassar,Cuaca Buruk,Hujan Deras,10665,0.59,Tunda pengiriman hingga cuaca membaik
+ISS0975,21/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,2219,0.73,Alokasikan ke terminal cadangan
+ISS0976,26/07/2025,Bitung,Cuaca Buruk,Badai,17366,0.11,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0977,29/07/2025,Tanjung Perak,Overload,Angin Kencang,18798,0.37,Percepat proses bongkar saat cuaca memungkinkan
+ISS0978,07/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,7391,0.22,Percepat proses bongkar saat cuaca memungkinkan
+ISS0979,09/07/2025,Makassar,Force Majeure,Kabut Tebal,11474,0.6,Aktifkan jalur logistik alternatif
+ISS0980,21/07/2025,Bitung,Cuaca Buruk,Angin Kencang,6835,0.45,Koordinasi dengan otoritas pelabuhan
+ISS0981,10/07/2025,Bitung,Overload,Angin Kencang,14252,0.63,Tunda pengiriman hingga cuaca membaik
+ISS0982,17/06/2025,Belawan,Overload,Angin Kencang,14192,0.68,Aktifkan jalur logistik alternatif
+ISS0983,19/07/2025,Makassar,Force Majeure,Angin Kencang,2507,0.17,Aktifkan jalur logistik alternatif
+ISS0984,22/07/2025,Makassar,Cuaca Buruk,Badai,3934,0.78,Tambahkan armada ke pelabuhan
+ISS0985,16/07/2025,Tanjung Perak,Overload,Angin Kencang,19431,0.72,Tambahkan armada ke pelabuhan
+ISS0986,08/06/2025,Makassar,Overload,Badai,9283,0.13,Aktifkan jalur logistik alternatif
+ISS0987,21/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,17088,0.25,Alokasikan ke terminal cadangan
+ISS0988,01/06/2025,Belawan,Force Majeure,Kabut Tebal,19169,0.7,Alihkan ke pelabuhan terdekat
+ISS0989,15/07/2025,Tanjung Priok,Cuaca Buruk,Badai,4191,0.51,Tambahkan armada ke pelabuhan
+ISS0990,07/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,18399,0.94,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0991,29/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3132,0.67,Tunda pengiriman hingga cuaca membaik
+ISS0992,03/07/2025,Belawan,Overload,Kabut Tebal,14103,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS0993,12/06/2025,Belawan,Force Majeure,Cerah,12737,0.84,Alihkan kontainer ke terminal lain
+ISS0994,21/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,19612,0.85,Tambahkan armada ke pelabuhan
+ISS0995,20/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,3641,0.25,Alihkan ke pelabuhan terdekat
+ISS0996,19/07/2025,Makassar,Overload,Hujan Deras,13366,0.6,Percepat proses bongkar saat cuaca memungkinkan
+ISS0997,08/06/2025,Bitung,Cuaca Buruk,Hujan Deras,15961,0.78,Aktifkan jalur logistik alternatif
+ISS0998,13/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,14853,0.53,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS0999,08/07/2025,Tanjung Perak,Overload,Hujan Deras,12305,0.66,Koordinasi dengan otoritas pelabuhan
+ISS1000,06/07/2025,Makassar,Force Majeure,Kabut Tebal,10590,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS1001,21/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,19353,0.65,Alihkan kontainer ke terminal lain
+ISS1002,07/06/2025,Makassar,Force Majeure,Angin Kencang,7993,0.85,Tunda pengiriman hingga cuaca membaik
+ISS1003,30/07/2025,Tanjung Priok,Cuaca Buruk,Badai,17744,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS1004,07/07/2025,Tanjung Priok,Overload,Angin Kencang,12735,0.77,Tambahkan armada ke pelabuhan
+ISS1005,22/07/2025,Belawan,Overload,Cerah,12902,0.51,Alihkan ke pelabuhan terdekat
+ISS1006,10/06/2025,Belawan,Cuaca Buruk,Hujan Deras,16308,0.85,Alihkan kontainer ke terminal lain
+ISS1007,24/07/2025,Makassar,Force Majeure,Badai,6863,0.15,Tunda pengiriman hingga cuaca membaik
+ISS1008,09/06/2025,Bitung,Cuaca Buruk,Angin Kencang,3307,0.57,Tambahkan armada ke pelabuhan
+ISS1009,24/06/2025,Bitung,Force Majeure,Cerah,9666,0.13,Alokasikan ke terminal cadangan
+ISS1010,30/06/2025,Tanjung Perak,Overload,Badai,12338,0.33,Percepat proses bongkar saat cuaca memungkinkan
+ISS1011,02/07/2025,Makassar,Overload,Hujan Deras,15788,0.11,Aktifkan jalur logistik alternatif
+ISS1012,27/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,19670,0.25,Alihkan ke pelabuhan terdekat
+ISS1013,12/07/2025,Makassar,Force Majeure,Badai,19160,0.62,Alihkan kontainer ke terminal lain
+ISS1014,30/06/2025,Tanjung Perak,Force Majeure,Cerah,6526,0.6,Alokasikan ke terminal cadangan
+ISS1015,10/07/2025,Bitung,Overload,Cerah,6968,0.78,Alihkan kontainer ke terminal lain
+ISS1016,18/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,14392,0.55,Alihkan ke pelabuhan terdekat
+ISS1017,06/07/2025,Tanjung Priok,Cuaca Buruk,Badai,19943,0.89,Tunda pengiriman hingga cuaca membaik
+ISS1018,11/07/2025,Makassar,Cuaca Buruk,Badai,6227,0.54,Alokasikan ke terminal cadangan
+ISS1019,30/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,6524,0.81,Alihkan kontainer ke terminal lain
+ISS1020,24/06/2025,Makassar,Force Majeure,Angin Kencang,2436,0.26,Tunda pengiriman hingga cuaca membaik
+ISS1021,27/06/2025,Makassar,Force Majeure,Kabut Tebal,3016,0.23,Alihkan kontainer ke terminal lain
+ISS1022,18/07/2025,Bitung,Force Majeure,Kabut Tebal,15344,0.62,Aktifkan jalur logistik alternatif
+ISS1023,28/07/2025,Tanjung Priok,Overload,Hujan Deras,11886,0.84,Alihkan ke pelabuhan terdekat
+ISS1024,04/06/2025,Belawan,Cuaca Buruk,Cerah,17575,0.18,Aktifkan jalur logistik alternatif
+ISS1025,11/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,16441,0.44,Tunda pengiriman hingga cuaca membaik
+ISS1026,02/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,2670,0.46,Alokasikan ke terminal cadangan
+ISS1027,28/06/2025,Makassar,Cuaca Buruk,Cerah,19210,0.69,Alokasikan ke terminal cadangan
+ISS1028,03/06/2025,Makassar,Cuaca Buruk,Cerah,16285,0.59,Aktifkan jalur logistik alternatif
+ISS1029,03/06/2025,Belawan,Overload,Badai,3255,0.5,Koordinasi dengan otoritas pelabuhan
+ISS1030,26/07/2025,Belawan,Force Majeure,Cerah,3268,0.73,Alihkan kontainer ke terminal lain
+ISS1031,20/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,2594,0.19,Tambahkan armada ke pelabuhan
+ISS1032,17/06/2025,Tanjung Perak,Overload,Hujan Deras,4433,0.92,Aktifkan jalur logistik alternatif
+ISS1033,28/06/2025,Tanjung Priok,Cuaca Buruk,Badai,9305,0.19,Tunda pengiriman hingga cuaca membaik
+ISS1034,30/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,2239,0.59,Tambahkan armada ke pelabuhan
+ISS1035,10/07/2025,Belawan,Force Majeure,Badai,7804,0.22,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1036,06/07/2025,Makassar,Overload,Badai,3586,0.67,Aktifkan jalur logistik alternatif
+ISS1037,29/06/2025,Makassar,Overload,Cerah,15526,0.86,Percepat proses bongkar saat cuaca memungkinkan
+ISS1038,01/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,4344,0.58,Alihkan kontainer ke terminal lain
+ISS1039,04/07/2025,Bitung,Cuaca Buruk,Badai,8370,0.52,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1040,26/07/2025,Tanjung Priok,Overload,Angin Kencang,2679,0.18,Koordinasi dengan otoritas pelabuhan
+ISS1041,28/07/2025,Makassar,Overload,Badai,18014,0.19,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1042,26/06/2025,Bitung,Cuaca Buruk,Badai,15335,0.14,Alihkan ke pelabuhan terdekat
+ISS1043,26/06/2025,Makassar,Cuaca Buruk,Hujan Deras,5272,0.39,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1044,01/06/2025,Makassar,Cuaca Buruk,Cerah,8746,0.18,Aktifkan jalur logistik alternatif
+ISS1045,02/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,16126,0.75,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1046,29/06/2025,Makassar,Force Majeure,Cerah,5294,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS1047,28/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,14494,0.14,Alihkan ke pelabuhan terdekat
+ISS1048,13/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,10558,0.44,Koordinasi dengan otoritas pelabuhan
+ISS1049,13/06/2025,Bitung,Overload,Badai,2021,0.13,Alihkan kontainer ke terminal lain
+ISS1050,10/06/2025,Belawan,Force Majeure,Angin Kencang,6175,0.16,Aktifkan jalur logistik alternatif
+ISS1051,23/07/2025,Belawan,Cuaca Buruk,Badai,12768,0.35,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1052,08/06/2025,Bitung,Force Majeure,Badai,14434,0.55,Tambahkan armada ke pelabuhan
+ISS1053,15/06/2025,Bitung,Force Majeure,Badai,10757,0.82,Percepat proses bongkar saat cuaca memungkinkan
+ISS1054,13/06/2025,Tanjung Perak,Overload,Badai,18817,0.92,Tambahkan armada ke pelabuhan
+ISS1055,05/06/2025,Bitung,Force Majeure,Badai,16174,0.39,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1056,04/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,12561,0.51,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1057,04/07/2025,Makassar,Force Majeure,Angin Kencang,11341,0.51,Alihkan ke pelabuhan terdekat
+ISS1058,22/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,18891,0.61,Percepat proses bongkar saat cuaca memungkinkan
+ISS1059,04/06/2025,Belawan,Force Majeure,Hujan Deras,10453,0.79,Percepat proses bongkar saat cuaca memungkinkan
+ISS1060,28/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,19769,0.83,Alihkan kontainer ke terminal lain
+ISS1061,28/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,12055,0.82,Alokasikan ke terminal cadangan
+ISS1062,30/06/2025,Tanjung Priok,Overload,Kabut Tebal,4086,0.75,Koordinasi dengan otoritas pelabuhan
+ISS1063,11/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,7714,0.23,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1064,13/07/2025,Belawan,Cuaca Buruk,Badai,2648,0.89,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1065,12/06/2025,Tanjung Priok,Overload,Hujan Deras,17661,0.22,Koordinasi dengan otoritas pelabuhan
+ISS1066,15/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,13369,0.47,Alihkan kontainer ke terminal lain
+ISS1067,19/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,19298,0.86,Alihkan kontainer ke terminal lain
+ISS1068,13/07/2025,Tanjung Perak,Overload,Hujan Deras,7047,0.78,Tambahkan armada ke pelabuhan
+ISS1069,13/07/2025,Makassar,Force Majeure,Kabut Tebal,14145,0.8,Tunda pengiriman hingga cuaca membaik
+ISS1070,22/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,6908,0.8,Percepat proses bongkar saat cuaca memungkinkan
+ISS1071,18/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,18268,0.65,Aktifkan jalur logistik alternatif
+ISS1072,23/06/2025,Makassar,Cuaca Buruk,Cerah,11346,0.15,Alokasikan ke terminal cadangan
+ISS1073,11/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,12153,0.35,Koordinasi dengan otoritas pelabuhan
+ISS1074,15/07/2025,Tanjung Perak,Force Majeure,Cerah,19009,0.59,Aktifkan jalur logistik alternatif
+ISS1075,03/07/2025,Makassar,Overload,Kabut Tebal,5240,0.43,Tunda pengiriman hingga cuaca membaik
+ISS1076,26/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,9435,0.36,Aktifkan jalur logistik alternatif
+ISS1077,12/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,12589,0.9,Alihkan ke pelabuhan terdekat
+ISS1078,20/07/2025,Makassar,Overload,Kabut Tebal,3299,0.71,Percepat proses bongkar saat cuaca memungkinkan
+ISS1079,14/06/2025,Makassar,Overload,Kabut Tebal,16744,0.91,Alokasikan ke terminal cadangan
+ISS1080,30/06/2025,Belawan,Overload,Angin Kencang,6062,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS1081,16/07/2025,Tanjung Priok,Overload,Kabut Tebal,19897,0.29,Alihkan kontainer ke terminal lain
+ISS1082,03/07/2025,Tanjung Perak,Overload,Angin Kencang,19439,0.41,Percepat proses bongkar saat cuaca memungkinkan
+ISS1083,15/07/2025,Bitung,Cuaca Buruk,Badai,4328,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS1084,29/07/2025,Bitung,Overload,Kabut Tebal,18065,0.44,Koordinasi dengan otoritas pelabuhan
+ISS1085,16/06/2025,Bitung,Overload,Angin Kencang,13572,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1086,26/06/2025,Bitung,Overload,Kabut Tebal,9519,0.71,Alihkan kontainer ke terminal lain
+ISS1087,20/07/2025,Tanjung Perak,Overload,Hujan Deras,9024,0.33,Percepat proses bongkar saat cuaca memungkinkan
+ISS1088,24/06/2025,Tanjung Perak,Overload,Hujan Deras,6057,0.88,Koordinasi dengan otoritas pelabuhan
+ISS1089,09/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,18637,0.28,Alihkan kontainer ke terminal lain
+ISS1090,09/06/2025,Makassar,Force Majeure,Hujan Deras,8368,0.7,Alokasikan ke terminal cadangan
+ISS1091,15/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,5408,0.55,Alihkan kontainer ke terminal lain
+ISS1092,29/06/2025,Bitung,Overload,Angin Kencang,4198,0.79,Alihkan kontainer ke terminal lain
+ISS1093,19/06/2025,Belawan,Overload,Cerah,15485,0.32,Alokasikan ke terminal cadangan
+ISS1094,06/06/2025,Belawan,Overload,Hujan Deras,16551,0.79,Alokasikan ke terminal cadangan
+ISS1095,29/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,16111,0.33,Alihkan ke pelabuhan terdekat
+ISS1096,12/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,7521,0.49,Tunda pengiriman hingga cuaca membaik
+ISS1097,04/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,7975,0.22,Alihkan ke pelabuhan terdekat
+ISS1098,22/06/2025,Bitung,Cuaca Buruk,Cerah,16204,0.45,Tunda pengiriman hingga cuaca membaik
+ISS1099,08/07/2025,Belawan,Force Majeure,Angin Kencang,6849,0.67,Tunda pengiriman hingga cuaca membaik
+ISS1100,13/06/2025,Tanjung Priok,Overload,Badai,14017,0.36,Tunda pengiriman hingga cuaca membaik
+ISS1101,18/06/2025,Tanjung Priok,Overload,Cerah,4754,0.91,Percepat proses bongkar saat cuaca memungkinkan
+ISS1102,21/06/2025,Tanjung Priok,Force Majeure,Badai,16233,0.28,Koordinasi dengan otoritas pelabuhan
+ISS1103,20/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,11748,0.13,Aktifkan jalur logistik alternatif
+ISS1104,11/07/2025,Tanjung Perak,Force Majeure,Cerah,17061,0.53,Koordinasi dengan otoritas pelabuhan
+ISS1105,11/07/2025,Tanjung Perak,Force Majeure,Badai,7801,0.36,Alihkan ke pelabuhan terdekat
+ISS1106,14/07/2025,Makassar,Force Majeure,Cerah,19485,0.33,Alokasikan ke terminal cadangan
+ISS1107,08/06/2025,Tanjung Perak,Overload,Badai,4591,0.36,Alihkan kontainer ke terminal lain
+ISS1108,12/07/2025,Makassar,Overload,Angin Kencang,15324,0.53,Koordinasi dengan otoritas pelabuhan
+ISS1109,18/06/2025,Tanjung Perak,Overload,Hujan Deras,10670,0.37,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1110,23/06/2025,Tanjung Priok,Overload,Cerah,3763,0.71,Aktifkan jalur logistik alternatif
+ISS1111,23/06/2025,Makassar,Cuaca Buruk,Cerah,2737,0.61,Tambahkan armada ke pelabuhan
+ISS1112,05/06/2025,Bitung,Force Majeure,Hujan Deras,5460,0.4,Koordinasi dengan otoritas pelabuhan
+ISS1113,18/06/2025,Belawan,Force Majeure,Kabut Tebal,13620,0.42,Alihkan kontainer ke terminal lain
+ISS1114,12/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,15195,0.16,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1115,21/06/2025,Tanjung Perak,Overload,Kabut Tebal,8814,0.35,Alokasikan ke terminal cadangan
+ISS1116,23/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,4121,0.51,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1117,27/06/2025,Makassar,Cuaca Buruk,Angin Kencang,10742,0.33,Percepat proses bongkar saat cuaca memungkinkan
+ISS1118,03/07/2025,Tanjung Priok,Overload,Cerah,9975,0.75,Aktifkan jalur logistik alternatif
+ISS1119,10/07/2025,Bitung,Cuaca Buruk,Badai,5887,0.11,Alihkan ke pelabuhan terdekat
+ISS1120,22/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,14018,0.73,Alokasikan ke terminal cadangan
+ISS1121,25/07/2025,Bitung,Cuaca Buruk,Cerah,15730,0.82,Alihkan kontainer ke terminal lain
+ISS1122,16/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,12449,0.64,Tunda pengiriman hingga cuaca membaik
+ISS1123,09/06/2025,Bitung,Force Majeure,Kabut Tebal,4376,0.46,Percepat proses bongkar saat cuaca memungkinkan
+ISS1124,09/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,11561,0.26,Tunda pengiriman hingga cuaca membaik
+ISS1125,07/07/2025,Bitung,Force Majeure,Angin Kencang,11180,0.34,Alihkan kontainer ke terminal lain
+ISS1126,03/07/2025,Tanjung Perak,Overload,Badai,13929,0.28,Aktifkan jalur logistik alternatif
+ISS1127,24/07/2025,Tanjung Priok,Overload,Angin Kencang,3052,0.67,Alihkan kontainer ke terminal lain
+ISS1128,13/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,5647,0.73,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1129,20/06/2025,Tanjung Priok,Overload,Hujan Deras,11525,0.5,Koordinasi dengan otoritas pelabuhan
+ISS1130,18/06/2025,Tanjung Perak,Overload,Badai,8374,0.91,Alihkan ke pelabuhan terdekat
+ISS1131,19/06/2025,Tanjung Priok,Overload,Angin Kencang,11845,0.43,Koordinasi dengan otoritas pelabuhan
+ISS1132,08/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3815,0.72,Tunda pengiriman hingga cuaca membaik
+ISS1133,25/07/2025,Tanjung Priok,Force Majeure,Badai,2039,0.79,Alokasikan ke terminal cadangan
+ISS1134,05/06/2025,Bitung,Overload,Angin Kencang,4237,0.53,Alihkan ke pelabuhan terdekat
+ISS1135,05/07/2025,Belawan,Force Majeure,Hujan Deras,6197,0.77,Alihkan ke pelabuhan terdekat
+ISS1136,16/06/2025,Belawan,Overload,Badai,18277,0.73,Alihkan ke pelabuhan terdekat
+ISS1137,04/07/2025,Belawan,Overload,Badai,7629,0.51,Alihkan ke pelabuhan terdekat
+ISS1138,17/06/2025,Belawan,Force Majeure,Kabut Tebal,5896,0.29,Aktifkan jalur logistik alternatif
+ISS1139,14/06/2025,Makassar,Overload,Hujan Deras,5264,0.49,Aktifkan jalur logistik alternatif
+ISS1140,29/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,18906,0.51,Percepat proses bongkar saat cuaca memungkinkan
+ISS1141,17/07/2025,Tanjung Priok,Overload,Angin Kencang,11856,0.91,Alokasikan ke terminal cadangan
+ISS1142,27/06/2025,Makassar,Overload,Kabut Tebal,10656,0.65,Tambahkan armada ke pelabuhan
+ISS1143,14/06/2025,Bitung,Force Majeure,Cerah,19264,0.85,Alihkan ke pelabuhan terdekat
+ISS1144,21/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,19632,0.57,Alokasikan ke terminal cadangan
+ISS1145,30/07/2025,Bitung,Overload,Cerah,14361,0.74,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1146,27/06/2025,Bitung,Force Majeure,Cerah,12485,0.73,Alihkan ke pelabuhan terdekat
+ISS1147,23/07/2025,Bitung,Overload,Angin Kencang,19800,0.81,Aktifkan jalur logistik alternatif
+ISS1148,22/06/2025,Bitung,Overload,Kabut Tebal,9968,0.87,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1149,23/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,18164,0.55,Aktifkan jalur logistik alternatif
+ISS1150,14/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,2432,0.28,Tambahkan armada ke pelabuhan
+ISS1151,26/07/2025,Makassar,Cuaca Buruk,Angin Kencang,10195,0.44,Alihkan ke pelabuhan terdekat
+ISS1152,16/06/2025,Belawan,Force Majeure,Angin Kencang,11964,0.3,Alokasikan ke terminal cadangan
+ISS1153,12/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,11704,0.38,Alihkan ke pelabuhan terdekat
+ISS1154,13/06/2025,Tanjung Priok,Overload,Cerah,7123,0.86,Percepat proses bongkar saat cuaca memungkinkan
+ISS1155,16/07/2025,Belawan,Cuaca Buruk,Cerah,15473,0.59,Aktifkan jalur logistik alternatif
+ISS1156,08/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,7905,0.54,Tambahkan armada ke pelabuhan
+ISS1157,11/07/2025,Bitung,Cuaca Buruk,Badai,6626,0.79,Aktifkan jalur logistik alternatif
+ISS1158,18/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,7072,0.9,Alihkan ke pelabuhan terdekat
+ISS1159,13/06/2025,Belawan,Force Majeure,Cerah,2206,0.61,Tunda pengiriman hingga cuaca membaik
+ISS1160,22/06/2025,Makassar,Cuaca Buruk,Cerah,18544,0.37,Tambahkan armada ke pelabuhan
+ISS1161,28/07/2025,Belawan,Overload,Kabut Tebal,8272,0.14,Aktifkan jalur logistik alternatif
+ISS1162,22/06/2025,Makassar,Cuaca Buruk,Angin Kencang,17403,0.89,Alihkan ke pelabuhan terdekat
+ISS1163,02/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,6386,0.91,Tambahkan armada ke pelabuhan
+ISS1164,27/06/2025,Tanjung Perak,Overload,Kabut Tebal,8392,0.11,Tunda pengiriman hingga cuaca membaik
+ISS1165,25/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,3721,0.94,Tambahkan armada ke pelabuhan
+ISS1166,13/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,10110,0.45,Tunda pengiriman hingga cuaca membaik
+ISS1167,09/06/2025,Bitung,Overload,Badai,5983,0.71,Koordinasi dengan otoritas pelabuhan
+ISS1168,16/06/2025,Bitung,Cuaca Buruk,Hujan Deras,6397,0.26,Tambahkan armada ke pelabuhan
+ISS1169,17/07/2025,Makassar,Force Majeure,Cerah,19978,0.65,Tambahkan armada ke pelabuhan
+ISS1170,10/06/2025,Belawan,Overload,Badai,13125,0.24,Alihkan kontainer ke terminal lain
+ISS1171,28/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,8618,0.44,Tunda pengiriman hingga cuaca membaik
+ISS1172,24/07/2025,Tanjung Perak,Overload,Kabut Tebal,19889,0.74,Aktifkan jalur logistik alternatif
+ISS1173,21/07/2025,Bitung,Overload,Cerah,14142,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1174,29/06/2025,Tanjung Priok,Overload,Angin Kencang,18319,0.35,Aktifkan jalur logistik alternatif
+ISS1175,21/06/2025,Makassar,Force Majeure,Cerah,10157,0.85,Alokasikan ke terminal cadangan
+ISS1176,05/06/2025,Makassar,Overload,Cerah,2596,0.84,Alokasikan ke terminal cadangan
+ISS1177,01/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,10820,0.23,Aktifkan jalur logistik alternatif
+ISS1178,18/06/2025,Belawan,Overload,Badai,8527,0.2,Aktifkan jalur logistik alternatif
+ISS1179,09/07/2025,Belawan,Force Majeure,Badai,19198,0.51,Tambahkan armada ke pelabuhan
+ISS1180,20/06/2025,Tanjung Perak,Overload,Cerah,18831,0.57,Alihkan kontainer ke terminal lain
+ISS1181,06/07/2025,Makassar,Cuaca Buruk,Angin Kencang,5219,0.72,Koordinasi dengan otoritas pelabuhan
+ISS1182,23/07/2025,Tanjung Priok,Cuaca Buruk,Badai,14011,0.44,Aktifkan jalur logistik alternatif
+ISS1183,23/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,18219,0.78,Alokasikan ke terminal cadangan
+ISS1184,22/06/2025,Makassar,Cuaca Buruk,Angin Kencang,4553,0.15,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1185,05/06/2025,Tanjung Priok,Overload,Cerah,16698,0.71,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1186,28/07/2025,Belawan,Overload,Hujan Deras,18900,0.72,Alihkan ke pelabuhan terdekat
+ISS1187,24/07/2025,Tanjung Priok,Force Majeure,Cerah,2415,0.67,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1188,09/07/2025,Bitung,Cuaca Buruk,Cerah,12152,0.89,Tunda pengiriman hingga cuaca membaik
+ISS1189,30/06/2025,Bitung,Force Majeure,Badai,18257,0.69,Aktifkan jalur logistik alternatif
+ISS1190,13/06/2025,Makassar,Cuaca Buruk,Hujan Deras,19554,0.5,Alokasikan ke terminal cadangan
+ISS1191,22/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,18891,0.59,Tunda pengiriman hingga cuaca membaik
+ISS1192,08/07/2025,Bitung,Cuaca Buruk,Angin Kencang,12070,0.2,Koordinasi dengan otoritas pelabuhan
+ISS1193,08/07/2025,Tanjung Priok,Overload,Angin Kencang,8540,0.47,Tunda pengiriman hingga cuaca membaik
+ISS1194,30/07/2025,Tanjung Perak,Cuaca Buruk,Badai,17438,0.64,Koordinasi dengan otoritas pelabuhan
+ISS1195,22/06/2025,Bitung,Overload,Badai,13611,0.78,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1196,16/07/2025,Makassar,Overload,Badai,10810,0.48,Tunda pengiriman hingga cuaca membaik
+ISS1197,14/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,11142,0.49,Koordinasi dengan otoritas pelabuhan
+ISS1198,16/07/2025,Bitung,Overload,Badai,16519,0.23,Koordinasi dengan otoritas pelabuhan
+ISS1199,10/07/2025,Tanjung Priok,Overload,Hujan Deras,11004,0.64,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1200,30/06/2025,Tanjung Perak,Cuaca Buruk,Badai,8025,0.91,Tambahkan armada ke pelabuhan
+ISS1201,02/06/2025,Belawan,Force Majeure,Cerah,12465,0.83,Alihkan kontainer ke terminal lain
+ISS1202,10/06/2025,Bitung,Overload,Badai,16655,0.89,Tunda pengiriman hingga cuaca membaik
+ISS1203,17/07/2025,Bitung,Force Majeure,Badai,11560,0.17,Alihkan ke pelabuhan terdekat
+ISS1204,17/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,6853,0.15,Aktifkan jalur logistik alternatif
+ISS1205,05/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,4018,0.95,Percepat proses bongkar saat cuaca memungkinkan
+ISS1206,24/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3207,0.73,Aktifkan jalur logistik alternatif
+ISS1207,04/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,17729,0.66,Tunda pengiriman hingga cuaca membaik
+ISS1208,18/07/2025,Makassar,Overload,Hujan Deras,8345,0.41,Percepat proses bongkar saat cuaca memungkinkan
+ISS1209,16/07/2025,Belawan,Cuaca Buruk,Angin Kencang,17060,0.87,Tambahkan armada ke pelabuhan
+ISS1210,30/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,12751,0.9,Alihkan kontainer ke terminal lain
+ISS1211,29/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,17644,0.56,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1212,22/07/2025,Belawan,Overload,Hujan Deras,6212,0.38,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1213,26/06/2025,Tanjung Perak,Cuaca Buruk,Badai,4278,0.13,Tambahkan armada ke pelabuhan
+ISS1214,06/07/2025,Tanjung Perak,Overload,Angin Kencang,11131,0.69,Alokasikan ke terminal cadangan
+ISS1215,10/06/2025,Makassar,Force Majeure,Hujan Deras,17583,0.59,Tambahkan armada ke pelabuhan
+ISS1216,02/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,4112,0.35,Tunda pengiriman hingga cuaca membaik
+ISS1217,25/06/2025,Makassar,Cuaca Buruk,Badai,10657,0.67,Alokasikan ke terminal cadangan
+ISS1218,19/06/2025,Belawan,Cuaca Buruk,Badai,12732,0.73,Alokasikan ke terminal cadangan
+ISS1219,25/06/2025,Bitung,Force Majeure,Angin Kencang,18736,0.33,Alihkan kontainer ke terminal lain
+ISS1220,01/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,9918,0.12,Tunda pengiriman hingga cuaca membaik
+ISS1221,13/06/2025,Tanjung Priok,Overload,Badai,18256,0.36,Tunda pengiriman hingga cuaca membaik
+ISS1222,21/07/2025,Bitung,Overload,Hujan Deras,7715,0.65,Tambahkan armada ke pelabuhan
+ISS1223,12/06/2025,Tanjung Perak,Force Majeure,Badai,13290,0.81,Koordinasi dengan otoritas pelabuhan
+ISS1224,09/07/2025,Tanjung Priok,Overload,Hujan Deras,2222,0.49,Tambahkan armada ke pelabuhan
+ISS1225,12/07/2025,Belawan,Overload,Angin Kencang,5017,0.69,Alihkan ke pelabuhan terdekat
+ISS1226,07/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,17245,0.69,Alihkan ke pelabuhan terdekat
+ISS1227,09/06/2025,Bitung,Force Majeure,Cerah,9562,0.55,Percepat proses bongkar saat cuaca memungkinkan
+ISS1228,29/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,19989,0.56,Tunda pengiriman hingga cuaca membaik
+ISS1229,01/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,10099,0.65,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1230,12/07/2025,Tanjung Priok,Overload,Angin Kencang,4678,0.5,Aktifkan jalur logistik alternatif
+ISS1231,27/07/2025,Bitung,Overload,Badai,3596,0.41,Koordinasi dengan otoritas pelabuhan
+ISS1232,16/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,10955,0.71,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1233,21/06/2025,Makassar,Force Majeure,Hujan Deras,17390,0.28,Tambahkan armada ke pelabuhan
+ISS1234,26/07/2025,Belawan,Force Majeure,Badai,16550,0.72,Aktifkan jalur logistik alternatif
+ISS1235,05/07/2025,Bitung,Force Majeure,Kabut Tebal,7398,0.2,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1236,11/07/2025,Makassar,Overload,Angin Kencang,16997,0.32,Alihkan kontainer ke terminal lain
+ISS1237,30/07/2025,Belawan,Overload,Badai,14081,0.63,Alihkan kontainer ke terminal lain
+ISS1238,09/07/2025,Makassar,Force Majeure,Kabut Tebal,13590,0.43,Tambahkan armada ke pelabuhan
+ISS1239,14/06/2025,Bitung,Cuaca Buruk,Angin Kencang,9034,0.59,Koordinasi dengan otoritas pelabuhan
+ISS1240,10/07/2025,Tanjung Perak,Overload,Hujan Deras,15790,0.78,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1241,14/06/2025,Bitung,Cuaca Buruk,Hujan Deras,7216,0.38,Tunda pengiriman hingga cuaca membaik
+ISS1242,24/06/2025,Makassar,Overload,Kabut Tebal,16968,0.29,Aktifkan jalur logistik alternatif
+ISS1243,09/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,15965,0.46,Alihkan kontainer ke terminal lain
+ISS1244,06/06/2025,Bitung,Overload,Kabut Tebal,12127,0.67,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1245,15/07/2025,Tanjung Priok,Overload,Hujan Deras,10673,0.23,Tambahkan armada ke pelabuhan
+ISS1246,18/07/2025,Tanjung Priok,Cuaca Buruk,Badai,7535,0.7,Alihkan kontainer ke terminal lain
+ISS1247,24/06/2025,Belawan,Overload,Cerah,4018,0.51,Koordinasi dengan otoritas pelabuhan
+ISS1248,07/06/2025,Tanjung Priok,Force Majeure,Badai,12002,0.25,Alokasikan ke terminal cadangan
+ISS1249,05/06/2025,Tanjung Perak,Overload,Angin Kencang,19121,0.81,Alihkan kontainer ke terminal lain
+ISS1250,25/07/2025,Bitung,Force Majeure,Angin Kencang,9546,0.48,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1251,11/06/2025,Bitung,Cuaca Buruk,Hujan Deras,8055,0.35,Koordinasi dengan otoritas pelabuhan
+ISS1252,13/06/2025,Belawan,Cuaca Buruk,Angin Kencang,6976,0.94,Aktifkan jalur logistik alternatif
+ISS1253,18/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,14304,0.72,Koordinasi dengan otoritas pelabuhan
+ISS1254,05/06/2025,Bitung,Cuaca Buruk,Cerah,16414,0.63,Tunda pengiriman hingga cuaca membaik
+ISS1255,11/06/2025,Tanjung Perak,Cuaca Buruk,Badai,2916,0.24,Aktifkan jalur logistik alternatif
+ISS1256,01/07/2025,Makassar,Overload,Hujan Deras,16253,0.78,Alihkan kontainer ke terminal lain
+ISS1257,10/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,15569,0.41,Tunda pengiriman hingga cuaca membaik
+ISS1258,26/06/2025,Tanjung Priok,Overload,Angin Kencang,14118,0.66,Aktifkan jalur logistik alternatif
+ISS1259,04/06/2025,Makassar,Force Majeure,Angin Kencang,17753,0.37,Tambahkan armada ke pelabuhan
+ISS1260,15/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,10487,0.42,Aktifkan jalur logistik alternatif
+ISS1261,24/06/2025,Tanjung Perak,Force Majeure,Cerah,9765,0.25,Aktifkan jalur logistik alternatif
+ISS1262,22/06/2025,Bitung,Cuaca Buruk,Angin Kencang,13379,0.19,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1263,30/07/2025,Makassar,Overload,Angin Kencang,13667,0.77,Aktifkan jalur logistik alternatif
+ISS1264,05/06/2025,Belawan,Overload,Badai,2895,0.55,Alihkan kontainer ke terminal lain
+ISS1265,17/07/2025,Bitung,Cuaca Buruk,Hujan Deras,10320,0.63,Tambahkan armada ke pelabuhan
+ISS1266,13/06/2025,Bitung,Cuaca Buruk,Hujan Deras,7317,0.93,Koordinasi dengan otoritas pelabuhan
+ISS1267,10/07/2025,Makassar,Force Majeure,Badai,7131,0.15,Alihkan kontainer ke terminal lain
+ISS1268,10/07/2025,Belawan,Overload,Hujan Deras,3037,0.14,Percepat proses bongkar saat cuaca memungkinkan
+ISS1269,28/07/2025,Makassar,Cuaca Buruk,Hujan Deras,12454,0.2,Tunda pengiriman hingga cuaca membaik
+ISS1270,25/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,19678,0.78,Koordinasi dengan otoritas pelabuhan
+ISS1271,14/06/2025,Tanjung Priok,Overload,Angin Kencang,5724,0.63,Tambahkan armada ke pelabuhan
+ISS1272,02/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,15692,0.86,Koordinasi dengan otoritas pelabuhan
+ISS1273,27/07/2025,Tanjung Priok,Overload,Kabut Tebal,14796,0.84,Percepat proses bongkar saat cuaca memungkinkan
+ISS1274,30/07/2025,Tanjung Perak,Overload,Cerah,14157,0.5,Percepat proses bongkar saat cuaca memungkinkan
+ISS1275,04/07/2025,Tanjung Priok,Overload,Cerah,16752,0.75,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1276,21/06/2025,Makassar,Overload,Badai,2257,0.42,Aktifkan jalur logistik alternatif
+ISS1277,16/07/2025,Bitung,Force Majeure,Angin Kencang,4310,0.69,Alihkan kontainer ke terminal lain
+ISS1278,29/06/2025,Bitung,Cuaca Buruk,Badai,9413,0.59,Alihkan kontainer ke terminal lain
+ISS1279,07/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,13159,0.77,Tunda pengiriman hingga cuaca membaik
+ISS1280,22/06/2025,Tanjung Perak,Force Majeure,Cerah,10768,0.52,Tunda pengiriman hingga cuaca membaik
+ISS1281,21/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,16317,0.36,Koordinasi dengan otoritas pelabuhan
+ISS1282,19/06/2025,Belawan,Force Majeure,Angin Kencang,14810,0.19,Tambahkan armada ke pelabuhan
+ISS1283,02/06/2025,Makassar,Overload,Badai,5512,0.42,Aktifkan jalur logistik alternatif
+ISS1284,07/07/2025,Tanjung Priok,Overload,Badai,5621,0.51,Percepat proses bongkar saat cuaca memungkinkan
+ISS1285,02/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,9739,0.81,Tambahkan armada ke pelabuhan
+ISS1286,05/07/2025,Belawan,Force Majeure,Kabut Tebal,11970,0.94,Aktifkan jalur logistik alternatif
+ISS1287,28/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,16336,0.79,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1288,28/07/2025,Belawan,Cuaca Buruk,Badai,16531,0.66,Koordinasi dengan otoritas pelabuhan
+ISS1289,16/06/2025,Makassar,Overload,Badai,19852,0.14,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1290,23/07/2025,Bitung,Overload,Angin Kencang,9148,0.5,Alihkan ke pelabuhan terdekat
+ISS1291,16/06/2025,Belawan,Overload,Badai,16896,0.7,Koordinasi dengan otoritas pelabuhan
+ISS1292,11/07/2025,Belawan,Force Majeure,Cerah,13989,0.37,Tambahkan armada ke pelabuhan
+ISS1293,24/07/2025,Tanjung Priok,Overload,Badai,3852,0.93,Alihkan ke pelabuhan terdekat
+ISS1294,02/06/2025,Makassar,Force Majeure,Angin Kencang,9281,0.41,Tambahkan armada ke pelabuhan
+ISS1295,03/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,6853,0.4,Percepat proses bongkar saat cuaca memungkinkan
+ISS1296,25/06/2025,Tanjung Perak,Overload,Cerah,17781,0.87,Koordinasi dengan otoritas pelabuhan
+ISS1297,01/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,17985,0.14,Koordinasi dengan otoritas pelabuhan
+ISS1298,10/06/2025,Makassar,Cuaca Buruk,Cerah,7714,0.62,Alihkan ke pelabuhan terdekat
+ISS1299,08/07/2025,Tanjung Perak,Force Majeure,Cerah,7325,0.18,Tambahkan armada ke pelabuhan
+ISS1300,20/07/2025,Bitung,Overload,Kabut Tebal,3872,0.16,Alihkan ke pelabuhan terdekat
+ISS1301,26/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,10550,0.71,Tambahkan armada ke pelabuhan
+ISS1302,22/07/2025,Belawan,Overload,Angin Kencang,7689,0.41,Tambahkan armada ke pelabuhan
+ISS1303,21/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,15859,0.48,Koordinasi dengan otoritas pelabuhan
+ISS1304,27/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,17685,0.16,Koordinasi dengan otoritas pelabuhan
+ISS1305,02/07/2025,Bitung,Cuaca Buruk,Hujan Deras,9751,0.61,Alokasikan ke terminal cadangan
+ISS1306,04/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,9172,0.36,Koordinasi dengan otoritas pelabuhan
+ISS1307,18/07/2025,Belawan,Overload,Badai,9194,0.48,Tunda pengiriman hingga cuaca membaik
+ISS1308,12/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,2786,0.46,Koordinasi dengan otoritas pelabuhan
+ISS1309,18/06/2025,Belawan,Overload,Hujan Deras,14778,0.14,Tambahkan armada ke pelabuhan
+ISS1310,27/07/2025,Tanjung Perak,Overload,Angin Kencang,8926,0.83,Percepat proses bongkar saat cuaca memungkinkan
+ISS1311,19/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,4782,0.34,Tambahkan armada ke pelabuhan
+ISS1312,29/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,18101,0.74,Alokasikan ke terminal cadangan
+ISS1313,24/06/2025,Bitung,Force Majeure,Cerah,18276,0.4,Tambahkan armada ke pelabuhan
+ISS1314,16/06/2025,Tanjung Perak,Overload,Cerah,5634,0.44,Alokasikan ke terminal cadangan
+ISS1315,12/07/2025,Makassar,Cuaca Buruk,Cerah,6540,0.68,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1316,29/07/2025,Belawan,Cuaca Buruk,Hujan Deras,17712,0.13,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1317,25/06/2025,Tanjung Priok,Cuaca Buruk,Badai,8659,0.47,Alihkan kontainer ke terminal lain
+ISS1318,19/06/2025,Tanjung Priok,Overload,Badai,11472,0.9,Koordinasi dengan otoritas pelabuhan
+ISS1319,09/07/2025,Belawan,Overload,Kabut Tebal,19107,0.86,Alokasikan ke terminal cadangan
+ISS1320,14/07/2025,Makassar,Overload,Badai,18150,0.29,Alihkan ke pelabuhan terdekat
+ISS1321,22/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,7750,0.8,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1322,25/06/2025,Makassar,Force Majeure,Angin Kencang,16469,0.62,Tunda pengiriman hingga cuaca membaik
+ISS1323,28/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,19734,0.63,Percepat proses bongkar saat cuaca memungkinkan
+ISS1324,24/06/2025,Tanjung Perak,Overload,Angin Kencang,19924,0.59,Tambahkan armada ke pelabuhan
+ISS1325,04/06/2025,Bitung,Force Majeure,Kabut Tebal,7749,0.76,Alokasikan ke terminal cadangan
+ISS1326,19/07/2025,Bitung,Force Majeure,Angin Kencang,14606,0.22,Alokasikan ke terminal cadangan
+ISS1327,26/06/2025,Makassar,Force Majeure,Angin Kencang,6192,0.34,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1328,27/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,8312,0.17,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1329,30/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,9817,0.47,Aktifkan jalur logistik alternatif
+ISS1330,06/06/2025,Belawan,Overload,Angin Kencang,14332,0.46,Aktifkan jalur logistik alternatif
+ISS1331,27/06/2025,Belawan,Cuaca Buruk,Angin Kencang,12897,0.36,Alihkan kontainer ke terminal lain
+ISS1332,17/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,3725,0.42,Tambahkan armada ke pelabuhan
+ISS1333,22/07/2025,Tanjung Priok,Force Majeure,Cerah,19658,0.9,Tunda pengiriman hingga cuaca membaik
+ISS1334,28/07/2025,Belawan,Force Majeure,Badai,19327,0.5,Percepat proses bongkar saat cuaca memungkinkan
+ISS1335,10/06/2025,Bitung,Cuaca Buruk,Badai,13798,0.9,Aktifkan jalur logistik alternatif
+ISS1336,20/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,15839,0.28,Koordinasi dengan otoritas pelabuhan
+ISS1337,04/06/2025,Makassar,Overload,Kabut Tebal,16604,0.94,Alihkan kontainer ke terminal lain
+ISS1338,28/06/2025,Belawan,Cuaca Buruk,Cerah,8581,0.56,Alihkan ke pelabuhan terdekat
+ISS1339,29/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,15447,0.6,Alihkan ke pelabuhan terdekat
+ISS1340,23/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,2737,0.5,Alokasikan ke terminal cadangan
+ISS1341,02/07/2025,Belawan,Cuaca Buruk,Hujan Deras,14713,0.29,Aktifkan jalur logistik alternatif
+ISS1342,11/06/2025,Belawan,Cuaca Buruk,Angin Kencang,12251,0.79,Alihkan ke pelabuhan terdekat
+ISS1343,27/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,19344,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1344,14/07/2025,Bitung,Cuaca Buruk,Angin Kencang,6549,0.39,Tunda pengiriman hingga cuaca membaik
+ISS1345,20/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,6855,0.38,Tambahkan armada ke pelabuhan
+ISS1346,07/07/2025,Tanjung Perak,Force Majeure,Cerah,16987,0.43,Tunda pengiriman hingga cuaca membaik
+ISS1347,03/06/2025,Makassar,Force Majeure,Angin Kencang,9078,0.57,Aktifkan jalur logistik alternatif
+ISS1348,28/07/2025,Bitung,Force Majeure,Angin Kencang,11822,0.89,Tunda pengiriman hingga cuaca membaik
+ISS1349,09/06/2025,Bitung,Force Majeure,Hujan Deras,19755,0.75,Alihkan kontainer ke terminal lain
+ISS1350,01/07/2025,Makassar,Cuaca Buruk,Cerah,17757,0.36,Alihkan ke pelabuhan terdekat
+ISS1351,06/07/2025,Tanjung Priok,Force Majeure,Badai,19577,0.47,Alokasikan ke terminal cadangan
+ISS1352,04/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,3626,0.67,Alokasikan ke terminal cadangan
+ISS1353,22/07/2025,Tanjung Perak,Force Majeure,Badai,16357,0.52,Koordinasi dengan otoritas pelabuhan
+ISS1354,11/07/2025,Makassar,Cuaca Buruk,Cerah,17121,0.72,Koordinasi dengan otoritas pelabuhan
+ISS1355,03/07/2025,Bitung,Cuaca Buruk,Angin Kencang,17530,0.21,Alokasikan ke terminal cadangan
+ISS1356,27/06/2025,Tanjung Priok,Overload,Cerah,4989,0.61,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1357,20/06/2025,Tanjung Perak,Force Majeure,Cerah,14207,0.11,Alihkan ke pelabuhan terdekat
+ISS1358,19/07/2025,Makassar,Overload,Hujan Deras,4253,0.47,Alihkan kontainer ke terminal lain
+ISS1359,06/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,5823,0.9,Aktifkan jalur logistik alternatif
+ISS1360,08/07/2025,Bitung,Force Majeure,Angin Kencang,17477,0.45,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1361,10/06/2025,Makassar,Force Majeure,Hujan Deras,11261,0.79,Koordinasi dengan otoritas pelabuhan
+ISS1362,20/06/2025,Tanjung Priok,Cuaca Buruk,Badai,14500,0.45,Koordinasi dengan otoritas pelabuhan
+ISS1363,30/06/2025,Tanjung Perak,Overload,Angin Kencang,18925,0.4,Alihkan kontainer ke terminal lain
+ISS1364,02/06/2025,Bitung,Force Majeure,Kabut Tebal,6616,0.84,Percepat proses bongkar saat cuaca memungkinkan
+ISS1365,04/07/2025,Makassar,Overload,Angin Kencang,11297,0.28,Alihkan kontainer ke terminal lain
+ISS1366,06/07/2025,Belawan,Overload,Hujan Deras,13566,0.61,Tunda pengiriman hingga cuaca membaik
+ISS1367,05/07/2025,Tanjung Perak,Force Majeure,Badai,5914,0.87,Percepat proses bongkar saat cuaca memungkinkan
+ISS1368,12/06/2025,Bitung,Force Majeure,Angin Kencang,12821,0.57,Alokasikan ke terminal cadangan
+ISS1369,06/07/2025,Bitung,Overload,Hujan Deras,17845,0.47,Alihkan kontainer ke terminal lain
+ISS1370,23/06/2025,Tanjung Perak,Force Majeure,Cerah,14887,0.53,Percepat proses bongkar saat cuaca memungkinkan
+ISS1371,15/07/2025,Tanjung Perak,Force Majeure,Badai,9381,0.25,Tunda pengiriman hingga cuaca membaik
+ISS1372,17/07/2025,Makassar,Cuaca Buruk,Angin Kencang,3685,0.17,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1373,25/06/2025,Makassar,Overload,Cerah,15394,0.64,Koordinasi dengan otoritas pelabuhan
+ISS1374,04/06/2025,Tanjung Priok,Overload,Kabut Tebal,18340,0.37,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1375,26/07/2025,Bitung,Cuaca Buruk,Angin Kencang,12879,0.21,Percepat proses bongkar saat cuaca memungkinkan
+ISS1376,18/07/2025,Bitung,Force Majeure,Angin Kencang,12607,0.67,Tambahkan armada ke pelabuhan
+ISS1377,24/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,3095,0.44,Percepat proses bongkar saat cuaca memungkinkan
+ISS1378,16/06/2025,Tanjung Priok,Force Majeure,Cerah,19111,0.54,Alokasikan ke terminal cadangan
+ISS1379,22/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,12601,0.37,Tunda pengiriman hingga cuaca membaik
+ISS1380,30/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,3688,0.34,Alihkan kontainer ke terminal lain
+ISS1381,06/07/2025,Tanjung Priok,Force Majeure,Cerah,12388,0.17,Koordinasi dengan otoritas pelabuhan
+ISS1382,12/06/2025,Tanjung Priok,Overload,Cerah,4570,0.65,Alokasikan ke terminal cadangan
+ISS1383,05/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,6695,0.6,Aktifkan jalur logistik alternatif
+ISS1384,17/06/2025,Belawan,Cuaca Buruk,Badai,6967,0.53,Percepat proses bongkar saat cuaca memungkinkan
+ISS1385,02/06/2025,Bitung,Force Majeure,Kabut Tebal,3368,0.15,Alokasikan ke terminal cadangan
+ISS1386,07/07/2025,Belawan,Cuaca Buruk,Badai,10340,0.73,Koordinasi dengan otoritas pelabuhan
+ISS1387,04/06/2025,Tanjung Priok,Force Majeure,Badai,8982,0.82,Tunda pengiriman hingga cuaca membaik
+ISS1388,09/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,8220,0.59,Alokasikan ke terminal cadangan
+ISS1389,05/06/2025,Bitung,Overload,Angin Kencang,5922,0.32,Percepat proses bongkar saat cuaca memungkinkan
+ISS1390,01/07/2025,Makassar,Overload,Hujan Deras,18344,0.49,Percepat proses bongkar saat cuaca memungkinkan
+ISS1391,28/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,8867,0.15,Tunda pengiriman hingga cuaca membaik
+ISS1392,01/06/2025,Belawan,Cuaca Buruk,Hujan Deras,5554,0.9,Alihkan ke pelabuhan terdekat
+ISS1393,04/07/2025,Tanjung Priok,Force Majeure,Badai,3769,0.6,Alihkan ke pelabuhan terdekat
+ISS1394,15/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,7248,0.1,Aktifkan jalur logistik alternatif
+ISS1395,07/07/2025,Bitung,Overload,Hujan Deras,4285,0.4,Tambahkan armada ke pelabuhan
+ISS1396,03/06/2025,Belawan,Overload,Badai,2994,0.7,Alihkan kontainer ke terminal lain
+ISS1397,06/07/2025,Tanjung Perak,Overload,Angin Kencang,10598,0.71,Koordinasi dengan otoritas pelabuhan
+ISS1398,10/07/2025,Tanjung Priok,Overload,Badai,15189,0.28,Tambahkan armada ke pelabuhan
+ISS1399,29/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,15681,0.82,Aktifkan jalur logistik alternatif
+ISS1400,16/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,16991,0.27,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1401,01/06/2025,Bitung,Overload,Angin Kencang,2232,0.16,Percepat proses bongkar saat cuaca memungkinkan
+ISS1402,08/07/2025,Makassar,Force Majeure,Kabut Tebal,9509,0.42,Alihkan kontainer ke terminal lain
+ISS1403,04/06/2025,Makassar,Cuaca Buruk,Angin Kencang,8318,0.23,Alihkan kontainer ke terminal lain
+ISS1404,03/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,14768,0.43,Alihkan ke pelabuhan terdekat
+ISS1405,03/07/2025,Bitung,Overload,Cerah,11190,0.19,Percepat proses bongkar saat cuaca memungkinkan
+ISS1406,08/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,13015,0.24,Alihkan kontainer ke terminal lain
+ISS1407,14/07/2025,Tanjung Priok,Overload,Kabut Tebal,18529,0.79,Aktifkan jalur logistik alternatif
+ISS1408,04/07/2025,Tanjung Perak,Cuaca Buruk,Badai,17219,0.95,Koordinasi dengan otoritas pelabuhan
+ISS1409,15/07/2025,Bitung,Cuaca Buruk,Cerah,7550,0.54,Alokasikan ke terminal cadangan
+ISS1410,14/06/2025,Belawan,Force Majeure,Cerah,4074,0.21,Tunda pengiriman hingga cuaca membaik
+ISS1411,14/06/2025,Makassar,Overload,Cerah,15076,0.4,Percepat proses bongkar saat cuaca memungkinkan
+ISS1412,19/06/2025,Tanjung Perak,Cuaca Buruk,Badai,3110,0.34,Alokasikan ke terminal cadangan
+ISS1413,10/06/2025,Belawan,Force Majeure,Angin Kencang,12668,0.2,Tunda pengiriman hingga cuaca membaik
+ISS1414,04/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,5380,0.64,Koordinasi dengan otoritas pelabuhan
+ISS1415,12/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,18819,0.13,Aktifkan jalur logistik alternatif
+ISS1416,18/07/2025,Tanjung Priok,Overload,Angin Kencang,13111,0.31,Aktifkan jalur logistik alternatif
+ISS1417,02/07/2025,Tanjung Perak,Force Majeure,Badai,12782,0.47,Aktifkan jalur logistik alternatif
+ISS1418,22/06/2025,Bitung,Overload,Kabut Tebal,19330,0.45,Koordinasi dengan otoritas pelabuhan
+ISS1419,12/07/2025,Tanjung Priok,Overload,Badai,10140,0.58,Tambahkan armada ke pelabuhan
+ISS1420,22/07/2025,Makassar,Force Majeure,Hujan Deras,5162,0.43,Aktifkan jalur logistik alternatif
+ISS1421,27/06/2025,Tanjung Perak,Overload,Angin Kencang,17373,0.51,Tunda pengiriman hingga cuaca membaik
+ISS1422,08/07/2025,Tanjung Priok,Force Majeure,Badai,12487,0.85,Alihkan kontainer ke terminal lain
+ISS1423,06/07/2025,Bitung,Force Majeure,Hujan Deras,9012,0.74,Alihkan ke pelabuhan terdekat
+ISS1424,01/07/2025,Tanjung Perak,Overload,Badai,16633,0.89,Alihkan kontainer ke terminal lain
+ISS1425,10/07/2025,Tanjung Priok,Overload,Hujan Deras,10443,0.6,Aktifkan jalur logistik alternatif
+ISS1426,26/07/2025,Belawan,Overload,Kabut Tebal,9878,0.34,Alokasikan ke terminal cadangan
+ISS1427,18/06/2025,Makassar,Overload,Angin Kencang,8093,0.66,Percepat proses bongkar saat cuaca memungkinkan
+ISS1428,22/06/2025,Bitung,Cuaca Buruk,Hujan Deras,12170,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1429,15/07/2025,Belawan,Cuaca Buruk,Hujan Deras,6530,0.57,Tambahkan armada ke pelabuhan
+ISS1430,02/06/2025,Bitung,Cuaca Buruk,Badai,12569,0.86,Alihkan ke pelabuhan terdekat
+ISS1431,22/06/2025,Tanjung Perak,Overload,Kabut Tebal,2718,0.45,Alokasikan ke terminal cadangan
+ISS1432,21/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,19227,0.74,Percepat proses bongkar saat cuaca memungkinkan
+ISS1433,30/06/2025,Makassar,Force Majeure,Kabut Tebal,8936,0.41,Alihkan kontainer ke terminal lain
+ISS1434,06/07/2025,Tanjung Perak,Force Majeure,Cerah,17084,0.21,Alokasikan ke terminal cadangan
+ISS1435,07/06/2025,Tanjung Perak,Cuaca Buruk,Badai,11297,0.4,Alihkan ke pelabuhan terdekat
+ISS1436,17/06/2025,Bitung,Force Majeure,Kabut Tebal,17089,0.82,Alihkan kontainer ke terminal lain
+ISS1437,18/07/2025,Makassar,Cuaca Buruk,Angin Kencang,5980,0.78,Koordinasi dengan otoritas pelabuhan
+ISS1438,04/06/2025,Belawan,Force Majeure,Angin Kencang,15677,0.66,Alokasikan ke terminal cadangan
+ISS1439,09/07/2025,Tanjung Perak,Force Majeure,Cerah,7332,0.68,Koordinasi dengan otoritas pelabuhan
+ISS1440,29/06/2025,Belawan,Overload,Kabut Tebal,4072,0.59,Tambahkan armada ke pelabuhan
+ISS1441,17/06/2025,Tanjung Priok,Overload,Hujan Deras,18292,0.65,Aktifkan jalur logistik alternatif
+ISS1442,21/06/2025,Bitung,Cuaca Buruk,Badai,6321,0.33,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1443,28/06/2025,Belawan,Cuaca Buruk,Hujan Deras,18311,0.44,Percepat proses bongkar saat cuaca memungkinkan
+ISS1444,26/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,4579,0.26,Alihkan kontainer ke terminal lain
+ISS1445,26/06/2025,Makassar,Force Majeure,Hujan Deras,19556,0.63,Tunda pengiriman hingga cuaca membaik
+ISS1446,24/07/2025,Makassar,Force Majeure,Angin Kencang,4866,0.92,Percepat proses bongkar saat cuaca memungkinkan
+ISS1447,09/06/2025,Tanjung Perak,Overload,Angin Kencang,12780,0.77,Alihkan kontainer ke terminal lain
+ISS1448,21/07/2025,Bitung,Force Majeure,Hujan Deras,17675,0.32,Alihkan ke pelabuhan terdekat
+ISS1449,30/07/2025,Tanjung Perak,Overload,Kabut Tebal,19289,0.87,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1450,25/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,15952,0.34,Tambahkan armada ke pelabuhan
+ISS1451,12/07/2025,Belawan,Overload,Badai,4686,0.49,Aktifkan jalur logistik alternatif
+ISS1452,08/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,18598,0.51,Alihkan kontainer ke terminal lain
+ISS1453,17/07/2025,Makassar,Cuaca Buruk,Hujan Deras,18376,0.35,Percepat proses bongkar saat cuaca memungkinkan
+ISS1454,17/06/2025,Belawan,Overload,Badai,9928,0.68,Tunda pengiriman hingga cuaca membaik
+ISS1455,12/06/2025,Tanjung Perak,Force Majeure,Badai,19230,0.19,Alihkan kontainer ke terminal lain
+ISS1456,29/07/2025,Makassar,Force Majeure,Badai,14866,0.55,Alihkan ke pelabuhan terdekat
+ISS1457,28/07/2025,Belawan,Force Majeure,Kabut Tebal,12809,0.42,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1458,19/07/2025,Bitung,Force Majeure,Kabut Tebal,7536,0.34,Alihkan kontainer ke terminal lain
+ISS1459,05/06/2025,Belawan,Force Majeure,Angin Kencang,15364,0.62,Tambahkan armada ke pelabuhan
+ISS1460,23/07/2025,Bitung,Cuaca Buruk,Angin Kencang,2187,0.32,Alihkan kontainer ke terminal lain
+ISS1461,19/06/2025,Tanjung Perak,Overload,Hujan Deras,6690,0.86,Alihkan kontainer ke terminal lain
+ISS1462,26/07/2025,Bitung,Cuaca Buruk,Hujan Deras,18384,0.91,Tambahkan armada ke pelabuhan
+ISS1463,24/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,8223,0.59,Percepat proses bongkar saat cuaca memungkinkan
+ISS1464,08/06/2025,Tanjung Perak,Force Majeure,Cerah,8438,0.27,Alihkan kontainer ke terminal lain
+ISS1465,16/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,11255,0.23,Aktifkan jalur logistik alternatif
+ISS1466,14/07/2025,Belawan,Force Majeure,Hujan Deras,2489,0.58,Aktifkan jalur logistik alternatif
+ISS1467,30/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,5555,0.93,Alihkan kontainer ke terminal lain
+ISS1468,25/07/2025,Makassar,Overload,Kabut Tebal,3651,0.59,Alokasikan ke terminal cadangan
+ISS1469,27/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,7060,0.2,Tunda pengiriman hingga cuaca membaik
+ISS1470,28/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,4008,0.64,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1471,15/06/2025,Belawan,Force Majeure,Kabut Tebal,6779,0.31,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1472,20/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,8414,0.87,Percepat proses bongkar saat cuaca memungkinkan
+ISS1473,07/06/2025,Tanjung Priok,Overload,Kabut Tebal,14541,0.6,Aktifkan jalur logistik alternatif
+ISS1474,13/06/2025,Bitung,Cuaca Buruk,Angin Kencang,8135,0.2,Alokasikan ke terminal cadangan
+ISS1475,18/06/2025,Tanjung Perak,Overload,Angin Kencang,13195,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS1476,01/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,15158,0.47,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1477,28/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,18326,0.33,Alihkan kontainer ke terminal lain
+ISS1478,19/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,2418,0.5,Tunda pengiriman hingga cuaca membaik
+ISS1479,09/06/2025,Makassar,Force Majeure,Badai,16047,0.81,Tambahkan armada ke pelabuhan
+ISS1480,07/07/2025,Tanjung Priok,Overload,Hujan Deras,17772,0.65,Tambahkan armada ke pelabuhan
+ISS1481,04/07/2025,Makassar,Force Majeure,Cerah,4201,0.65,Percepat proses bongkar saat cuaca memungkinkan
+ISS1482,26/07/2025,Tanjung Priok,Overload,Angin Kencang,12432,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS1483,01/06/2025,Bitung,Force Majeure,Kabut Tebal,13363,0.51,Alihkan kontainer ke terminal lain
+ISS1484,20/06/2025,Makassar,Force Majeure,Cerah,5526,0.19,Percepat proses bongkar saat cuaca memungkinkan
+ISS1485,16/06/2025,Bitung,Cuaca Buruk,Badai,19380,0.12,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1486,05/06/2025,Belawan,Overload,Angin Kencang,14195,0.61,Tunda pengiriman hingga cuaca membaik
+ISS1487,26/07/2025,Bitung,Overload,Kabut Tebal,8958,0.31,Percepat proses bongkar saat cuaca memungkinkan
+ISS1488,19/07/2025,Tanjung Perak,Overload,Hujan Deras,6350,0.47,Koordinasi dengan otoritas pelabuhan
+ISS1489,29/07/2025,Makassar,Overload,Badai,7254,0.77,Alihkan ke pelabuhan terdekat
+ISS1490,04/06/2025,Makassar,Cuaca Buruk,Hujan Deras,4758,0.18,Percepat proses bongkar saat cuaca memungkinkan
+ISS1491,07/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,12279,0.75,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1492,23/06/2025,Makassar,Overload,Angin Kencang,7542,0.6,Tunda pengiriman hingga cuaca membaik
+ISS1493,25/06/2025,Makassar,Force Majeure,Angin Kencang,18559,0.89,Tambahkan armada ke pelabuhan
+ISS1494,17/07/2025,Makassar,Cuaca Buruk,Badai,18997,0.68,Alihkan kontainer ke terminal lain
+ISS1495,24/07/2025,Bitung,Overload,Hujan Deras,3636,0.43,Koordinasi dengan otoritas pelabuhan
+ISS1496,25/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,3758,0.71,Tunda pengiriman hingga cuaca membaik
+ISS1497,15/07/2025,Tanjung Priok,Force Majeure,Badai,2626,0.66,Aktifkan jalur logistik alternatif
+ISS1498,06/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,8583,0.19,Koordinasi dengan otoritas pelabuhan
+ISS1499,22/06/2025,Tanjung Perak,Overload,Cerah,16980,0.36,Koordinasi dengan otoritas pelabuhan
+ISS1500,25/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3354,0.29,Alihkan kontainer ke terminal lain
+ISS1501,17/06/2025,Bitung,Cuaca Buruk,Angin Kencang,13651,0.41,Alihkan ke pelabuhan terdekat
+ISS1502,09/07/2025,Bitung,Overload,Kabut Tebal,9779,0.51,Alihkan kontainer ke terminal lain
+ISS1503,21/07/2025,Bitung,Cuaca Buruk,Hujan Deras,7436,0.19,Koordinasi dengan otoritas pelabuhan
+ISS1504,09/06/2025,Tanjung Perak,Overload,Angin Kencang,14732,0.7,Percepat proses bongkar saat cuaca memungkinkan
+ISS1505,27/06/2025,Belawan,Cuaca Buruk,Hujan Deras,11655,0.62,Koordinasi dengan otoritas pelabuhan
+ISS1506,05/07/2025,Makassar,Force Majeure,Hujan Deras,19701,0.54,Percepat proses bongkar saat cuaca memungkinkan
+ISS1507,12/06/2025,Bitung,Overload,Angin Kencang,13003,0.64,Tambahkan armada ke pelabuhan
+ISS1508,25/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,3384,0.18,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1509,12/06/2025,Makassar,Force Majeure,Kabut Tebal,16391,0.66,Tambahkan armada ke pelabuhan
+ISS1510,22/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,11004,0.62,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1511,18/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,3962,0.88,Alihkan kontainer ke terminal lain
+ISS1512,13/06/2025,Tanjung Priok,Overload,Hujan Deras,12002,0.5,Koordinasi dengan otoritas pelabuhan
+ISS1513,11/06/2025,Tanjung Priok,Force Majeure,Cerah,18500,0.14,Tunda pengiriman hingga cuaca membaik
+ISS1514,18/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,13110,0.68,Alokasikan ke terminal cadangan
+ISS1515,06/06/2025,Tanjung Priok,Overload,Hujan Deras,16398,0.68,Alokasikan ke terminal cadangan
+ISS1516,18/07/2025,Bitung,Cuaca Buruk,Cerah,3626,0.4,Aktifkan jalur logistik alternatif
+ISS1517,14/07/2025,Makassar,Cuaca Buruk,Cerah,11786,0.62,Percepat proses bongkar saat cuaca memungkinkan
+ISS1518,05/07/2025,Tanjung Priok,Overload,Cerah,9471,0.4,Percepat proses bongkar saat cuaca memungkinkan
+ISS1519,03/07/2025,Belawan,Force Majeure,Hujan Deras,7223,0.71,Percepat proses bongkar saat cuaca memungkinkan
+ISS1520,17/07/2025,Belawan,Cuaca Buruk,Angin Kencang,4729,0.2,Percepat proses bongkar saat cuaca memungkinkan
+ISS1521,07/07/2025,Makassar,Overload,Badai,15830,0.33,Percepat proses bongkar saat cuaca memungkinkan
+ISS1522,20/07/2025,Bitung,Overload,Kabut Tebal,17932,0.34,Tambahkan armada ke pelabuhan
+ISS1523,04/06/2025,Tanjung Perak,Cuaca Buruk,Badai,10357,0.24,Aktifkan jalur logistik alternatif
+ISS1524,17/06/2025,Bitung,Force Majeure,Kabut Tebal,15155,0.61,Alihkan ke pelabuhan terdekat
+ISS1525,28/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,5071,0.84,Alokasikan ke terminal cadangan
+ISS1526,07/07/2025,Makassar,Overload,Angin Kencang,19944,0.27,Alokasikan ke terminal cadangan
+ISS1527,25/07/2025,Makassar,Force Majeure,Badai,6006,0.93,Koordinasi dengan otoritas pelabuhan
+ISS1528,29/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,3459,0.91,Tunda pengiriman hingga cuaca membaik
+ISS1529,28/07/2025,Makassar,Force Majeure,Angin Kencang,17549,0.42,Koordinasi dengan otoritas pelabuhan
+ISS1530,16/06/2025,Tanjung Priok,Force Majeure,Badai,6267,0.86,Koordinasi dengan otoritas pelabuhan
+ISS1531,03/07/2025,Bitung,Overload,Angin Kencang,19550,0.57,Tunda pengiriman hingga cuaca membaik
+ISS1532,05/06/2025,Bitung,Cuaca Buruk,Badai,7112,0.32,Percepat proses bongkar saat cuaca memungkinkan
+ISS1533,18/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,3866,0.16,Alihkan kontainer ke terminal lain
+ISS1534,09/07/2025,Bitung,Overload,Hujan Deras,13185,0.27,Alokasikan ke terminal cadangan
+ISS1535,11/07/2025,Tanjung Priok,Overload,Cerah,14811,0.52,Tambahkan armada ke pelabuhan
+ISS1536,02/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,6923,0.47,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1537,22/06/2025,Belawan,Force Majeure,Badai,18143,0.17,Aktifkan jalur logistik alternatif
+ISS1538,09/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,7022,0.3,Percepat proses bongkar saat cuaca memungkinkan
+ISS1539,14/07/2025,Bitung,Force Majeure,Badai,9203,0.69,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1540,15/07/2025,Bitung,Force Majeure,Angin Kencang,18741,0.74,Aktifkan jalur logistik alternatif
+ISS1541,28/06/2025,Bitung,Cuaca Buruk,Hujan Deras,3464,0.87,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1542,21/07/2025,Belawan,Cuaca Buruk,Cerah,10853,0.32,Koordinasi dengan otoritas pelabuhan
+ISS1543,05/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,10513,0.63,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1544,03/07/2025,Tanjung Priok,Cuaca Buruk,Badai,10962,0.1,Tambahkan armada ke pelabuhan
+ISS1545,13/06/2025,Makassar,Cuaca Buruk,Hujan Deras,3120,0.84,Percepat proses bongkar saat cuaca memungkinkan
+ISS1546,08/07/2025,Bitung,Overload,Kabut Tebal,5882,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS1547,01/06/2025,Tanjung Perak,Overload,Kabut Tebal,10753,0.74,Koordinasi dengan otoritas pelabuhan
+ISS1548,12/06/2025,Tanjung Perak,Overload,Kabut Tebal,15220,0.65,Tambahkan armada ke pelabuhan
+ISS1549,29/07/2025,Bitung,Force Majeure,Hujan Deras,16126,0.71,Aktifkan jalur logistik alternatif
+ISS1550,12/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,8639,0.88,Percepat proses bongkar saat cuaca memungkinkan
+ISS1551,09/06/2025,Belawan,Force Majeure,Cerah,8110,0.58,Percepat proses bongkar saat cuaca memungkinkan
+ISS1552,15/06/2025,Makassar,Force Majeure,Kabut Tebal,15527,0.13,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1553,11/06/2025,Tanjung Priok,Cuaca Buruk,Badai,16238,0.38,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1554,15/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,13582,0.65,Alihkan ke pelabuhan terdekat
+ISS1555,17/06/2025,Belawan,Force Majeure,Angin Kencang,7559,0.48,Koordinasi dengan otoritas pelabuhan
+ISS1556,17/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,7026,0.85,Alihkan ke pelabuhan terdekat
+ISS1557,20/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,7947,0.4,Alihkan ke pelabuhan terdekat
+ISS1558,08/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,17141,0.78,Koordinasi dengan otoritas pelabuhan
+ISS1559,22/07/2025,Bitung,Cuaca Buruk,Angin Kencang,13611,0.89,Alihkan kontainer ke terminal lain
+ISS1560,09/07/2025,Tanjung Perak,Overload,Badai,3885,0.3,Alokasikan ke terminal cadangan
+ISS1561,10/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,14112,0.62,Alihkan ke pelabuhan terdekat
+ISS1562,03/06/2025,Tanjung Priok,Overload,Angin Kencang,17429,0.12,Aktifkan jalur logistik alternatif
+ISS1563,16/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,13206,0.49,Tambahkan armada ke pelabuhan
+ISS1564,23/07/2025,Tanjung Perak,Overload,Cerah,3031,0.69,Koordinasi dengan otoritas pelabuhan
+ISS1565,29/06/2025,Tanjung Perak,Overload,Cerah,5181,0.12,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1566,13/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,7417,0.7,Koordinasi dengan otoritas pelabuhan
+ISS1567,05/06/2025,Tanjung Priok,Force Majeure,Badai,15882,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS1568,26/06/2025,Bitung,Force Majeure,Cerah,16091,0.14,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1569,17/06/2025,Bitung,Cuaca Buruk,Hujan Deras,4922,0.42,Tambahkan armada ke pelabuhan
+ISS1570,26/07/2025,Tanjung Perak,Overload,Hujan Deras,11803,0.71,Tunda pengiriman hingga cuaca membaik
+ISS1571,05/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,10397,0.16,Tunda pengiriman hingga cuaca membaik
+ISS1572,10/07/2025,Bitung,Overload,Kabut Tebal,7352,0.64,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1573,10/07/2025,Bitung,Force Majeure,Kabut Tebal,10081,0.25,Aktifkan jalur logistik alternatif
+ISS1574,10/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,15723,0.57,Alokasikan ke terminal cadangan
+ISS1575,02/07/2025,Belawan,Force Majeure,Cerah,7287,0.73,Tambahkan armada ke pelabuhan
+ISS1576,26/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,3407,0.45,Percepat proses bongkar saat cuaca memungkinkan
+ISS1577,23/07/2025,Belawan,Overload,Angin Kencang,11245,0.59,Alihkan kontainer ke terminal lain
+ISS1578,30/06/2025,Makassar,Overload,Kabut Tebal,17910,0.57,Alokasikan ke terminal cadangan
+ISS1579,12/06/2025,Makassar,Cuaca Buruk,Cerah,14150,0.48,Alihkan ke pelabuhan terdekat
+ISS1580,18/06/2025,Belawan,Force Majeure,Badai,19852,0.51,Tambahkan armada ke pelabuhan
+ISS1581,15/07/2025,Tanjung Perak,Force Majeure,Kabut Tebal,7410,0.82,Tambahkan armada ke pelabuhan
+ISS1582,03/07/2025,Tanjung Perak,Overload,Cerah,4681,0.3,Aktifkan jalur logistik alternatif
+ISS1583,26/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,14639,0.34,Koordinasi dengan otoritas pelabuhan
+ISS1584,23/06/2025,Tanjung Priok,Overload,Kabut Tebal,7120,0.11,Aktifkan jalur logistik alternatif
+ISS1585,08/06/2025,Bitung,Overload,Angin Kencang,13394,0.52,Tambahkan armada ke pelabuhan
+ISS1586,13/06/2025,Tanjung Perak,Force Majeure,Badai,19622,0.95,Percepat proses bongkar saat cuaca memungkinkan
+ISS1587,30/07/2025,Belawan,Force Majeure,Cerah,17298,0.31,Tambahkan armada ke pelabuhan
+ISS1588,16/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,5554,0.23,Alihkan ke pelabuhan terdekat
+ISS1589,20/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,18202,0.36,Alihkan kontainer ke terminal lain
+ISS1590,24/06/2025,Makassar,Force Majeure,Kabut Tebal,11810,0.87,Percepat proses bongkar saat cuaca memungkinkan
+ISS1591,09/07/2025,Bitung,Cuaca Buruk,Hujan Deras,15564,0.76,Percepat proses bongkar saat cuaca memungkinkan
+ISS1592,30/06/2025,Belawan,Overload,Badai,6892,0.16,Alihkan kontainer ke terminal lain
+ISS1593,27/06/2025,Tanjung Priok,Overload,Kabut Tebal,9250,0.3,Alihkan kontainer ke terminal lain
+ISS1594,18/06/2025,Bitung,Cuaca Buruk,Cerah,19031,0.71,Alihkan kontainer ke terminal lain
+ISS1595,05/07/2025,Makassar,Overload,Kabut Tebal,9891,0.48,Percepat proses bongkar saat cuaca memungkinkan
+ISS1596,09/06/2025,Makassar,Cuaca Buruk,Cerah,19427,0.36,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1597,12/07/2025,Makassar,Force Majeure,Angin Kencang,12031,0.19,Tunda pengiriman hingga cuaca membaik
+ISS1598,22/07/2025,Bitung,Force Majeure,Cerah,4821,0.93,Aktifkan jalur logistik alternatif
+ISS1599,06/07/2025,Tanjung Priok,Force Majeure,Hujan Deras,12092,0.63,Tambahkan armada ke pelabuhan
+ISS1600,05/07/2025,Makassar,Overload,Hujan Deras,7998,0.84,Percepat proses bongkar saat cuaca memungkinkan
+ISS1601,30/07/2025,Tanjung Perak,Overload,Badai,13710,0.45,Koordinasi dengan otoritas pelabuhan
+ISS1602,29/06/2025,Bitung,Overload,Badai,4845,0.12,Tunda pengiriman hingga cuaca membaik
+ISS1603,21/07/2025,Makassar,Force Majeure,Cerah,11927,0.68,Percepat proses bongkar saat cuaca memungkinkan
+ISS1604,10/06/2025,Makassar,Force Majeure,Kabut Tebal,8149,0.38,Percepat proses bongkar saat cuaca memungkinkan
+ISS1605,23/07/2025,Tanjung Priok,Force Majeure,Cerah,16488,0.79,Alihkan kontainer ke terminal lain
+ISS1606,04/07/2025,Bitung,Overload,Cerah,19708,0.65,Aktifkan jalur logistik alternatif
+ISS1607,20/07/2025,Belawan,Force Majeure,Hujan Deras,6672,0.2,Alihkan ke pelabuhan terdekat
+ISS1608,05/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,11541,0.31,Percepat proses bongkar saat cuaca memungkinkan
+ISS1609,09/07/2025,Tanjung Priok,Overload,Hujan Deras,3795,0.28,Alihkan ke pelabuhan terdekat
+ISS1610,06/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,16235,0.51,Aktifkan jalur logistik alternatif
+ISS1611,24/07/2025,Tanjung Priok,Overload,Cerah,8699,0.67,Tunda pengiriman hingga cuaca membaik
+ISS1612,03/07/2025,Makassar,Cuaca Buruk,Hujan Deras,16871,0.43,Alihkan kontainer ke terminal lain
+ISS1613,27/07/2025,Tanjung Perak,Overload,Kabut Tebal,7851,0.78,Tunda pengiriman hingga cuaca membaik
+ISS1614,06/07/2025,Makassar,Overload,Cerah,19874,0.76,Tambahkan armada ke pelabuhan
+ISS1615,23/06/2025,Tanjung Perak,Overload,Cerah,19038,0.28,Alihkan kontainer ke terminal lain
+ISS1616,23/06/2025,Tanjung Priok,Overload,Cerah,14547,0.74,Alihkan kontainer ke terminal lain
+ISS1617,09/06/2025,Tanjung Priok,Overload,Angin Kencang,7273,0.86,Alihkan kontainer ke terminal lain
+ISS1618,07/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,18345,0.4,Percepat proses bongkar saat cuaca memungkinkan
+ISS1619,27/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,7185,0.77,Alihkan ke pelabuhan terdekat
+ISS1620,18/06/2025,Belawan,Force Majeure,Kabut Tebal,12442,0.83,Aktifkan jalur logistik alternatif
+ISS1621,29/06/2025,Bitung,Overload,Cerah,14867,0.81,Alihkan kontainer ke terminal lain
+ISS1622,19/07/2025,Bitung,Cuaca Buruk,Cerah,14403,0.89,Aktifkan jalur logistik alternatif
+ISS1623,23/06/2025,Bitung,Cuaca Buruk,Cerah,18579,0.65,Aktifkan jalur logistik alternatif
+ISS1624,30/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,9588,0.39,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1625,20/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,4591,0.84,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1626,21/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,7937,0.1,Tunda pengiriman hingga cuaca membaik
+ISS1627,29/06/2025,Belawan,Overload,Kabut Tebal,17936,0.29,Tunda pengiriman hingga cuaca membaik
+ISS1628,24/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,2798,0.44,Alihkan ke pelabuhan terdekat
+ISS1629,22/06/2025,Tanjung Priok,Overload,Hujan Deras,12948,0.79,Alokasikan ke terminal cadangan
+ISS1630,16/06/2025,Belawan,Force Majeure,Angin Kencang,14671,0.75,Alokasikan ke terminal cadangan
+ISS1631,14/07/2025,Tanjung Perak,Overload,Cerah,4426,0.28,Alokasikan ke terminal cadangan
+ISS1632,26/06/2025,Tanjung Perak,Cuaca Buruk,Badai,12342,0.95,Tambahkan armada ke pelabuhan
+ISS1633,07/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,12085,0.89,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1634,15/06/2025,Bitung,Overload,Badai,2911,0.83,Alokasikan ke terminal cadangan
+ISS1635,03/06/2025,Tanjung Priok,Overload,Hujan Deras,5542,0.63,Koordinasi dengan otoritas pelabuhan
+ISS1636,12/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,12980,0.25,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1637,25/07/2025,Belawan,Overload,Kabut Tebal,5835,0.36,Aktifkan jalur logistik alternatif
+ISS1638,19/06/2025,Belawan,Overload,Badai,8884,0.21,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1639,10/06/2025,Bitung,Cuaca Buruk,Angin Kencang,4711,0.38,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1640,07/06/2025,Tanjung Perak,Overload,Cerah,13426,0.36,Alihkan kontainer ke terminal lain
+ISS1641,12/07/2025,Tanjung Perak,Force Majeure,Cerah,15715,0.55,Percepat proses bongkar saat cuaca memungkinkan
+ISS1642,29/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,15935,0.9,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1643,02/07/2025,Tanjung Priok,Cuaca Buruk,Badai,18847,0.6,Alihkan kontainer ke terminal lain
+ISS1644,26/06/2025,Tanjung Perak,Overload,Hujan Deras,3718,0.71,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1645,10/07/2025,Tanjung Perak,Overload,Hujan Deras,12907,0.65,Tambahkan armada ke pelabuhan
+ISS1646,06/06/2025,Makassar,Force Majeure,Kabut Tebal,8285,0.6,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1647,11/07/2025,Makassar,Cuaca Buruk,Angin Kencang,10335,0.71,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1648,26/07/2025,Bitung,Force Majeure,Hujan Deras,12673,0.8,Koordinasi dengan otoritas pelabuhan
+ISS1649,04/06/2025,Tanjung Perak,Overload,Cerah,18784,0.61,Alokasikan ke terminal cadangan
+ISS1650,04/06/2025,Bitung,Cuaca Buruk,Kabut Tebal,15479,0.65,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1651,06/07/2025,Bitung,Overload,Badai,14313,0.55,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1652,05/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,19224,0.81,Aktifkan jalur logistik alternatif
+ISS1653,17/07/2025,Tanjung Perak,Force Majeure,Angin Kencang,14340,0.91,Percepat proses bongkar saat cuaca memungkinkan
+ISS1654,22/07/2025,Bitung,Force Majeure,Kabut Tebal,2876,0.7,Koordinasi dengan otoritas pelabuhan
+ISS1655,14/06/2025,Belawan,Overload,Cerah,4654,0.8,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1656,14/06/2025,Belawan,Overload,Kabut Tebal,5036,0.21,Percepat proses bongkar saat cuaca memungkinkan
+ISS1657,25/07/2025,Belawan,Force Majeure,Cerah,3355,0.35,Alokasikan ke terminal cadangan
+ISS1658,13/07/2025,Belawan,Force Majeure,Angin Kencang,14291,0.88,Tunda pengiriman hingga cuaca membaik
+ISS1659,19/07/2025,Tanjung Priok,Cuaca Buruk,Badai,14332,0.49,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1660,03/07/2025,Makassar,Overload,Angin Kencang,7790,0.87,Alihkan kontainer ke terminal lain
+ISS1661,23/07/2025,Tanjung Priok,Overload,Angin Kencang,15089,0.77,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1662,17/07/2025,Belawan,Overload,Angin Kencang,3326,0.57,Alihkan ke pelabuhan terdekat
+ISS1663,01/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,4536,0.11,Koordinasi dengan otoritas pelabuhan
+ISS1664,21/06/2025,Belawan,Force Majeure,Kabut Tebal,13154,0.81,Alihkan ke pelabuhan terdekat
+ISS1665,12/06/2025,Tanjung Priok,Overload,Badai,11490,0.46,Tambahkan armada ke pelabuhan
+ISS1666,07/06/2025,Belawan,Overload,Hujan Deras,6883,0.8,Aktifkan jalur logistik alternatif
+ISS1667,11/07/2025,Tanjung Priok,Force Majeure,Cerah,19084,0.31,Koordinasi dengan otoritas pelabuhan
+ISS1668,07/07/2025,Tanjung Priok,Overload,Kabut Tebal,19688,0.65,Alihkan ke pelabuhan terdekat
+ISS1669,18/07/2025,Belawan,Force Majeure,Cerah,2749,0.67,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1670,23/07/2025,Bitung,Overload,Kabut Tebal,14639,0.61,Koordinasi dengan otoritas pelabuhan
+ISS1671,27/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,10534,0.45,Koordinasi dengan otoritas pelabuhan
+ISS1672,04/06/2025,Bitung,Force Majeure,Kabut Tebal,12798,0.36,Tambahkan armada ke pelabuhan
+ISS1673,18/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,13616,0.42,Percepat proses bongkar saat cuaca memungkinkan
+ISS1674,17/07/2025,Makassar,Overload,Angin Kencang,3171,0.67,Alokasikan ke terminal cadangan
+ISS1675,28/06/2025,Belawan,Cuaca Buruk,Angin Kencang,18383,0.9,Tunda pengiriman hingga cuaca membaik
+ISS1676,02/07/2025,Tanjung Perak,Overload,Cerah,7564,0.41,Aktifkan jalur logistik alternatif
+ISS1677,25/06/2025,Belawan,Overload,Hujan Deras,14760,0.92,Aktifkan jalur logistik alternatif
+ISS1678,14/07/2025,Makassar,Cuaca Buruk,Hujan Deras,3634,0.43,Alihkan ke pelabuhan terdekat
+ISS1679,22/07/2025,Tanjung Perak,Cuaca Buruk,Badai,16403,0.5,Tambahkan armada ke pelabuhan
+ISS1680,16/07/2025,Makassar,Cuaca Buruk,Angin Kencang,13619,0.95,Koordinasi dengan otoritas pelabuhan
+ISS1681,07/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,5688,0.87,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1682,14/07/2025,Tanjung Perak,Overload,Cerah,15984,0.83,Koordinasi dengan otoritas pelabuhan
+ISS1683,25/07/2025,Belawan,Force Majeure,Angin Kencang,9157,0.2,Alokasikan ke terminal cadangan
+ISS1684,15/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,6050,0.63,Alihkan kontainer ke terminal lain
+ISS1685,07/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,5723,0.48,Koordinasi dengan otoritas pelabuhan
+ISS1686,03/06/2025,Tanjung Perak,Overload,Cerah,18496,0.52,Tunda pengiriman hingga cuaca membaik
+ISS1687,12/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,5632,0.43,Koordinasi dengan otoritas pelabuhan
+ISS1688,11/06/2025,Makassar,Force Majeure,Hujan Deras,8130,0.38,Tambahkan armada ke pelabuhan
+ISS1689,02/06/2025,Tanjung Priok,Force Majeure,Cerah,17044,0.2,Koordinasi dengan otoritas pelabuhan
+ISS1690,29/07/2025,Tanjung Perak,Overload,Angin Kencang,5234,0.57,Alihkan ke pelabuhan terdekat
+ISS1691,07/06/2025,Bitung,Cuaca Buruk,Angin Kencang,9835,0.56,Koordinasi dengan otoritas pelabuhan
+ISS1692,09/06/2025,Makassar,Overload,Badai,12425,0.42,Alihkan kontainer ke terminal lain
+ISS1693,01/07/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,4040,0.23,Alihkan ke pelabuhan terdekat
+ISS1694,28/06/2025,Tanjung Priok,Overload,Hujan Deras,13381,0.7,Alihkan kontainer ke terminal lain
+ISS1695,06/07/2025,Makassar,Overload,Angin Kencang,4206,0.84,Alokasikan ke terminal cadangan
+ISS1696,17/06/2025,Bitung,Force Majeure,Angin Kencang,9520,0.38,Alihkan ke pelabuhan terdekat
+ISS1697,09/06/2025,Tanjung Perak,Force Majeure,Badai,11833,0.73,Percepat proses bongkar saat cuaca memungkinkan
+ISS1698,09/06/2025,Belawan,Overload,Cerah,7043,0.13,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1699,19/06/2025,Makassar,Cuaca Buruk,Cerah,3319,0.27,Aktifkan jalur logistik alternatif
+ISS1700,20/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,12670,0.25,Tunda pengiriman hingga cuaca membaik
+ISS1701,24/06/2025,Belawan,Cuaca Buruk,Hujan Deras,18168,0.15,Tambahkan armada ke pelabuhan
+ISS1702,27/06/2025,Bitung,Cuaca Buruk,Hujan Deras,19910,0.93,Tambahkan armada ke pelabuhan
+ISS1703,04/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,12492,0.65,Koordinasi dengan otoritas pelabuhan
+ISS1704,05/06/2025,Tanjung Priok,Force Majeure,Kabut Tebal,3726,0.46,Alihkan ke pelabuhan terdekat
+ISS1705,29/07/2025,Makassar,Cuaca Buruk,Cerah,13582,0.9,Percepat proses bongkar saat cuaca memungkinkan
+ISS1706,15/06/2025,Makassar,Overload,Cerah,4567,0.49,Alihkan kontainer ke terminal lain
+ISS1707,09/06/2025,Tanjung Priok,Cuaca Buruk,Badai,17740,0.26,Alihkan kontainer ke terminal lain
+ISS1708,18/07/2025,Bitung,Force Majeure,Kabut Tebal,14617,0.18,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1709,04/07/2025,Bitung,Cuaca Buruk,Cerah,8240,0.7,Aktifkan jalur logistik alternatif
+ISS1710,29/07/2025,Bitung,Force Majeure,Badai,12834,0.93,Percepat proses bongkar saat cuaca memungkinkan
+ISS1711,01/07/2025,Bitung,Overload,Kabut Tebal,6287,0.65,Koordinasi dengan otoritas pelabuhan
+ISS1712,11/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,17559,0.66,Alihkan ke pelabuhan terdekat
+ISS1713,09/06/2025,Belawan,Cuaca Buruk,Hujan Deras,3345,0.21,Alihkan kontainer ke terminal lain
+ISS1714,27/06/2025,Tanjung Priok,Overload,Hujan Deras,19442,0.4,Tunda pengiriman hingga cuaca membaik
+ISS1715,26/07/2025,Makassar,Force Majeure,Kabut Tebal,8637,0.69,Percepat proses bongkar saat cuaca memungkinkan
+ISS1716,10/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,14492,0.64,Alihkan ke pelabuhan terdekat
+ISS1717,05/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,7959,0.92,Alihkan kontainer ke terminal lain
+ISS1718,09/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,2532,0.51,Aktifkan jalur logistik alternatif
+ISS1719,20/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,6754,0.79,Tunda pengiriman hingga cuaca membaik
+ISS1720,03/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,19717,0.89,Tunda pengiriman hingga cuaca membaik
+ISS1721,08/06/2025,Makassar,Force Majeure,Kabut Tebal,4854,0.71,Alokasikan ke terminal cadangan
+ISS1722,03/07/2025,Makassar,Overload,Angin Kencang,4050,0.29,Alokasikan ke terminal cadangan
+ISS1723,04/07/2025,Bitung,Overload,Hujan Deras,13627,0.34,Percepat proses bongkar saat cuaca memungkinkan
+ISS1724,07/07/2025,Tanjung Perak,Cuaca Buruk,Badai,4043,0.73,Tunda pengiriman hingga cuaca membaik
+ISS1725,03/07/2025,Belawan,Cuaca Buruk,Kabut Tebal,4909,0.43,Tambahkan armada ke pelabuhan
+ISS1726,23/07/2025,Makassar,Cuaca Buruk,Hujan Deras,5286,0.28,Tambahkan armada ke pelabuhan
+ISS1727,12/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,5255,0.73,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1728,28/06/2025,Tanjung Perak,Overload,Badai,11429,0.86,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1729,30/07/2025,Tanjung Perak,Overload,Badai,19906,0.49,Percepat proses bongkar saat cuaca memungkinkan
+ISS1730,19/07/2025,Makassar,Force Majeure,Badai,10237,0.45,Alihkan kontainer ke terminal lain
+ISS1731,07/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,13818,0.55,Percepat proses bongkar saat cuaca memungkinkan
+ISS1732,25/07/2025,Tanjung Perak,Overload,Badai,14907,0.57,Alihkan kontainer ke terminal lain
+ISS1733,11/07/2025,Makassar,Force Majeure,Cerah,5905,0.66,Tambahkan armada ke pelabuhan
+ISS1734,18/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,7085,0.86,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1735,01/06/2025,Tanjung Perak,Overload,Badai,7429,0.82,Alihkan ke pelabuhan terdekat
+ISS1736,22/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,11992,0.9,Alokasikan ke terminal cadangan
+ISS1737,04/07/2025,Bitung,Overload,Hujan Deras,3440,0.74,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1738,10/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,7900,0.87,Alihkan kontainer ke terminal lain
+ISS1739,05/07/2025,Belawan,Force Majeure,Cerah,12652,0.11,Percepat proses bongkar saat cuaca memungkinkan
+ISS1740,14/06/2025,Makassar,Overload,Cerah,6946,0.86,Alokasikan ke terminal cadangan
+ISS1741,14/07/2025,Belawan,Cuaca Buruk,Cerah,16673,0.76,Tambahkan armada ke pelabuhan
+ISS1742,09/07/2025,Makassar,Cuaca Buruk,Angin Kencang,5578,0.43,Alihkan ke pelabuhan terdekat
+ISS1743,11/07/2025,Belawan,Cuaca Buruk,Badai,6272,0.6,Koordinasi dengan otoritas pelabuhan
+ISS1744,16/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,11534,0.9,Alokasikan ke terminal cadangan
+ISS1745,16/07/2025,Bitung,Force Majeure,Badai,12083,0.66,Alokasikan ke terminal cadangan
+ISS1746,29/06/2025,Tanjung Priok,Overload,Badai,14994,0.72,Koordinasi dengan otoritas pelabuhan
+ISS1747,03/07/2025,Makassar,Cuaca Buruk,Kabut Tebal,14112,0.25,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1748,06/06/2025,Bitung,Force Majeure,Cerah,8584,0.72,Aktifkan jalur logistik alternatif
+ISS1749,01/06/2025,Belawan,Overload,Badai,17320,0.55,Aktifkan jalur logistik alternatif
+ISS1750,08/06/2025,Belawan,Cuaca Buruk,Cerah,18407,0.71,Alokasikan ke terminal cadangan
+ISS1751,05/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,16262,0.92,Aktifkan jalur logistik alternatif
+ISS1752,23/06/2025,Tanjung Priok,Force Majeure,Badai,11726,0.37,Koordinasi dengan otoritas pelabuhan
+ISS1753,29/06/2025,Makassar,Cuaca Buruk,Badai,11159,0.32,Tambahkan armada ke pelabuhan
+ISS1754,25/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,17372,0.63,Aktifkan jalur logistik alternatif
+ISS1755,29/07/2025,Tanjung Perak,Overload,Angin Kencang,15198,0.72,Alihkan kontainer ke terminal lain
+ISS1756,16/07/2025,Bitung,Force Majeure,Cerah,3692,0.11,Tambahkan armada ke pelabuhan
+ISS1757,26/07/2025,Makassar,Cuaca Buruk,Badai,11202,0.61,Alihkan kontainer ke terminal lain
+ISS1758,10/07/2025,Tanjung Priok,Cuaca Buruk,Badai,6575,0.77,Koordinasi dengan otoritas pelabuhan
+ISS1759,16/06/2025,Makassar,Overload,Angin Kencang,5025,0.58,Percepat proses bongkar saat cuaca memungkinkan
+ISS1760,08/07/2025,Bitung,Overload,Kabut Tebal,14989,0.5,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1761,03/07/2025,Bitung,Overload,Angin Kencang,2100,0.91,Koordinasi dengan otoritas pelabuhan
+ISS1762,05/06/2025,Belawan,Cuaca Buruk,Badai,16781,0.27,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1763,19/06/2025,Tanjung Priok,Force Majeure,Badai,9823,0.57,Percepat proses bongkar saat cuaca memungkinkan
+ISS1764,13/07/2025,Makassar,Overload,Angin Kencang,13416,0.6,Percepat proses bongkar saat cuaca memungkinkan
+ISS1765,07/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,18376,0.54,Alihkan kontainer ke terminal lain
+ISS1766,17/07/2025,Belawan,Overload,Kabut Tebal,12114,0.25,Percepat proses bongkar saat cuaca memungkinkan
+ISS1767,15/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,19011,0.71,Tunda pengiriman hingga cuaca membaik
+ISS1768,03/06/2025,Tanjung Priok,Overload,Angin Kencang,15162,0.78,Alihkan ke pelabuhan terdekat
+ISS1769,02/07/2025,Makassar,Force Majeure,Angin Kencang,19063,0.92,Tambahkan armada ke pelabuhan
+ISS1770,04/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,6131,0.13,Percepat proses bongkar saat cuaca memungkinkan
+ISS1771,09/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,8464,0.92,Percepat proses bongkar saat cuaca memungkinkan
+ISS1772,18/07/2025,Makassar,Overload,Cerah,4376,0.28,Koordinasi dengan otoritas pelabuhan
+ISS1773,23/06/2025,Makassar,Force Majeure,Angin Kencang,5990,0.92,Percepat proses bongkar saat cuaca memungkinkan
+ISS1774,30/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,11309,0.43,Aktifkan jalur logistik alternatif
+ISS1775,17/06/2025,Belawan,Overload,Cerah,11029,0.14,Tunda pengiriman hingga cuaca membaik
+ISS1776,10/06/2025,Tanjung Perak,Overload,Cerah,6106,0.13,Tambahkan armada ke pelabuhan
+ISS1777,11/07/2025,Bitung,Cuaca Buruk,Angin Kencang,19699,0.28,Alihkan kontainer ke terminal lain
+ISS1778,09/06/2025,Belawan,Force Majeure,Kabut Tebal,14121,0.54,Percepat proses bongkar saat cuaca memungkinkan
+ISS1779,08/07/2025,Tanjung Priok,Force Majeure,Badai,4390,0.61,Alokasikan ke terminal cadangan
+ISS1780,09/07/2025,Belawan,Cuaca Buruk,Hujan Deras,18629,0.91,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1781,20/06/2025,Bitung,Cuaca Buruk,Badai,10128,0.15,Percepat proses bongkar saat cuaca memungkinkan
+ISS1782,25/06/2025,Belawan,Overload,Hujan Deras,8074,0.1,Tunda pengiriman hingga cuaca membaik
+ISS1783,29/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,17642,0.85,Tambahkan armada ke pelabuhan
+ISS1784,28/06/2025,Makassar,Force Majeure,Angin Kencang,18874,0.51,Tunda pengiriman hingga cuaca membaik
+ISS1785,14/07/2025,Makassar,Force Majeure,Angin Kencang,5389,0.5,Koordinasi dengan otoritas pelabuhan
+ISS1786,19/07/2025,Bitung,Force Majeure,Angin Kencang,5564,0.68,Percepat proses bongkar saat cuaca memungkinkan
+ISS1787,30/07/2025,Bitung,Overload,Angin Kencang,16821,0.41,Alokasikan ke terminal cadangan
+ISS1788,14/06/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,10262,0.2,Alihkan ke pelabuhan terdekat
+ISS1789,19/06/2025,Tanjung Priok,Force Majeure,Cerah,14934,0.91,Alokasikan ke terminal cadangan
+ISS1790,03/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,9628,0.39,Alihkan kontainer ke terminal lain
+ISS1791,01/06/2025,Bitung,Overload,Angin Kencang,13442,0.67,Percepat proses bongkar saat cuaca memungkinkan
+ISS1792,27/06/2025,Belawan,Cuaca Buruk,Cerah,16391,0.61,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1793,10/06/2025,Makassar,Force Majeure,Badai,12539,0.7,Alihkan ke pelabuhan terdekat
+ISS1794,27/07/2025,Makassar,Force Majeure,Angin Kencang,16230,0.25,Alihkan kontainer ke terminal lain
+ISS1795,30/06/2025,Makassar,Force Majeure,Angin Kencang,10728,0.37,Tambahkan armada ke pelabuhan
+ISS1796,01/06/2025,Belawan,Cuaca Buruk,Badai,16579,0.51,Tambahkan armada ke pelabuhan
+ISS1797,26/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,13140,0.64,Aktifkan jalur logistik alternatif
+ISS1798,21/06/2025,Belawan,Overload,Kabut Tebal,11823,0.9,Aktifkan jalur logistik alternatif
+ISS1799,07/07/2025,Makassar,Cuaca Buruk,Hujan Deras,16120,0.71,Tunda pengiriman hingga cuaca membaik
+ISS1800,30/07/2025,Belawan,Cuaca Buruk,Angin Kencang,19043,0.85,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1801,06/07/2025,Bitung,Cuaca Buruk,Hujan Deras,7368,0.16,Koordinasi dengan otoritas pelabuhan
+ISS1802,02/06/2025,Bitung,Overload,Badai,18139,0.79,Alihkan ke pelabuhan terdekat
+ISS1803,06/07/2025,Makassar,Overload,Badai,3079,0.74,Tunda pengiriman hingga cuaca membaik
+ISS1804,22/07/2025,Belawan,Cuaca Buruk,Badai,6212,0.63,Koordinasi dengan otoritas pelabuhan
+ISS1805,16/06/2025,Makassar,Force Majeure,Badai,2855,0.26,Percepat proses bongkar saat cuaca memungkinkan
+ISS1806,21/07/2025,Tanjung Perak,Force Majeure,Badai,6142,0.49,Tunda pengiriman hingga cuaca membaik
+ISS1807,07/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,8653,0.26,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1808,29/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,6892,0.22,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1809,22/06/2025,Makassar,Force Majeure,Cerah,9540,0.41,Tunda pengiriman hingga cuaca membaik
+ISS1810,25/07/2025,Tanjung Priok,Cuaca Buruk,Badai,17654,0.34,Tunda pengiriman hingga cuaca membaik
+ISS1811,30/06/2025,Belawan,Cuaca Buruk,Angin Kencang,4330,0.18,Alokasikan ke terminal cadangan
+ISS1812,03/07/2025,Makassar,Force Majeure,Hujan Deras,16343,0.25,Tambahkan armada ke pelabuhan
+ISS1813,13/07/2025,Makassar,Overload,Kabut Tebal,18346,0.76,Tunda pengiriman hingga cuaca membaik
+ISS1814,11/07/2025,Tanjung Priok,Overload,Badai,8231,0.13,Alokasikan ke terminal cadangan
+ISS1815,26/07/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,11891,0.67,Koordinasi dengan otoritas pelabuhan
+ISS1816,20/06/2025,Belawan,Cuaca Buruk,Badai,19532,0.64,Aktifkan jalur logistik alternatif
+ISS1817,29/07/2025,Bitung,Overload,Cerah,19663,0.37,Tunda pengiriman hingga cuaca membaik
+ISS1818,27/06/2025,Bitung,Cuaca Buruk,Angin Kencang,10966,0.34,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1819,10/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,10016,0.21,Alihkan ke pelabuhan terdekat
+ISS1820,09/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,5716,0.56,Tambahkan armada ke pelabuhan
+ISS1821,23/07/2025,Makassar,Overload,Badai,7238,0.37,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1822,07/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,14753,0.64,Alihkan kontainer ke terminal lain
+ISS1823,07/06/2025,Tanjung Priok,Overload,Badai,7334,0.27,Percepat proses bongkar saat cuaca memungkinkan
+ISS1824,19/07/2025,Bitung,Overload,Kabut Tebal,7298,0.81,Alihkan kontainer ke terminal lain
+ISS1825,24/07/2025,Tanjung Perak,Overload,Cerah,5859,0.18,Alokasikan ke terminal cadangan
+ISS1826,29/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,9815,0.77,Alokasikan ke terminal cadangan
+ISS1827,01/07/2025,Belawan,Force Majeure,Badai,3345,0.14,Alihkan kontainer ke terminal lain
+ISS1828,01/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,5937,0.52,Aktifkan jalur logistik alternatif
+ISS1829,10/07/2025,Bitung,Cuaca Buruk,Badai,12458,0.89,Alihkan kontainer ke terminal lain
+ISS1830,27/07/2025,Tanjung Perak,Overload,Hujan Deras,16544,0.31,Percepat proses bongkar saat cuaca memungkinkan
+ISS1831,24/06/2025,Tanjung Perak,Force Majeure,Hujan Deras,14083,0.79,Alokasikan ke terminal cadangan
+ISS1832,16/06/2025,Makassar,Force Majeure,Kabut Tebal,16066,0.85,Alokasikan ke terminal cadangan
+ISS1833,12/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,17199,0.81,Alihkan ke pelabuhan terdekat
+ISS1834,23/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,4300,0.64,Tunda pengiriman hingga cuaca membaik
+ISS1835,21/07/2025,Tanjung Priok,Force Majeure,Cerah,4600,0.14,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1836,19/07/2025,Belawan,Cuaca Buruk,Angin Kencang,13525,0.25,Percepat proses bongkar saat cuaca memungkinkan
+ISS1837,28/06/2025,Tanjung Priok,Cuaca Buruk,Badai,8151,0.9,Alihkan ke pelabuhan terdekat
+ISS1838,17/07/2025,Makassar,Overload,Kabut Tebal,14770,0.84,Koordinasi dengan otoritas pelabuhan
+ISS1839,23/06/2025,Tanjung Priok,Overload,Angin Kencang,3661,0.18,Koordinasi dengan otoritas pelabuhan
+ISS1840,17/06/2025,Tanjung Perak,Overload,Cerah,8454,0.48,Alokasikan ke terminal cadangan
+ISS1841,13/06/2025,Makassar,Overload,Kabut Tebal,10042,0.61,Tambahkan armada ke pelabuhan
+ISS1842,20/06/2025,Bitung,Overload,Cerah,4003,0.81,Alokasikan ke terminal cadangan
+ISS1843,11/07/2025,Belawan,Cuaca Buruk,Angin Kencang,7342,0.58,Alokasikan ke terminal cadangan
+ISS1844,23/07/2025,Belawan,Overload,Badai,19549,0.25,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1845,25/06/2025,Tanjung Priok,Force Majeure,Cerah,6600,0.27,Percepat proses bongkar saat cuaca memungkinkan
+ISS1846,07/06/2025,Tanjung Priok,Cuaca Buruk,Badai,14895,0.66,Alokasikan ke terminal cadangan
+ISS1847,04/07/2025,Makassar,Force Majeure,Angin Kencang,16605,0.28,Tunda pengiriman hingga cuaca membaik
+ISS1848,07/07/2025,Makassar,Force Majeure,Cerah,8093,0.51,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1849,26/07/2025,Bitung,Overload,Kabut Tebal,11839,0.52,Tunda pengiriman hingga cuaca membaik
+ISS1850,13/07/2025,Belawan,Overload,Kabut Tebal,18846,0.91,Tunda pengiriman hingga cuaca membaik
+ISS1851,14/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,6187,0.77,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1852,02/06/2025,Belawan,Overload,Kabut Tebal,2330,0.8,Tambahkan armada ke pelabuhan
+ISS1853,06/06/2025,Belawan,Cuaca Buruk,Badai,10965,0.16,Percepat proses bongkar saat cuaca memungkinkan
+ISS1854,02/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,12580,0.91,Koordinasi dengan otoritas pelabuhan
+ISS1855,09/06/2025,Belawan,Overload,Badai,5188,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS1856,20/06/2025,Bitung,Cuaca Buruk,Badai,13514,0.67,Alihkan kontainer ke terminal lain
+ISS1857,19/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,17849,0.19,Percepat proses bongkar saat cuaca memungkinkan
+ISS1858,25/06/2025,Bitung,Overload,Kabut Tebal,5787,0.13,Percepat proses bongkar saat cuaca memungkinkan
+ISS1859,25/06/2025,Makassar,Cuaca Buruk,Badai,8439,0.56,Tambahkan armada ke pelabuhan
+ISS1860,19/07/2025,Belawan,Overload,Angin Kencang,19114,0.5,Tambahkan armada ke pelabuhan
+ISS1861,22/06/2025,Makassar,Overload,Hujan Deras,12449,0.46,Alokasikan ke terminal cadangan
+ISS1862,01/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,19883,0.16,Alihkan ke pelabuhan terdekat
+ISS1863,25/07/2025,Bitung,Force Majeure,Angin Kencang,3287,0.38,Tambahkan armada ke pelabuhan
+ISS1864,13/06/2025,Bitung,Overload,Hujan Deras,4213,0.95,Koordinasi dengan otoritas pelabuhan
+ISS1865,02/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,8831,0.64,Alokasikan ke terminal cadangan
+ISS1866,09/07/2025,Tanjung Priok,Force Majeure,Cerah,2514,0.72,Aktifkan jalur logistik alternatif
+ISS1867,30/06/2025,Makassar,Cuaca Buruk,Kabut Tebal,14214,0.6,Tambahkan armada ke pelabuhan
+ISS1868,07/07/2025,Bitung,Force Majeure,Hujan Deras,15292,0.77,Tunda pengiriman hingga cuaca membaik
+ISS1869,29/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,14357,0.61,Aktifkan jalur logistik alternatif
+ISS1870,30/07/2025,Bitung,Cuaca Buruk,Cerah,16739,0.66,Tambahkan armada ke pelabuhan
+ISS1871,14/07/2025,Tanjung Perak,Overload,Kabut Tebal,2427,0.28,Tambahkan armada ke pelabuhan
+ISS1872,05/06/2025,Belawan,Cuaca Buruk,Hujan Deras,19402,0.42,Percepat proses bongkar saat cuaca memungkinkan
+ISS1873,07/07/2025,Belawan,Overload,Angin Kencang,8783,0.17,Alihkan kontainer ke terminal lain
+ISS1874,28/06/2025,Makassar,Overload,Cerah,7414,0.5,Aktifkan jalur logistik alternatif
+ISS1875,27/07/2025,Tanjung Priok,Cuaca Buruk,Badai,14673,0.43,Alihkan ke pelabuhan terdekat
+ISS1876,22/07/2025,Tanjung Perak,Overload,Kabut Tebal,7181,0.84,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1877,29/06/2025,Tanjung Priok,Cuaca Buruk,Badai,15639,0.48,Percepat proses bongkar saat cuaca memungkinkan
+ISS1878,02/07/2025,Makassar,Overload,Cerah,11203,0.28,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1879,19/07/2025,Tanjung Perak,Overload,Cerah,4895,0.79,Tambahkan armada ke pelabuhan
+ISS1880,28/06/2025,Belawan,Overload,Kabut Tebal,10492,0.5,Aktifkan jalur logistik alternatif
+ISS1881,01/06/2025,Belawan,Cuaca Buruk,Angin Kencang,7465,0.5,Aktifkan jalur logistik alternatif
+ISS1882,15/07/2025,Tanjung Priok,Cuaca Buruk,Badai,7789,0.48,Alihkan kontainer ke terminal lain
+ISS1883,04/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,11045,0.36,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1884,25/06/2025,Belawan,Overload,Badai,13401,0.41,Alihkan ke pelabuhan terdekat
+ISS1885,24/07/2025,Makassar,Overload,Badai,15882,0.26,Tambahkan armada ke pelabuhan
+ISS1886,19/07/2025,Bitung,Force Majeure,Hujan Deras,9305,0.39,Percepat proses bongkar saat cuaca memungkinkan
+ISS1887,14/07/2025,Tanjung Priok,Cuaca Buruk,Cerah,16671,0.84,Alokasikan ke terminal cadangan
+ISS1888,04/07/2025,Tanjung Perak,Cuaca Buruk,Badai,15727,0.71,Alihkan ke pelabuhan terdekat
+ISS1889,24/06/2025,Tanjung Perak,Overload,Badai,6567,0.21,Percepat proses bongkar saat cuaca memungkinkan
+ISS1890,27/07/2025,Makassar,Force Majeure,Cerah,7379,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS1891,16/07/2025,Belawan,Overload,Badai,9779,0.78,Tambahkan armada ke pelabuhan
+ISS1892,23/07/2025,Bitung,Force Majeure,Kabut Tebal,16164,0.56,Koordinasi dengan otoritas pelabuhan
+ISS1893,30/07/2025,Bitung,Force Majeure,Angin Kencang,17747,0.86,Alokasikan ke terminal cadangan
+ISS1894,01/07/2025,Belawan,Overload,Angin Kencang,15203,0.69,Tambahkan armada ke pelabuhan
+ISS1895,25/06/2025,Makassar,Force Majeure,Hujan Deras,14613,0.16,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1896,03/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,6203,0.21,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1897,03/06/2025,Tanjung Perak,Force Majeure,Kabut Tebal,17229,0.83,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1898,04/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,4586,0.57,Koordinasi dengan otoritas pelabuhan
+ISS1899,23/07/2025,Belawan,Force Majeure,Angin Kencang,15287,0.62,Alihkan ke pelabuhan terdekat
+ISS1900,20/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,4698,0.71,Alihkan kontainer ke terminal lain
+ISS1901,13/07/2025,Belawan,Cuaca Buruk,Hujan Deras,18644,0.77,Aktifkan jalur logistik alternatif
+ISS1902,15/06/2025,Makassar,Force Majeure,Hujan Deras,16756,0.36,Aktifkan jalur logistik alternatif
+ISS1903,10/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,16073,0.31,Alokasikan ke terminal cadangan
+ISS1904,06/07/2025,Bitung,Cuaca Buruk,Hujan Deras,15114,0.5,Alihkan ke pelabuhan terdekat
+ISS1905,03/07/2025,Bitung,Overload,Cerah,9063,0.48,Alihkan kontainer ke terminal lain
+ISS1906,26/06/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,19846,0.63,Percepat proses bongkar saat cuaca memungkinkan
+ISS1907,09/06/2025,Bitung,Force Majeure,Cerah,2977,0.32,Aktifkan jalur logistik alternatif
+ISS1908,24/06/2025,Belawan,Overload,Badai,15186,0.9,Koordinasi dengan otoritas pelabuhan
+ISS1909,21/07/2025,Belawan,Overload,Cerah,19846,0.23,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1910,08/06/2025,Belawan,Cuaca Buruk,Angin Kencang,13972,0.71,Percepat proses bongkar saat cuaca memungkinkan
+ISS1911,01/07/2025,Makassar,Force Majeure,Angin Kencang,3981,0.68,Tunda pengiriman hingga cuaca membaik
+ISS1912,24/06/2025,Makassar,Force Majeure,Angin Kencang,11526,0.47,Koordinasi dengan otoritas pelabuhan
+ISS1913,13/07/2025,Tanjung Priok,Force Majeure,Angin Kencang,3619,0.6,Tambahkan armada ke pelabuhan
+ISS1914,30/06/2025,Tanjung Priok,Overload,Hujan Deras,19048,0.15,Alihkan kontainer ke terminal lain
+ISS1915,13/07/2025,Tanjung Perak,Overload,Kabut Tebal,8859,0.2,Alihkan ke pelabuhan terdekat
+ISS1916,30/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,19078,0.92,Alihkan ke pelabuhan terdekat
+ISS1917,21/07/2025,Tanjung Perak,Force Majeure,Cerah,3631,0.95,Percepat proses bongkar saat cuaca memungkinkan
+ISS1918,26/06/2025,Bitung,Force Majeure,Kabut Tebal,5542,0.24,Percepat proses bongkar saat cuaca memungkinkan
+ISS1919,12/06/2025,Belawan,Force Majeure,Cerah,3148,0.12,Alihkan ke pelabuhan terdekat
+ISS1920,28/07/2025,Bitung,Force Majeure,Hujan Deras,12409,0.25,Tambahkan armada ke pelabuhan
+ISS1921,03/06/2025,Bitung,Overload,Kabut Tebal,14770,0.52,Alihkan ke pelabuhan terdekat
+ISS1922,07/06/2025,Belawan,Cuaca Buruk,Kabut Tebal,13074,0.88,Aktifkan jalur logistik alternatif
+ISS1923,17/06/2025,Belawan,Cuaca Buruk,Angin Kencang,11538,0.93,Alokasikan ke terminal cadangan
+ISS1924,09/07/2025,Belawan,Overload,Angin Kencang,16331,0.44,Alokasikan ke terminal cadangan
+ISS1925,17/06/2025,Tanjung Perak,Overload,Badai,10343,0.47,Alihkan ke pelabuhan terdekat
+ISS1926,20/06/2025,Bitung,Overload,Angin Kencang,11846,0.22,Koordinasi dengan otoritas pelabuhan
+ISS1927,20/07/2025,Bitung,Force Majeure,Angin Kencang,18792,0.7,Percepat proses bongkar saat cuaca memungkinkan
+ISS1928,07/07/2025,Belawan,Overload,Badai,4285,0.54,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1929,17/06/2025,Belawan,Force Majeure,Cerah,9012,0.22,Percepat proses bongkar saat cuaca memungkinkan
+ISS1930,12/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,19977,0.54,Alokasikan ke terminal cadangan
+ISS1931,04/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,13228,0.81,Percepat proses bongkar saat cuaca memungkinkan
+ISS1932,11/07/2025,Makassar,Force Majeure,Cerah,7909,0.23,Tunda pengiriman hingga cuaca membaik
+ISS1933,07/06/2025,Belawan,Cuaca Buruk,Angin Kencang,3574,0.62,Percepat proses bongkar saat cuaca memungkinkan
+ISS1934,26/06/2025,Tanjung Perak,Force Majeure,Badai,9391,0.34,Tunda pengiriman hingga cuaca membaik
+ISS1935,19/07/2025,Makassar,Overload,Angin Kencang,14991,0.48,Alokasikan ke terminal cadangan
+ISS1936,13/07/2025,Tanjung Perak,Cuaca Buruk,Cerah,9646,0.29,Alokasikan ke terminal cadangan
+ISS1937,25/07/2025,Tanjung Perak,Force Majeure,Badai,2652,0.21,Aktifkan jalur logistik alternatif
+ISS1938,05/06/2025,Belawan,Cuaca Buruk,Angin Kencang,17336,0.88,Percepat proses bongkar saat cuaca memungkinkan
+ISS1939,03/07/2025,Tanjung Perak,Cuaca Buruk,Angin Kencang,13611,0.44,Tambahkan armada ke pelabuhan
+ISS1940,20/06/2025,Makassar,Overload,Angin Kencang,8585,0.11,Koordinasi dengan otoritas pelabuhan
+ISS1941,03/07/2025,Makassar,Force Majeure,Angin Kencang,11034,0.39,Tunda pengiriman hingga cuaca membaik
+ISS1942,16/07/2025,Makassar,Cuaca Buruk,Badai,8552,0.5,Alihkan kontainer ke terminal lain
+ISS1943,08/06/2025,Bitung,Overload,Hujan Deras,18193,0.92,Alihkan ke pelabuhan terdekat
+ISS1944,19/07/2025,Makassar,Force Majeure,Kabut Tebal,15337,0.8,Aktifkan jalur logistik alternatif
+ISS1945,22/06/2025,Tanjung Priok,Force Majeure,Hujan Deras,7367,0.79,Alihkan kontainer ke terminal lain
+ISS1946,02/07/2025,Tanjung Priok,Force Majeure,Kabut Tebal,7191,0.5,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1947,16/07/2025,Tanjung Perak,Force Majeure,Hujan Deras,4609,0.12,Alokasikan ke terminal cadangan
+ISS1948,17/07/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,17910,0.78,Aktifkan jalur logistik alternatif
+ISS1949,15/07/2025,Bitung,Overload,Badai,16413,0.89,Tambahkan armada ke pelabuhan
+ISS1950,28/07/2025,Tanjung Priok,Cuaca Buruk,Badai,19336,0.7,Koordinasi dengan otoritas pelabuhan
+ISS1951,01/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,11095,0.68,Tambahkan armada ke pelabuhan
+ISS1952,03/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,16051,0.89,Percepat proses bongkar saat cuaca memungkinkan
+ISS1953,20/06/2025,Makassar,Force Majeure,Cerah,16060,0.79,Aktifkan jalur logistik alternatif
+ISS1954,10/07/2025,Belawan,Force Majeure,Cerah,19128,0.36,Aktifkan jalur logistik alternatif
+ISS1955,05/07/2025,Belawan,Cuaca Buruk,Hujan Deras,5378,0.61,Tambahkan armada ke pelabuhan
+ISS1956,08/06/2025,Tanjung Priok,Force Majeure,Cerah,4159,0.76,Koordinasi dengan otoritas pelabuhan
+ISS1957,17/06/2025,Makassar,Force Majeure,Badai,19055,0.59,Alihkan ke pelabuhan terdekat
+ISS1958,08/07/2025,Tanjung Perak,Overload,Angin Kencang,14005,0.33,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1959,21/06/2025,Makassar,Cuaca Buruk,Angin Kencang,10030,0.31,Koordinasi dengan otoritas pelabuhan
+ISS1960,14/07/2025,Belawan,Overload,Angin Kencang,6326,0.17,Aktifkan jalur logistik alternatif
+ISS1961,09/07/2025,Makassar,Overload,Hujan Deras,11445,0.58,Tunda pengiriman hingga cuaca membaik
+ISS1962,20/06/2025,Belawan,Force Majeure,Kabut Tebal,6446,0.72,Alokasikan ke terminal cadangan
+ISS1963,09/06/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,11296,0.13,Percepat proses bongkar saat cuaca memungkinkan
+ISS1964,17/07/2025,Bitung,Cuaca Buruk,Badai,13108,0.71,Alihkan kontainer ke terminal lain
+ISS1965,30/06/2025,Tanjung Perak,Overload,Angin Kencang,6916,0.29,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1966,23/07/2025,Belawan,Overload,Badai,7116,0.75,Alokasikan ke terminal cadangan
+ISS1967,28/06/2025,Tanjung Perak,Force Majeure,Badai,8929,0.22,Alokasikan ke terminal cadangan
+ISS1968,16/06/2025,Tanjung Priok,Cuaca Buruk,Kabut Tebal,13338,0.86,Percepat proses bongkar saat cuaca memungkinkan
+ISS1969,17/07/2025,Tanjung Perak,Cuaca Buruk,Hujan Deras,10595,0.27,Alihkan kontainer ke terminal lain
+ISS1970,20/06/2025,Tanjung Priok,Force Majeure,Angin Kencang,15891,0.71,Tunda pengiriman hingga cuaca membaik
+ISS1971,18/07/2025,Bitung,Overload,Badai,5787,0.83,Tambahkan armada ke pelabuhan
+ISS1972,09/06/2025,Tanjung Perak,Force Majeure,Angin Kencang,14702,0.13,Alokasikan ke terminal cadangan
+ISS1973,04/07/2025,Belawan,Overload,Angin Kencang,4464,0.73,Tunda pengiriman hingga cuaca membaik
+ISS1974,11/06/2025,Tanjung Priok,Overload,Hujan Deras,2456,0.91,Alihkan ke pelabuhan terdekat
+ISS1975,02/06/2025,Belawan,Overload,Angin Kencang,15072,0.89,Alihkan kontainer ke terminal lain
+ISS1976,28/06/2025,Tanjung Perak,Cuaca Buruk,Cerah,8538,0.44,Jadwalkan ulang pengiriman di luar jam sibuk
+ISS1977,06/07/2025,Tanjung Perak,Force Majeure,Badai,18604,0.61,Aktifkan jalur logistik alternatif
+ISS1978,06/06/2025,Bitung,Force Majeure,Badai,10400,0.61,Tambahkan armada ke pelabuhan
+ISS1979,19/06/2025,Tanjung Priok,Cuaca Buruk,Angin Kencang,9759,0.43,Percepat proses bongkar saat cuaca memungkinkan
+ISS1980,20/06/2025,Tanjung Priok,Cuaca Buruk,Cerah,14646,0.8,Tambahkan armada ke pelabuhan
+ISS1981,06/07/2025,Belawan,Overload,Badai,19534,0.9,Tambahkan armada ke pelabuhan
+ISS1982,25/06/2025,Makassar,Force Majeure,Angin Kencang,17087,0.46,Alihkan ke pelabuhan terdekat
+ISS1983,22/07/2025,Tanjung Perak,Cuaca Buruk,Kabut Tebal,11438,0.86,Percepat proses bongkar saat cuaca memungkinkan
+ISS1984,10/06/2025,Makassar,Force Majeure,Angin Kencang,12338,0.51,Percepat proses bongkar saat cuaca memungkinkan
+ISS1985,10/06/2025,Belawan,Cuaca Buruk,Badai,17819,0.82,Tambahkan armada ke pelabuhan
+ISS1986,03/06/2025,Tanjung Perak,Overload,Cerah,18577,0.51,Tunda pengiriman hingga cuaca membaik
+ISS1987,13/06/2025,Makassar,Force Majeure,Hujan Deras,17301,0.56,Tambahkan armada ke pelabuhan
+ISS1988,23/06/2025,Bitung,Overload,Cerah,12849,0.5,Aktifkan jalur logistik alternatif
+ISS1989,14/06/2025,Bitung,Cuaca Buruk,Badai,3108,0.34,Alihkan ke pelabuhan terdekat
+ISS1990,01/06/2025,Bitung,Overload,Cerah,6770,0.48,Aktifkan jalur logistik alternatif
+ISS1991,08/06/2025,Tanjung Perak,Overload,Cerah,9426,0.85,Alokasikan ke terminal cadangan
+ISS1992,18/06/2025,Tanjung Perak,Force Majeure,Cerah,8964,0.64,Alihkan ke pelabuhan terdekat
+ISS1993,13/06/2025,Belawan,Cuaca Buruk,Angin Kencang,9400,0.48,Percepat proses bongkar saat cuaca memungkinkan
+ISS1994,30/07/2025,Tanjung Perak,Force Majeure,Cerah,7255,0.38,Alihkan kontainer ke terminal lain
+ISS1995,15/07/2025,Belawan,Force Majeure,Badai,15469,0.42,Aktifkan jalur logistik alternatif
+ISS1996,23/07/2025,Makassar,Overload,Badai,15432,0.93,Percepat proses bongkar saat cuaca memungkinkan
+ISS1997,27/06/2025,Bitung,Overload,Kabut Tebal,17029,0.67,Alihkan kontainer ke terminal lain
+ISS1998,28/06/2025,Bitung,Cuaca Buruk,Badai,5294,0.75,Percepat proses bongkar saat cuaca memungkinkan
+ISS1999,07/06/2025,Tanjung Priok,Cuaca Buruk,Hujan Deras,6403,0.9,Alihkan kontainer ke terminal lain
+ISS2000,29/07/2025,Bitung,Cuaca Buruk,Kabut Tebal,2606,0.86,Tambahkan armada ke pelabuhan
